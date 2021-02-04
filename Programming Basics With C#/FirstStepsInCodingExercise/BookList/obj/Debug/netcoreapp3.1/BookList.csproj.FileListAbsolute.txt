@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\SecondLecture\BookList\bin\Debug\netcoreapp3.1\BookList.exe
+C:\Users\ABC\source\repos\SecondLecture\BookList\bin\Debug\netcoreapp3.1\BookList.deps.json
+C:\Users\ABC\source\repos\SecondLecture\BookList\bin\Debug\netcoreapp3.1\BookList.runtimeconfig.json
+C:\Users\ABC\source\repos\SecondLecture\BookList\bin\Debug\netcoreapp3.1\BookList.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\SecondLecture\BookList\bin\Debug\netcoreapp3.1\BookList.dll
+C:\Users\ABC\source\repos\SecondLecture\BookList\bin\Debug\netcoreapp3.1\BookList.pdb
+C:\Users\ABC\source\repos\SecondLecture\BookList\obj\Debug\netcoreapp3.1\BookList.csprojAssemblyReference.cache
+C:\Users\ABC\source\repos\SecondLecture\BookList\obj\Debug\netcoreapp3.1\BookList.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\SecondLecture\BookList\obj\Debug\netcoreapp3.1\BookList.AssemblyInfo.cs
+C:\Users\ABC\source\repos\SecondLecture\BookList\obj\Debug\netcoreapp3.1\BookList.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\SecondLecture\BookList\obj\Debug\netcoreapp3.1\BookList.dll
+C:\Users\ABC\source\repos\SecondLecture\BookList\obj\Debug\netcoreapp3.1\BookList.pdb
+C:\Users\ABC\source\repos\SecondLecture\BookList\obj\Debug\netcoreapp3.1\BookList.genruntimeconfig.cache

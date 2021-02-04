@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\SecondLecture\RadToDeg\bin\Debug\netcoreapp3.1\RadToDeg.exe
+C:\Users\ABC\source\repos\SecondLecture\RadToDeg\bin\Debug\netcoreapp3.1\RadToDeg.deps.json
+C:\Users\ABC\source\repos\SecondLecture\RadToDeg\bin\Debug\netcoreapp3.1\RadToDeg.runtimeconfig.json
+C:\Users\ABC\source\repos\SecondLecture\RadToDeg\bin\Debug\netcoreapp3.1\RadToDeg.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\SecondLecture\RadToDeg\bin\Debug\netcoreapp3.1\RadToDeg.dll
+C:\Users\ABC\source\repos\SecondLecture\RadToDeg\bin\Debug\netcoreapp3.1\RadToDeg.pdb
+C:\Users\ABC\source\repos\SecondLecture\RadToDeg\obj\Debug\netcoreapp3.1\RadToDeg.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\SecondLecture\RadToDeg\obj\Debug\netcoreapp3.1\RadToDeg.AssemblyInfo.cs
+C:\Users\ABC\source\repos\SecondLecture\RadToDeg\obj\Debug\netcoreapp3.1\RadToDeg.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\SecondLecture\RadToDeg\obj\Debug\netcoreapp3.1\RadToDeg.dll
+C:\Users\ABC\source\repos\SecondLecture\RadToDeg\obj\Debug\netcoreapp3.1\RadToDeg.pdb
+C:\Users\ABC\source\repos\SecondLecture\RadToDeg\obj\Debug\netcoreapp3.1\RadToDeg.genruntimeconfig.cache
+C:\Users\ABC\source\repos\SecondLecture\RadToDeg\obj\Debug\netcoreapp3.1\RadToDeg.csprojAssemblyReference.cache

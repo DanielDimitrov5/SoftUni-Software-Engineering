@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\SecondLecture\depoditCalculator\bin\Debug\netcoreapp3.1\depoditCalculator.exe
+C:\Users\ABC\source\repos\SecondLecture\depoditCalculator\bin\Debug\netcoreapp3.1\depoditCalculator.deps.json
+C:\Users\ABC\source\repos\SecondLecture\depoditCalculator\bin\Debug\netcoreapp3.1\depoditCalculator.runtimeconfig.json
+C:\Users\ABC\source\repos\SecondLecture\depoditCalculator\bin\Debug\netcoreapp3.1\depoditCalculator.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\SecondLecture\depoditCalculator\bin\Debug\netcoreapp3.1\depoditCalculator.dll
+C:\Users\ABC\source\repos\SecondLecture\depoditCalculator\bin\Debug\netcoreapp3.1\depoditCalculator.pdb
+C:\Users\ABC\source\repos\SecondLecture\depoditCalculator\obj\Debug\netcoreapp3.1\depoditCalculator.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\SecondLecture\depoditCalculator\obj\Debug\netcoreapp3.1\depoditCalculator.AssemblyInfo.cs
+C:\Users\ABC\source\repos\SecondLecture\depoditCalculator\obj\Debug\netcoreapp3.1\depoditCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\SecondLecture\depoditCalculator\obj\Debug\netcoreapp3.1\depoditCalculator.dll
+C:\Users\ABC\source\repos\SecondLecture\depoditCalculator\obj\Debug\netcoreapp3.1\depoditCalculator.pdb
+C:\Users\ABC\source\repos\SecondLecture\depoditCalculator\obj\Debug\netcoreapp3.1\depoditCalculator.genruntimeconfig.cache
+C:\Users\ABC\source\repos\SecondLecture\depoditCalculator\obj\Debug\netcoreapp3.1\depoditCalculator.csprojAssemblyReference.cache

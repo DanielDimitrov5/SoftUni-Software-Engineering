@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\SecondLecture\FishTank\bin\Debug\netcoreapp3.1\FishTank.exe
+C:\Users\ABC\source\repos\SecondLecture\FishTank\bin\Debug\netcoreapp3.1\FishTank.deps.json
+C:\Users\ABC\source\repos\SecondLecture\FishTank\bin\Debug\netcoreapp3.1\FishTank.runtimeconfig.json
+C:\Users\ABC\source\repos\SecondLecture\FishTank\bin\Debug\netcoreapp3.1\FishTank.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\SecondLecture\FishTank\bin\Debug\netcoreapp3.1\FishTank.dll
+C:\Users\ABC\source\repos\SecondLecture\FishTank\bin\Debug\netcoreapp3.1\FishTank.pdb
+C:\Users\ABC\source\repos\SecondLecture\FishTank\obj\Debug\netcoreapp3.1\FishTank.csprojAssemblyReference.cache
+C:\Users\ABC\source\repos\SecondLecture\FishTank\obj\Debug\netcoreapp3.1\FishTank.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\SecondLecture\FishTank\obj\Debug\netcoreapp3.1\FishTank.AssemblyInfo.cs
+C:\Users\ABC\source\repos\SecondLecture\FishTank\obj\Debug\netcoreapp3.1\FishTank.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\SecondLecture\FishTank\obj\Debug\netcoreapp3.1\FishTank.dll
+C:\Users\ABC\source\repos\SecondLecture\FishTank\obj\Debug\netcoreapp3.1\FishTank.pdb
+C:\Users\ABC\source\repos\SecondLecture\FishTank\obj\Debug\netcoreapp3.1\FishTank.genruntimeconfig.cache
