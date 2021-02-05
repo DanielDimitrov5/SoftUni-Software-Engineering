@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\IfAndElse\IfAndElse\bin\Debug\netcoreapp3.1\IfAndElse.exe
+C:\Users\ABC\source\repos\IfAndElse\IfAndElse\bin\Debug\netcoreapp3.1\IfAndElse.deps.json
+C:\Users\ABC\source\repos\IfAndElse\IfAndElse\bin\Debug\netcoreapp3.1\IfAndElse.runtimeconfig.json
+C:\Users\ABC\source\repos\IfAndElse\IfAndElse\bin\Debug\netcoreapp3.1\IfAndElse.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\IfAndElse\IfAndElse\bin\Debug\netcoreapp3.1\IfAndElse.dll
+C:\Users\ABC\source\repos\IfAndElse\IfAndElse\bin\Debug\netcoreapp3.1\IfAndElse.pdb
+C:\Users\ABC\source\repos\IfAndElse\IfAndElse\obj\Debug\netcoreapp3.1\IfAndElse.csprojAssemblyReference.cache
+C:\Users\ABC\source\repos\IfAndElse\IfAndElse\obj\Debug\netcoreapp3.1\IfAndElse.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\IfAndElse\IfAndElse\obj\Debug\netcoreapp3.1\IfAndElse.AssemblyInfo.cs
+C:\Users\ABC\source\repos\IfAndElse\IfAndElse\obj\Debug\netcoreapp3.1\IfAndElse.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\IfAndElse\IfAndElse\obj\Debug\netcoreapp3.1\IfAndElse.dll
+C:\Users\ABC\source\repos\IfAndElse\IfAndElse\obj\Debug\netcoreapp3.1\IfAndElse.pdb
+C:\Users\ABC\source\repos\IfAndElse\IfAndElse\obj\Debug\netcoreapp3.1\IfAndElse.genruntimeconfig.cache

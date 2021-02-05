@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\IfAndElse\Even or Odd\bin\Debug\netcoreapp3.1\Even or Odd.exe
+C:\Users\ABC\source\repos\IfAndElse\Even or Odd\bin\Debug\netcoreapp3.1\Even or Odd.deps.json
+C:\Users\ABC\source\repos\IfAndElse\Even or Odd\bin\Debug\netcoreapp3.1\Even or Odd.runtimeconfig.json
+C:\Users\ABC\source\repos\IfAndElse\Even or Odd\bin\Debug\netcoreapp3.1\Even or Odd.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\IfAndElse\Even or Odd\bin\Debug\netcoreapp3.1\Even or Odd.dll
+C:\Users\ABC\source\repos\IfAndElse\Even or Odd\bin\Debug\netcoreapp3.1\Even or Odd.pdb
+C:\Users\ABC\source\repos\IfAndElse\Even or Odd\obj\Debug\netcoreapp3.1\Even or Odd.csprojAssemblyReference.cache
+C:\Users\ABC\source\repos\IfAndElse\Even or Odd\obj\Debug\netcoreapp3.1\Even or Odd.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\IfAndElse\Even or Odd\obj\Debug\netcoreapp3.1\Even or Odd.AssemblyInfo.cs
+C:\Users\ABC\source\repos\IfAndElse\Even or Odd\obj\Debug\netcoreapp3.1\Even or Odd.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\IfAndElse\Even or Odd\obj\Debug\netcoreapp3.1\Even or Odd.dll
+C:\Users\ABC\source\repos\IfAndElse\Even or Odd\obj\Debug\netcoreapp3.1\Even or Odd.pdb
+C:\Users\ABC\source\repos\IfAndElse\Even or Odd\obj\Debug\netcoreapp3.1\Even or Odd.genruntimeconfig.cache
