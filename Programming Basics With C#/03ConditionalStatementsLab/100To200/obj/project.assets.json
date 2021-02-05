@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ABC\\source\\repos\\IfAndElse\\100To200\\100To200.csproj",
-      "projectName": "100To200",
-      "projectPath": "C:\\Users\\ABC\\source\\repos\\IfAndElse\\100To200\\100To200.csproj",
+      "projectUniqueName": "C:\\Users\\ABC\\source\\repos\\IfAndElse\\100 200\\100 200.csproj",
+      "projectName": "100 200",
+      "projectPath": "C:\\Users\\ABC\\source\\repos\\IfAndElse\\100 200\\100 200.csproj",
       "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ABC\\source\\repos\\IfAndElse\\100To200\\obj\\",
+      "outputPath": "C:\\Users\\ABC\\source\\repos\\IfAndElse\\100 200\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ABC\\AppData\\Roaming\\NuGet\\NuGet.Config",

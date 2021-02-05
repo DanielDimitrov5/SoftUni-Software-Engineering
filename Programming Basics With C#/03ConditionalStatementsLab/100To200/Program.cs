@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _100To200
+namespace _100_200
 {
     class Program
     {
@@ -13,20 +13,18 @@ namespace _100To200
             }
             else if (num >= 100)
             {
-                   if (num <= 200)
+                if (num <= 200)
                 {
                     Console.WriteLine("Between 100 and 200");
+
                 }
-
+                else if (num > 200)
+                {
+                    Console.WriteLine("Greater than 200");
+                }
             }
-            else if (num > 200)
-
-            {
-                Console.WriteLine("Greater than 200");
-            }
-
-
-
+            
+                
         }
     }
 }
