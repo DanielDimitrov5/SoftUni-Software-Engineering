@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\IfAndElseExercise\SwimmingRecord\bin\Debug\netcoreapp3.1\SwimmingRecord.exe
+C:\Users\ABC\source\repos\IfAndElseExercise\SwimmingRecord\bin\Debug\netcoreapp3.1\SwimmingRecord.deps.json
+C:\Users\ABC\source\repos\IfAndElseExercise\SwimmingRecord\bin\Debug\netcoreapp3.1\SwimmingRecord.runtimeconfig.json
+C:\Users\ABC\source\repos\IfAndElseExercise\SwimmingRecord\bin\Debug\netcoreapp3.1\SwimmingRecord.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\IfAndElseExercise\SwimmingRecord\bin\Debug\netcoreapp3.1\SwimmingRecord.dll
+C:\Users\ABC\source\repos\IfAndElseExercise\SwimmingRecord\bin\Debug\netcoreapp3.1\SwimmingRecord.pdb
+C:\Users\ABC\source\repos\IfAndElseExercise\SwimmingRecord\obj\Debug\netcoreapp3.1\SwimmingRecord.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\IfAndElseExercise\SwimmingRecord\obj\Debug\netcoreapp3.1\SwimmingRecord.AssemblyInfo.cs
+C:\Users\ABC\source\repos\IfAndElseExercise\SwimmingRecord\obj\Debug\netcoreapp3.1\SwimmingRecord.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\IfAndElseExercise\SwimmingRecord\obj\Debug\netcoreapp3.1\SwimmingRecord.dll
+C:\Users\ABC\source\repos\IfAndElseExercise\SwimmingRecord\obj\Debug\netcoreapp3.1\SwimmingRecord.pdb
+C:\Users\ABC\source\repos\IfAndElseExercise\SwimmingRecord\obj\Debug\netcoreapp3.1\SwimmingRecord.genruntimeconfig.cache
+C:\Users\ABC\source\repos\IfAndElseExercise\SwimmingRecord\obj\Debug\netcoreapp3.1\SwimmingRecord.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\IfAndElseExercise\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.exe
+C:\Users\ABC\source\repos\IfAndElseExercise\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.deps.json
+C:\Users\ABC\source\repos\IfAndElseExercise\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.runtimeconfig.json
+C:\Users\ABC\source\repos\IfAndElseExercise\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\IfAndElseExercise\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.dll
+C:\Users\ABC\source\repos\IfAndElseExercise\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.pdb
+C:\Users\ABC\source\repos\IfAndElseExercise\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.csprojAssemblyReference.cache
+C:\Users\ABC\source\repos\IfAndElseExercise\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\IfAndElseExercise\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.AssemblyInfo.cs
+C:\Users\ABC\source\repos\IfAndElseExercise\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\IfAndElseExercise\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.dll
+C:\Users\ABC\source\repos\IfAndElseExercise\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.pdb
+C:\Users\ABC\source\repos\IfAndElseExercise\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.genruntimeconfig.cache

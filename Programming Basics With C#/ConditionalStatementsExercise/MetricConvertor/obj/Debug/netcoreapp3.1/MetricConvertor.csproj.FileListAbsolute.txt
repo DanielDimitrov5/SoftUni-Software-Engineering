@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\IfAndElseExercise\MetricConvertor\bin\Debug\netcoreapp3.1\MetricConvertor.exe
+C:\Users\ABC\source\repos\IfAndElseExercise\MetricConvertor\bin\Debug\netcoreapp3.1\MetricConvertor.deps.json
+C:\Users\ABC\source\repos\IfAndElseExercise\MetricConvertor\bin\Debug\netcoreapp3.1\MetricConvertor.runtimeconfig.json
+C:\Users\ABC\source\repos\IfAndElseExercise\MetricConvertor\bin\Debug\netcoreapp3.1\MetricConvertor.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\IfAndElseExercise\MetricConvertor\bin\Debug\netcoreapp3.1\MetricConvertor.dll
+C:\Users\ABC\source\repos\IfAndElseExercise\MetricConvertor\bin\Debug\netcoreapp3.1\MetricConvertor.pdb
+C:\Users\ABC\source\repos\IfAndElseExercise\MetricConvertor\obj\Debug\netcoreapp3.1\MetricConvertor.csprojAssemblyReference.cache
+C:\Users\ABC\source\repos\IfAndElseExercise\MetricConvertor\obj\Debug\netcoreapp3.1\MetricConvertor.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\IfAndElseExercise\MetricConvertor\obj\Debug\netcoreapp3.1\MetricConvertor.AssemblyInfo.cs
+C:\Users\ABC\source\repos\IfAndElseExercise\MetricConvertor\obj\Debug\netcoreapp3.1\MetricConvertor.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\IfAndElseExercise\MetricConvertor\obj\Debug\netcoreapp3.1\MetricConvertor.dll
+C:\Users\ABC\source\repos\IfAndElseExercise\MetricConvertor\obj\Debug\netcoreapp3.1\MetricConvertor.pdb
+C:\Users\ABC\source\repos\IfAndElseExercise\MetricConvertor\obj\Debug\netcoreapp3.1\MetricConvertor.genruntimeconfig.cache

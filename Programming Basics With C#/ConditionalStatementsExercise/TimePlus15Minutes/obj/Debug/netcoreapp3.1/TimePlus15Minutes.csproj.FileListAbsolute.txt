@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\IfAndElseExercise\TimePlus15Minutes\bin\Debug\netcoreapp3.1\TimePlus15Minutes.exe
+C:\Users\ABC\source\repos\IfAndElseExercise\TimePlus15Minutes\bin\Debug\netcoreapp3.1\TimePlus15Minutes.deps.json
+C:\Users\ABC\source\repos\IfAndElseExercise\TimePlus15Minutes\bin\Debug\netcoreapp3.1\TimePlus15Minutes.runtimeconfig.json
+C:\Users\ABC\source\repos\IfAndElseExercise\TimePlus15Minutes\bin\Debug\netcoreapp3.1\TimePlus15Minutes.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\IfAndElseExercise\TimePlus15Minutes\bin\Debug\netcoreapp3.1\TimePlus15Minutes.dll
+C:\Users\ABC\source\repos\IfAndElseExercise\TimePlus15Minutes\bin\Debug\netcoreapp3.1\TimePlus15Minutes.pdb
+C:\Users\ABC\source\repos\IfAndElseExercise\TimePlus15Minutes\obj\Debug\netcoreapp3.1\TimePlus15Minutes.csprojAssemblyReference.cache
+C:\Users\ABC\source\repos\IfAndElseExercise\TimePlus15Minutes\obj\Debug\netcoreapp3.1\TimePlus15Minutes.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\IfAndElseExercise\TimePlus15Minutes\obj\Debug\netcoreapp3.1\TimePlus15Minutes.AssemblyInfo.cs
+C:\Users\ABC\source\repos\IfAndElseExercise\TimePlus15Minutes\obj\Debug\netcoreapp3.1\TimePlus15Minutes.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\IfAndElseExercise\TimePlus15Minutes\obj\Debug\netcoreapp3.1\TimePlus15Minutes.dll
+C:\Users\ABC\source\repos\IfAndElseExercise\TimePlus15Minutes\obj\Debug\netcoreapp3.1\TimePlus15Minutes.pdb
+C:\Users\ABC\source\repos\IfAndElseExercise\TimePlus15Minutes\obj\Debug\netcoreapp3.1\TimePlus15Minutes.genruntimeconfig.cache
