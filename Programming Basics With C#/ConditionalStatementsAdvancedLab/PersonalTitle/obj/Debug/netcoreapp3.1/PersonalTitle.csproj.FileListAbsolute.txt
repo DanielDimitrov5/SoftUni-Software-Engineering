@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\ConditionalStatements\PersonalTitle\bin\Debug\netcoreapp3.1\PersonalTitle.exe
+C:\Users\ABC\source\repos\ConditionalStatements\PersonalTitle\bin\Debug\netcoreapp3.1\PersonalTitle.deps.json
+C:\Users\ABC\source\repos\ConditionalStatements\PersonalTitle\bin\Debug\netcoreapp3.1\PersonalTitle.runtimeconfig.json
+C:\Users\ABC\source\repos\ConditionalStatements\PersonalTitle\bin\Debug\netcoreapp3.1\PersonalTitle.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\ConditionalStatements\PersonalTitle\bin\Debug\netcoreapp3.1\PersonalTitle.dll
+C:\Users\ABC\source\repos\ConditionalStatements\PersonalTitle\bin\Debug\netcoreapp3.1\PersonalTitle.pdb
+C:\Users\ABC\source\repos\ConditionalStatements\PersonalTitle\obj\Debug\netcoreapp3.1\PersonalTitle.csprojAssemblyReference.cache
+C:\Users\ABC\source\repos\ConditionalStatements\PersonalTitle\obj\Debug\netcoreapp3.1\PersonalTitle.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\ConditionalStatements\PersonalTitle\obj\Debug\netcoreapp3.1\PersonalTitle.AssemblyInfo.cs
+C:\Users\ABC\source\repos\ConditionalStatements\PersonalTitle\obj\Debug\netcoreapp3.1\PersonalTitle.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\ConditionalStatements\PersonalTitle\obj\Debug\netcoreapp3.1\PersonalTitle.dll
+C:\Users\ABC\source\repos\ConditionalStatements\PersonalTitle\obj\Debug\netcoreapp3.1\PersonalTitle.pdb
+C:\Users\ABC\source\repos\ConditionalStatements\PersonalTitle\obj\Debug\netcoreapp3.1\PersonalTitle.genruntimeconfig.cache

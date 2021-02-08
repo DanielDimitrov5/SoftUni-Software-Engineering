@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\ConditionalStatements\ClassAnimal\bin\Debug\netcoreapp3.1\ClassAnimal.exe
+C:\Users\ABC\source\repos\ConditionalStatements\ClassAnimal\bin\Debug\netcoreapp3.1\ClassAnimal.deps.json
+C:\Users\ABC\source\repos\ConditionalStatements\ClassAnimal\bin\Debug\netcoreapp3.1\ClassAnimal.runtimeconfig.json
+C:\Users\ABC\source\repos\ConditionalStatements\ClassAnimal\bin\Debug\netcoreapp3.1\ClassAnimal.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\ConditionalStatements\ClassAnimal\bin\Debug\netcoreapp3.1\ClassAnimal.dll
+C:\Users\ABC\source\repos\ConditionalStatements\ClassAnimal\bin\Debug\netcoreapp3.1\ClassAnimal.pdb
+C:\Users\ABC\source\repos\ConditionalStatements\ClassAnimal\obj\Debug\netcoreapp3.1\ClassAnimal.csprojAssemblyReference.cache
+C:\Users\ABC\source\repos\ConditionalStatements\ClassAnimal\obj\Debug\netcoreapp3.1\ClassAnimal.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\ConditionalStatements\ClassAnimal\obj\Debug\netcoreapp3.1\ClassAnimal.AssemblyInfo.cs
+C:\Users\ABC\source\repos\ConditionalStatements\ClassAnimal\obj\Debug\netcoreapp3.1\ClassAnimal.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\ConditionalStatements\ClassAnimal\obj\Debug\netcoreapp3.1\ClassAnimal.dll
+C:\Users\ABC\source\repos\ConditionalStatements\ClassAnimal\obj\Debug\netcoreapp3.1\ClassAnimal.pdb
+C:\Users\ABC\source\repos\ConditionalStatements\ClassAnimal\obj\Debug\netcoreapp3.1\ClassAnimal.genruntimeconfig.cache

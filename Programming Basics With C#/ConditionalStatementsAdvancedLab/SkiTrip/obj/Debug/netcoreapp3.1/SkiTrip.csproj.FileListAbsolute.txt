@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\ConditionalStatements\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.exe
+C:\Users\ABC\source\repos\ConditionalStatements\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.deps.json
+C:\Users\ABC\source\repos\ConditionalStatements\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.runtimeconfig.json
+C:\Users\ABC\source\repos\ConditionalStatements\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\ConditionalStatements\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.dll
+C:\Users\ABC\source\repos\ConditionalStatements\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.pdb
+C:\Users\ABC\source\repos\ConditionalStatements\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.csprojAssemblyReference.cache
+C:\Users\ABC\source\repos\ConditionalStatements\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\ConditionalStatements\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.AssemblyInfo.cs
+C:\Users\ABC\source\repos\ConditionalStatements\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\ConditionalStatements\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.dll
+C:\Users\ABC\source\repos\ConditionalStatements\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.pdb
+C:\Users\ABC\source\repos\ConditionalStatements\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.genruntimeconfig.cache

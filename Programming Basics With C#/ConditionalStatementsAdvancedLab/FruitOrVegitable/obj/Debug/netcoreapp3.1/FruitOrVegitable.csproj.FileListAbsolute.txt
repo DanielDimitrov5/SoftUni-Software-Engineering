@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\ConditionalStatements\FruitOrVegitable\bin\Debug\netcoreapp3.1\FruitOrVegitable.exe
+C:\Users\ABC\source\repos\ConditionalStatements\FruitOrVegitable\bin\Debug\netcoreapp3.1\FruitOrVegitable.deps.json
+C:\Users\ABC\source\repos\ConditionalStatements\FruitOrVegitable\bin\Debug\netcoreapp3.1\FruitOrVegitable.runtimeconfig.json
+C:\Users\ABC\source\repos\ConditionalStatements\FruitOrVegitable\bin\Debug\netcoreapp3.1\FruitOrVegitable.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\ConditionalStatements\FruitOrVegitable\bin\Debug\netcoreapp3.1\FruitOrVegitable.dll
+C:\Users\ABC\source\repos\ConditionalStatements\FruitOrVegitable\bin\Debug\netcoreapp3.1\FruitOrVegitable.pdb
+C:\Users\ABC\source\repos\ConditionalStatements\FruitOrVegitable\obj\Debug\netcoreapp3.1\FruitOrVegitable.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\ConditionalStatements\FruitOrVegitable\obj\Debug\netcoreapp3.1\FruitOrVegitable.AssemblyInfo.cs
+C:\Users\ABC\source\repos\ConditionalStatements\FruitOrVegitable\obj\Debug\netcoreapp3.1\FruitOrVegitable.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\ConditionalStatements\FruitOrVegitable\obj\Debug\netcoreapp3.1\FruitOrVegitable.dll
+C:\Users\ABC\source\repos\ConditionalStatements\FruitOrVegitable\obj\Debug\netcoreapp3.1\FruitOrVegitable.pdb
+C:\Users\ABC\source\repos\ConditionalStatements\FruitOrVegitable\obj\Debug\netcoreapp3.1\FruitOrVegitable.genruntimeconfig.cache
+C:\Users\ABC\source\repos\ConditionalStatements\FruitOrVegitable\obj\Debug\netcoreapp3.1\FruitOrVegitable.csprojAssemblyReference.cache
