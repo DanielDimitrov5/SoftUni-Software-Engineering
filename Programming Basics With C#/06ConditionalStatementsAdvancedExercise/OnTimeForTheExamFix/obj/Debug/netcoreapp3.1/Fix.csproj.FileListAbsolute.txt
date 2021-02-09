@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\StatementsAdvanced\Fix\bin\Debug\netcoreapp3.1\Fix.exe
+C:\Users\ABC\source\repos\StatementsAdvanced\Fix\bin\Debug\netcoreapp3.1\Fix.deps.json
+C:\Users\ABC\source\repos\StatementsAdvanced\Fix\bin\Debug\netcoreapp3.1\Fix.runtimeconfig.json
+C:\Users\ABC\source\repos\StatementsAdvanced\Fix\bin\Debug\netcoreapp3.1\Fix.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\StatementsAdvanced\Fix\bin\Debug\netcoreapp3.1\Fix.dll
+C:\Users\ABC\source\repos\StatementsAdvanced\Fix\bin\Debug\netcoreapp3.1\Fix.pdb
+C:\Users\ABC\source\repos\StatementsAdvanced\Fix\obj\Debug\netcoreapp3.1\Fix.csprojAssemblyReference.cache
+C:\Users\ABC\source\repos\StatementsAdvanced\Fix\obj\Debug\netcoreapp3.1\Fix.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\StatementsAdvanced\Fix\obj\Debug\netcoreapp3.1\Fix.AssemblyInfo.cs
+C:\Users\ABC\source\repos\StatementsAdvanced\Fix\obj\Debug\netcoreapp3.1\Fix.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\StatementsAdvanced\Fix\obj\Debug\netcoreapp3.1\Fix.dll
+C:\Users\ABC\source\repos\StatementsAdvanced\Fix\obj\Debug\netcoreapp3.1\Fix.pdb
+C:\Users\ABC\source\repos\StatementsAdvanced\Fix\obj\Debug\netcoreapp3.1\Fix.genruntimeconfig.cache
