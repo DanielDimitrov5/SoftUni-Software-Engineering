@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\WhileLoop\MaxValue\bin\Debug\netcoreapp3.1\MaxValue.exe
+C:\Users\ABC\source\repos\WhileLoop\MaxValue\bin\Debug\netcoreapp3.1\MaxValue.deps.json
+C:\Users\ABC\source\repos\WhileLoop\MaxValue\bin\Debug\netcoreapp3.1\MaxValue.runtimeconfig.json
+C:\Users\ABC\source\repos\WhileLoop\MaxValue\bin\Debug\netcoreapp3.1\MaxValue.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\WhileLoop\MaxValue\bin\Debug\netcoreapp3.1\MaxValue.dll
+C:\Users\ABC\source\repos\WhileLoop\MaxValue\bin\Debug\netcoreapp3.1\MaxValue.pdb
+C:\Users\ABC\source\repos\WhileLoop\MaxValue\obj\Debug\netcoreapp3.1\MaxValue.csprojAssemblyReference.cache
+C:\Users\ABC\source\repos\WhileLoop\MaxValue\obj\Debug\netcoreapp3.1\MaxValue.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\WhileLoop\MaxValue\obj\Debug\netcoreapp3.1\MaxValue.AssemblyInfo.cs
+C:\Users\ABC\source\repos\WhileLoop\MaxValue\obj\Debug\netcoreapp3.1\MaxValue.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\WhileLoop\MaxValue\obj\Debug\netcoreapp3.1\MaxValue.dll
+C:\Users\ABC\source\repos\WhileLoop\MaxValue\obj\Debug\netcoreapp3.1\MaxValue.pdb
+C:\Users\ABC\source\repos\WhileLoop\MaxValue\obj\Debug\netcoreapp3.1\MaxValue.genruntimeconfig.cache

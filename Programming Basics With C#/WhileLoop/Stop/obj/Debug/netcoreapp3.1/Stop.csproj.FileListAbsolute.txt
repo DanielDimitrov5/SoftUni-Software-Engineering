@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\WhileLoop\Stop\bin\Debug\netcoreapp3.1\Stop.exe
+C:\Users\ABC\source\repos\WhileLoop\Stop\bin\Debug\netcoreapp3.1\Stop.deps.json
+C:\Users\ABC\source\repos\WhileLoop\Stop\bin\Debug\netcoreapp3.1\Stop.runtimeconfig.json
+C:\Users\ABC\source\repos\WhileLoop\Stop\bin\Debug\netcoreapp3.1\Stop.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\WhileLoop\Stop\bin\Debug\netcoreapp3.1\Stop.dll
+C:\Users\ABC\source\repos\WhileLoop\Stop\bin\Debug\netcoreapp3.1\Stop.pdb
+C:\Users\ABC\source\repos\WhileLoop\Stop\obj\Debug\netcoreapp3.1\Stop.csprojAssemblyReference.cache
+C:\Users\ABC\source\repos\WhileLoop\Stop\obj\Debug\netcoreapp3.1\Stop.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\WhileLoop\Stop\obj\Debug\netcoreapp3.1\Stop.AssemblyInfo.cs
+C:\Users\ABC\source\repos\WhileLoop\Stop\obj\Debug\netcoreapp3.1\Stop.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\WhileLoop\Stop\obj\Debug\netcoreapp3.1\Stop.dll
+C:\Users\ABC\source\repos\WhileLoop\Stop\obj\Debug\netcoreapp3.1\Stop.pdb
+C:\Users\ABC\source\repos\WhileLoop\Stop\obj\Debug\netcoreapp3.1\Stop.genruntimeconfig.cache
