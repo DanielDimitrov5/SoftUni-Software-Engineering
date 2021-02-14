@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\LoopsAdvanced\Combination\bin\Debug\netcoreapp3.1\Combination.exe
+C:\Users\ABC\source\repos\LoopsAdvanced\Combination\bin\Debug\netcoreapp3.1\Combination.deps.json
+C:\Users\ABC\source\repos\LoopsAdvanced\Combination\bin\Debug\netcoreapp3.1\Combination.runtimeconfig.json
+C:\Users\ABC\source\repos\LoopsAdvanced\Combination\bin\Debug\netcoreapp3.1\Combination.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\LoopsAdvanced\Combination\bin\Debug\netcoreapp3.1\Combination.dll
+C:\Users\ABC\source\repos\LoopsAdvanced\Combination\bin\Debug\netcoreapp3.1\Combination.pdb
+C:\Users\ABC\source\repos\LoopsAdvanced\Combination\obj\Debug\netcoreapp3.1\Combination.csprojAssemblyReference.cache
+C:\Users\ABC\source\repos\LoopsAdvanced\Combination\obj\Debug\netcoreapp3.1\Combination.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\LoopsAdvanced\Combination\obj\Debug\netcoreapp3.1\Combination.AssemblyInfo.cs
+C:\Users\ABC\source\repos\LoopsAdvanced\Combination\obj\Debug\netcoreapp3.1\Combination.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\LoopsAdvanced\Combination\obj\Debug\netcoreapp3.1\Combination.dll
+C:\Users\ABC\source\repos\LoopsAdvanced\Combination\obj\Debug\netcoreapp3.1\Combination.pdb
+C:\Users\ABC\source\repos\LoopsAdvanced\Combination\obj\Debug\netcoreapp3.1\Combination.genruntimeconfig.cache

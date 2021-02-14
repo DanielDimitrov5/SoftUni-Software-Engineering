@@ -1,0 +1,12 @@
+C:\Users\ABC\source\repos\LoopsAdvanced\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.exe
+C:\Users\ABC\source\repos\LoopsAdvanced\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.deps.json
+C:\Users\ABC\source\repos\LoopsAdvanced\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.json
+C:\Users\ABC\source\repos\LoopsAdvanced\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\LoopsAdvanced\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.dll
+C:\Users\ABC\source\repos\LoopsAdvanced\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.pdb
+C:\Users\ABC\source\repos\LoopsAdvanced\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\LoopsAdvanced\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfo.cs
+C:\Users\ABC\source\repos\LoopsAdvanced\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\LoopsAdvanced\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.dll
+C:\Users\ABC\source\repos\LoopsAdvanced\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.pdb
+C:\Users\ABC\source\repos\LoopsAdvanced\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.genruntimeconfig.cache
