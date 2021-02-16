@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\NestedLoops\ConsoleApp1\bin\Debug\netcoreapp3.1\TrainTheTrainers.exe
+C:\Users\ABC\source\repos\NestedLoops\ConsoleApp1\bin\Debug\netcoreapp3.1\TrainTheTrainers.deps.json
+C:\Users\ABC\source\repos\NestedLoops\ConsoleApp1\bin\Debug\netcoreapp3.1\TrainTheTrainers.runtimeconfig.json
+C:\Users\ABC\source\repos\NestedLoops\ConsoleApp1\bin\Debug\netcoreapp3.1\TrainTheTrainers.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\NestedLoops\ConsoleApp1\bin\Debug\netcoreapp3.1\TrainTheTrainers.dll
+C:\Users\ABC\source\repos\NestedLoops\ConsoleApp1\bin\Debug\netcoreapp3.1\TrainTheTrainers.pdb
+C:\Users\ABC\source\repos\NestedLoops\ConsoleApp1\obj\Debug\netcoreapp3.1\TrainTheTrainers.csprojAssemblyReference.cache
+C:\Users\ABC\source\repos\NestedLoops\ConsoleApp1\obj\Debug\netcoreapp3.1\TrainTheTrainers.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\NestedLoops\ConsoleApp1\obj\Debug\netcoreapp3.1\TrainTheTrainers.AssemblyInfo.cs
+C:\Users\ABC\source\repos\NestedLoops\ConsoleApp1\obj\Debug\netcoreapp3.1\TrainTheTrainers.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\NestedLoops\ConsoleApp1\obj\Debug\netcoreapp3.1\TrainTheTrainers.dll
+C:\Users\ABC\source\repos\NestedLoops\ConsoleApp1\obj\Debug\netcoreapp3.1\TrainTheTrainers.pdb
+C:\Users\ABC\source\repos\NestedLoops\ConsoleApp1\obj\Debug\netcoreapp3.1\TrainTheTrainers.genruntimeconfig.cache

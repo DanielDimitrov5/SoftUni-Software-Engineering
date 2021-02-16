@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\NestedLoops\SumOfEvenOddPossitions\bin\Debug\netcoreapp3.1\SumOfEvenOddPossitions.exe
+C:\Users\ABC\source\repos\NestedLoops\SumOfEvenOddPossitions\bin\Debug\netcoreapp3.1\SumOfEvenOddPossitions.deps.json
+C:\Users\ABC\source\repos\NestedLoops\SumOfEvenOddPossitions\bin\Debug\netcoreapp3.1\SumOfEvenOddPossitions.runtimeconfig.json
+C:\Users\ABC\source\repos\NestedLoops\SumOfEvenOddPossitions\bin\Debug\netcoreapp3.1\SumOfEvenOddPossitions.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\NestedLoops\SumOfEvenOddPossitions\bin\Debug\netcoreapp3.1\SumOfEvenOddPossitions.dll
+C:\Users\ABC\source\repos\NestedLoops\SumOfEvenOddPossitions\bin\Debug\netcoreapp3.1\SumOfEvenOddPossitions.pdb
+C:\Users\ABC\source\repos\NestedLoops\SumOfEvenOddPossitions\obj\Debug\netcoreapp3.1\SumOfEvenOddPossitions.csprojAssemblyReference.cache
+C:\Users\ABC\source\repos\NestedLoops\SumOfEvenOddPossitions\obj\Debug\netcoreapp3.1\SumOfEvenOddPossitions.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\NestedLoops\SumOfEvenOddPossitions\obj\Debug\netcoreapp3.1\SumOfEvenOddPossitions.AssemblyInfo.cs
+C:\Users\ABC\source\repos\NestedLoops\SumOfEvenOddPossitions\obj\Debug\netcoreapp3.1\SumOfEvenOddPossitions.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\NestedLoops\SumOfEvenOddPossitions\obj\Debug\netcoreapp3.1\SumOfEvenOddPossitions.dll
+C:\Users\ABC\source\repos\NestedLoops\SumOfEvenOddPossitions\obj\Debug\netcoreapp3.1\SumOfEvenOddPossitions.pdb
+C:\Users\ABC\source\repos\NestedLoops\SumOfEvenOddPossitions\obj\Debug\netcoreapp3.1\SumOfEvenOddPossitions.genruntimeconfig.cache

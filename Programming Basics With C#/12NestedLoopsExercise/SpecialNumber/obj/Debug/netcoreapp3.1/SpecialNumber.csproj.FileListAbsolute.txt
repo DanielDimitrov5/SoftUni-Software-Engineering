@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\NestedLoops\SpecialNumber\bin\Debug\netcoreapp3.1\SpecialNumber.exe
+C:\Users\ABC\source\repos\NestedLoops\SpecialNumber\bin\Debug\netcoreapp3.1\SpecialNumber.deps.json
+C:\Users\ABC\source\repos\NestedLoops\SpecialNumber\bin\Debug\netcoreapp3.1\SpecialNumber.runtimeconfig.json
+C:\Users\ABC\source\repos\NestedLoops\SpecialNumber\bin\Debug\netcoreapp3.1\SpecialNumber.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\NestedLoops\SpecialNumber\bin\Debug\netcoreapp3.1\SpecialNumber.dll
+C:\Users\ABC\source\repos\NestedLoops\SpecialNumber\bin\Debug\netcoreapp3.1\SpecialNumber.pdb
+C:\Users\ABC\source\repos\NestedLoops\SpecialNumber\obj\Debug\netcoreapp3.1\SpecialNumber.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\NestedLoops\SpecialNumber\obj\Debug\netcoreapp3.1\SpecialNumber.AssemblyInfo.cs
+C:\Users\ABC\source\repos\NestedLoops\SpecialNumber\obj\Debug\netcoreapp3.1\SpecialNumber.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\NestedLoops\SpecialNumber\obj\Debug\netcoreapp3.1\SpecialNumber.dll
+C:\Users\ABC\source\repos\NestedLoops\SpecialNumber\obj\Debug\netcoreapp3.1\SpecialNumber.pdb
+C:\Users\ABC\source\repos\NestedLoops\SpecialNumber\obj\Debug\netcoreapp3.1\SpecialNumber.genruntimeconfig.cache
+C:\Users\ABC\source\repos\NestedLoops\SpecialNumber\obj\Debug\netcoreapp3.1\SpecialNumber.csprojAssemblyReference.cache

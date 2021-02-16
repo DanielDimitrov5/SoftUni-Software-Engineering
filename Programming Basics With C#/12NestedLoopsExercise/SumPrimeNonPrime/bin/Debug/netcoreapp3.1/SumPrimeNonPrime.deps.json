@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SumPrimeNonPrime/1.0.0": {
+        "runtime": {
+          "SumPrimeNonPrime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SumPrimeNonPrime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
