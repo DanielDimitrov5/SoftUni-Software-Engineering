@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\More(SimpleOperations)\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.exe
+C:\Users\ABC\source\repos\More(SimpleOperations)\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.deps.json
+C:\Users\ABC\source\repos\More(SimpleOperations)\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.runtimeconfig.json
+C:\Users\ABC\source\repos\More(SimpleOperations)\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\More(SimpleOperations)\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.dll
+C:\Users\ABC\source\repos\More(SimpleOperations)\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.pdb
+C:\Users\ABC\source\repos\More(SimpleOperations)\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\More(SimpleOperations)\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.AssemblyInfo.cs
+C:\Users\ABC\source\repos\More(SimpleOperations)\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\More(SimpleOperations)\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.dll
+C:\Users\ABC\source\repos\More(SimpleOperations)\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.pdb
+C:\Users\ABC\source\repos\More(SimpleOperations)\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.genruntimeconfig.cache
+C:\Users\ABC\source\repos\More(SimpleOperations)\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\More(SimpleOperations)\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.exe
+C:\Users\ABC\source\repos\More(SimpleOperations)\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.deps.json
+C:\Users\ABC\source\repos\More(SimpleOperations)\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.runtimeconfig.json
+C:\Users\ABC\source\repos\More(SimpleOperations)\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\More(SimpleOperations)\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.dll
+C:\Users\ABC\source\repos\More(SimpleOperations)\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.pdb
+C:\Users\ABC\source\repos\More(SimpleOperations)\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.csprojAssemblyReference.cache
+C:\Users\ABC\source\repos\More(SimpleOperations)\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\More(SimpleOperations)\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.AssemblyInfo.cs
+C:\Users\ABC\source\repos\More(SimpleOperations)\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\More(SimpleOperations)\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.dll
+C:\Users\ABC\source\repos\More(SimpleOperations)\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.pdb
+C:\Users\ABC\source\repos\More(SimpleOperations)\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.genruntimeconfig.cache

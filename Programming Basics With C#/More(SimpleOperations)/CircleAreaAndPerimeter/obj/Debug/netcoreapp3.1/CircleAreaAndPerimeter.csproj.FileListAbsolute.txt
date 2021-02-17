@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\More(SimpleOperations)\CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\CircleAreaAndPerimeter.exe
+C:\Users\ABC\source\repos\More(SimpleOperations)\CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\CircleAreaAndPerimeter.deps.json
+C:\Users\ABC\source\repos\More(SimpleOperations)\CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\CircleAreaAndPerimeter.runtimeconfig.json
+C:\Users\ABC\source\repos\More(SimpleOperations)\CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\CircleAreaAndPerimeter.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\More(SimpleOperations)\CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\CircleAreaAndPerimeter.dll
+C:\Users\ABC\source\repos\More(SimpleOperations)\CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\CircleAreaAndPerimeter.pdb
+C:\Users\ABC\source\repos\More(SimpleOperations)\CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\CircleAreaAndPerimeter.csprojAssemblyReference.cache
+C:\Users\ABC\source\repos\More(SimpleOperations)\CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\CircleAreaAndPerimeter.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\More(SimpleOperations)\CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\CircleAreaAndPerimeter.AssemblyInfo.cs
+C:\Users\ABC\source\repos\More(SimpleOperations)\CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\CircleAreaAndPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\More(SimpleOperations)\CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\CircleAreaAndPerimeter.dll
+C:\Users\ABC\source\repos\More(SimpleOperations)\CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\CircleAreaAndPerimeter.pdb
+C:\Users\ABC\source\repos\More(SimpleOperations)\CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\CircleAreaAndPerimeter.genruntimeconfig.cache
