@@ -1,0 +1,12 @@
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Trip\bin\Debug\netcoreapp3.1\Easter Trip.exe
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Trip\bin\Debug\netcoreapp3.1\Easter Trip.deps.json
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Trip\bin\Debug\netcoreapp3.1\Easter Trip.runtimeconfig.json
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Trip\bin\Debug\netcoreapp3.1\Easter Trip.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Trip\bin\Debug\netcoreapp3.1\Easter Trip.dll
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Trip\bin\Debug\netcoreapp3.1\Easter Trip.pdb
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Trip\obj\Debug\netcoreapp3.1\Easter Trip.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Trip\obj\Debug\netcoreapp3.1\Easter Trip.AssemblyInfo.cs
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Trip\obj\Debug\netcoreapp3.1\Easter Trip.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Trip\obj\Debug\netcoreapp3.1\Easter Trip.dll
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Trip\obj\Debug\netcoreapp3.1\Easter Trip.pdb
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Trip\obj\Debug\netcoreapp3.1\Easter Trip.genruntimeconfig.cache

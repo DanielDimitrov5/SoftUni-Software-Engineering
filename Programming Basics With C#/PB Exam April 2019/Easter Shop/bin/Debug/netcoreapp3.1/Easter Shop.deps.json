@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Easter Shop/1.0.0": {
+        "runtime": {
+          "Easter Shop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Easter Shop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

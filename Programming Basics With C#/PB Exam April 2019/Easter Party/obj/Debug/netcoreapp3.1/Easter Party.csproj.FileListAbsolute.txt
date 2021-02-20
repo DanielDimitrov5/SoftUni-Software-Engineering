@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Party\bin\Debug\netcoreapp3.1\Easter Party.exe
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Party\bin\Debug\netcoreapp3.1\Easter Party.deps.json
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Party\bin\Debug\netcoreapp3.1\Easter Party.runtimeconfig.json
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Party\bin\Debug\netcoreapp3.1\Easter Party.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Party\bin\Debug\netcoreapp3.1\Easter Party.dll
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Party\bin\Debug\netcoreapp3.1\Easter Party.pdb
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Party\obj\Debug\netcoreapp3.1\Easter Party.csprojAssemblyReference.cache
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Party\obj\Debug\netcoreapp3.1\Easter Party.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Party\obj\Debug\netcoreapp3.1\Easter Party.AssemblyInfo.cs
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Party\obj\Debug\netcoreapp3.1\Easter Party.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Party\obj\Debug\netcoreapp3.1\Easter Party.dll
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Party\obj\Debug\netcoreapp3.1\Easter Party.pdb
+C:\Users\ABC\source\repos\PB Exam April 2019\Easter Party\obj\Debug\netcoreapp3.1\Easter Party.genruntimeconfig.cache
