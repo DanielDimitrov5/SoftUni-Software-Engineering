@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Back In 30 Minutes/1.0.0": {
+        "runtime": {
+          "Back In 30 Minutes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Back In 30 Minutes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

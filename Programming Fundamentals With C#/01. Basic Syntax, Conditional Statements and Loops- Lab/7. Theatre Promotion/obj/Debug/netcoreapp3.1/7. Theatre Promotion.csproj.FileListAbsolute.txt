@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\7. Theatre Promotion\bin\Debug\netcoreapp3.1\7. Theatre Promotion.exe
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\7. Theatre Promotion\bin\Debug\netcoreapp3.1\7. Theatre Promotion.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\7. Theatre Promotion\bin\Debug\netcoreapp3.1\7. Theatre Promotion.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\7. Theatre Promotion\bin\Debug\netcoreapp3.1\7. Theatre Promotion.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\7. Theatre Promotion\bin\Debug\netcoreapp3.1\7. Theatre Promotion.dll
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\7. Theatre Promotion\bin\Debug\netcoreapp3.1\7. Theatre Promotion.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\7. Theatre Promotion\obj\Debug\netcoreapp3.1\7. Theatre Promotion.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\7. Theatre Promotion\obj\Debug\netcoreapp3.1\7. Theatre Promotion.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\7. Theatre Promotion\obj\Debug\netcoreapp3.1\7. Theatre Promotion.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\7. Theatre Promotion\obj\Debug\netcoreapp3.1\7. Theatre Promotion.dll
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\7. Theatre Promotion\obj\Debug\netcoreapp3.1\7. Theatre Promotion.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\7. Theatre Promotion\obj\Debug\netcoreapp3.1\7. Theatre Promotion.genruntimeconfig.cache

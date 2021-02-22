@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\6. Foreign Languages\bin\Debug\netcoreapp3.1\6. Foreign Languages.exe
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\6. Foreign Languages\bin\Debug\netcoreapp3.1\6. Foreign Languages.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\6. Foreign Languages\bin\Debug\netcoreapp3.1\6. Foreign Languages.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\6. Foreign Languages\bin\Debug\netcoreapp3.1\6. Foreign Languages.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\6. Foreign Languages\bin\Debug\netcoreapp3.1\6. Foreign Languages.dll
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\6. Foreign Languages\bin\Debug\netcoreapp3.1\6. Foreign Languages.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\6. Foreign Languages\obj\Debug\netcoreapp3.1\6. Foreign Languages.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\6. Foreign Languages\obj\Debug\netcoreapp3.1\6. Foreign Languages.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\6. Foreign Languages\obj\Debug\netcoreapp3.1\6. Foreign Languages.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\6. Foreign Languages\obj\Debug\netcoreapp3.1\6. Foreign Languages.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\6. Foreign Languages\obj\Debug\netcoreapp3.1\6. Foreign Languages.dll
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\6. Foreign Languages\obj\Debug\netcoreapp3.1\6. Foreign Languages.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Basic Syntax, Conditional Statements and Loops\6. Foreign Languages\obj\Debug\netcoreapp3.1\6. Foreign Languages.genruntimeconfig.cache

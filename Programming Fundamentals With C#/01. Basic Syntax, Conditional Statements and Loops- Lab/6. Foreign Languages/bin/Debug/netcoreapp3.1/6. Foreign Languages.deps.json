@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "6. Foreign Languages/1.0.0": {
+        "runtime": {
+          "6. Foreign Languages.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "6. Foreign Languages/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
