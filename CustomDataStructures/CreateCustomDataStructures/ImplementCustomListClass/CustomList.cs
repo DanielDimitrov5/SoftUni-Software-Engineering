@@ -59,6 +59,39 @@ namespace ImplementCustomListClass
             Count++;
         }
 
+        public void Insert(int index, int element)
+        {
+            if (Count <= index || index < 0)
+            {
+                throw new ArgumentOutOfRangeException();
+            }
+
+            if (Count == items.Length)
+            {
+                Resize();
+            }
+
+            int[] copy = new int[Count];
+
+            for (int i = 0; i < Count; i++)
+            {
+                copy[i] = items[i];
+            }
+
+            for (int i = 0; i < Count; i++)
+            {
+                if (i < index)
+                {
+                    continue;
+                }
+
+                items[i + 1] = copy[i];
+
+            }
+            Count++;
+            items[index] = element;
+        }
+
         public int RemoveAt(int index)
         {
             if (Count <= index || index < 0)

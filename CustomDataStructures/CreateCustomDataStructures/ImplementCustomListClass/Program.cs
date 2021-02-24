@@ -7,13 +7,17 @@ namespace ImplementCustomListClass
     {
         static void Main(string[] args)
         {
-            List<int> l = new List<int>();
-
-            l.Find(x => x > 1);
-
-            Predicate<int> pred = x=>x > 1;
-
             CustomList list = new CustomList();
+
+            list.Add(1);
+            list.Add(3);
+            list.Add(4);
+
+            Console.WriteLine(list.ToString());
+
+            list.Insert(1, 2);
+
+            Console.WriteLine(list.ToString());
 
             for (int i = 0; i < 10; i++)
             {
