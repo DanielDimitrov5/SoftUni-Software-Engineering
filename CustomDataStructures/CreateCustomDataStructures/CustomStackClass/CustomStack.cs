@@ -41,7 +41,7 @@ namespace CustomStackClass
 
         public int Pop()
         {
-            if (items.Length == 0)
+            if (Count == 0)
             {
                 throw new InvalidOperationException("Stack is empty");
             }
@@ -71,7 +71,7 @@ namespace CustomStackClass
 
         public int Peek()
         {
-            if (items.Length == 0)
+            if (Count == 0)
             {
                 throw new InvalidOperationException("Stack is empty");
             }
