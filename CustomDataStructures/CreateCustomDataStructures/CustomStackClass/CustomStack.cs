@@ -79,11 +79,19 @@ namespace CustomStackClass
             return items[Count - 1];
         }
 
-        public void ForEach(Action<int> action)
+        public void ForEach(Action<object> action)
         {
-            for (int i = 0; i < items.Length; i++)
+            for (int i = 0; i < Count; i++)
             {
                 action(items[i]);
+            }
+        }
+        public void ForEach(Func<int, int> func)
+        {
+            for (int i = 0; i < Count; i++)
+            {
+                int x = func(items[i]);
+                items[i] = x;
             }
         }
 

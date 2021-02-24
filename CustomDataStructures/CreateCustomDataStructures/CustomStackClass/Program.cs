@@ -8,6 +8,7 @@ namespace CustomStackClass
         {
             CustomStack stack = new CustomStack();
 
+
             for (int i = 0; i < 10; i++)
             {
                 stack.Push(i + 1);
@@ -23,6 +24,15 @@ namespace CustomStackClass
             Console.WriteLine(stack.Count);
 
             Console.WriteLine(stack.ToString());
+
+            stack.ForEach(x =>
+            {
+                return x * 10;
+            });
+
+            stack.ForEach(x => Console.WriteLine(x));
+
+
         }
     }
 }
