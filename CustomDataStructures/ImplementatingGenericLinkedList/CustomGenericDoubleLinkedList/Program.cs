@@ -1,13 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace CustomDoubleLinkedList
+namespace CustomLinkedList
 {
     class Program
     {
         static void Main(string[] args)
         {
-            DoubleLinkedList<int> linkedList = new DoubleLinkedList<int>();
+            CustomLinkedList<int> linkedList = new CustomLinkedList<int>();
+            CustomLinkedList<char> linkedList1 = new CustomLinkedList<char>();
 
             for (int i = 0; i < 5; i++)
             {
@@ -43,7 +44,7 @@ namespace CustomDoubleLinkedList
 
             Console.WriteLine(string.Join(" ", linkedList.ToArray()));
 
-            var genericList = new DoubleLinkedList<string>();
+            var genericList = new CustomLinkedList<string>();
 
             genericList.AddHead(new Node<string>("Stefan"));
             genericList.AddHead(new Node<string>("Gogi"));
@@ -52,7 +53,7 @@ namespace CustomDoubleLinkedList
 
             genericList.Foreach(x => Console.WriteLine(x.Value));
 
-            var nestedList = new DoubleLinkedList<List<char>>();
+            var nestedList = new CustomLinkedList<List<char>>();
 
             nestedList.AddHead(new Node<List<char>>(new List<char>() { 'a', 'b', 'v' }));
             nestedList.AddTail(new Node<List<char>>(new List<char>() { 'g', 'd', 'e' }));
