@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CustomDoubleLinkedList
+namespace CustomLinkedList
 {
-    class DoubleLinkedList<T>
+    public class CustomLinkedList<T>
     {
         private int count;
         private bool reversed = false;
