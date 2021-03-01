@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ImplementCustomListClass
 {
-    public class CustomList
+    public class CustomList : IEnumerable
     {
         private const int initialCapacity = 2;
         private int[] items;
@@ -183,6 +183,14 @@ namespace ImplementCustomListClass
             }
 
             return sb.ToString().Trim();
+        }
+
+        public IEnumerator GetEnumerator()
+        {
+            for (int i = 0; i < Count; i++)
+            {
+                yield return items[i];
+            }
         }
     }
 }
