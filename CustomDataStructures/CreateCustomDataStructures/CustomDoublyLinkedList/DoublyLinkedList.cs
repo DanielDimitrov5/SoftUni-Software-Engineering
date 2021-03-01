@@ -116,8 +116,6 @@ namespace CustomDoublyLinkedList
                 node = node.NextNode;
             }
 
-
-
             return array;
         }
     }
