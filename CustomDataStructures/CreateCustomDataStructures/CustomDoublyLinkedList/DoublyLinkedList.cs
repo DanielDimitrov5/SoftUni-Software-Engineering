@@ -6,17 +6,6 @@ namespace CustomDoublyLinkedList
 {
     public class DoublyLinkedList<T>
     {
-        //private class ListNode
-        //{
-        //    public T Value { get; set; }
-        //    public ListNode NextNode { get; set; }
-        //    public ListNode PreviousNode { get; set; }
-
-        //    public ListNode(T value)
-        //    {
-        //        Value = value;
-        //    }
-        //}
         private ListNode<T> head;
 
         private ListNode<T> tail;
