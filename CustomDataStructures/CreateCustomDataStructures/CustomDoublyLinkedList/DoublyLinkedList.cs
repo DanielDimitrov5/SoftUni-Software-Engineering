@@ -12,7 +12,7 @@ namespace CustomDoublyLinkedList
 
         public int Count { get; private set; }
 
-        public void AddFirst(T element)
+        public void AddHead(T element)
         {
             ListNode<T> newHead = new ListNode<T>(element);
 
