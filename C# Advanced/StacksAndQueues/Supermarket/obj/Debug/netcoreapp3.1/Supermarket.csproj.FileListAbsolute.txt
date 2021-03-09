@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\StacksAndQueues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\StacksAndQueues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.AssemblyInfo.cs
+C:\Users\USER\source\repos\StacksAndQueues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\StacksAndQueues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.exe
+C:\Users\USER\source\repos\StacksAndQueues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.deps.json
+C:\Users\USER\source\repos\StacksAndQueues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.runtimeconfig.json
+C:\Users\USER\source\repos\StacksAndQueues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.runtimeconfig.dev.json
+C:\Users\USER\source\repos\StacksAndQueues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.dll
+C:\Users\USER\source\repos\StacksAndQueues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.pdb
+C:\Users\USER\source\repos\StacksAndQueues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.dll
+C:\Users\USER\source\repos\StacksAndQueues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.pdb
+C:\Users\USER\source\repos\StacksAndQueues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.genruntimeconfig.cache

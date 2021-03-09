@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\StacksAndQueues\EvenNumbers\bin\Debug\netcoreapp3.1\EvenNumbers.exe
+C:\Users\USER\source\repos\StacksAndQueues\EvenNumbers\bin\Debug\netcoreapp3.1\EvenNumbers.deps.json
+C:\Users\USER\source\repos\StacksAndQueues\EvenNumbers\bin\Debug\netcoreapp3.1\EvenNumbers.runtimeconfig.json
+C:\Users\USER\source\repos\StacksAndQueues\EvenNumbers\bin\Debug\netcoreapp3.1\EvenNumbers.runtimeconfig.dev.json
+C:\Users\USER\source\repos\StacksAndQueues\EvenNumbers\bin\Debug\netcoreapp3.1\EvenNumbers.dll
+C:\Users\USER\source\repos\StacksAndQueues\EvenNumbers\bin\Debug\netcoreapp3.1\EvenNumbers.pdb
+C:\Users\USER\source\repos\StacksAndQueues\EvenNumbers\obj\Debug\netcoreapp3.1\EvenNumbers.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\StacksAndQueues\EvenNumbers\obj\Debug\netcoreapp3.1\EvenNumbers.AssemblyInfo.cs
+C:\Users\USER\source\repos\StacksAndQueues\EvenNumbers\obj\Debug\netcoreapp3.1\EvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\StacksAndQueues\EvenNumbers\obj\Debug\netcoreapp3.1\EvenNumbers.dll
+C:\Users\USER\source\repos\StacksAndQueues\EvenNumbers\obj\Debug\netcoreapp3.1\EvenNumbers.pdb
+C:\Users\USER\source\repos\StacksAndQueues\EvenNumbers\obj\Debug\netcoreapp3.1\EvenNumbers.genruntimeconfig.cache

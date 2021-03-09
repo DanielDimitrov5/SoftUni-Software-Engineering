@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\StacksAndQueues\StackSum\bin\Debug\netcoreapp3.1\StackSum.exe
+C:\Users\USER\source\repos\StacksAndQueues\StackSum\bin\Debug\netcoreapp3.1\StackSum.deps.json
+C:\Users\USER\source\repos\StacksAndQueues\StackSum\bin\Debug\netcoreapp3.1\StackSum.runtimeconfig.json
+C:\Users\USER\source\repos\StacksAndQueues\StackSum\bin\Debug\netcoreapp3.1\StackSum.runtimeconfig.dev.json
+C:\Users\USER\source\repos\StacksAndQueues\StackSum\bin\Debug\netcoreapp3.1\StackSum.dll
+C:\Users\USER\source\repos\StacksAndQueues\StackSum\bin\Debug\netcoreapp3.1\StackSum.pdb
+C:\Users\USER\source\repos\StacksAndQueues\StackSum\obj\Debug\netcoreapp3.1\StackSum.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\StacksAndQueues\StackSum\obj\Debug\netcoreapp3.1\StackSum.AssemblyInfo.cs
+C:\Users\USER\source\repos\StacksAndQueues\StackSum\obj\Debug\netcoreapp3.1\StackSum.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\StacksAndQueues\StackSum\obj\Debug\netcoreapp3.1\StackSum.dll
+C:\Users\USER\source\repos\StacksAndQueues\StackSum\obj\Debug\netcoreapp3.1\StackSum.pdb
+C:\Users\USER\source\repos\StacksAndQueues\StackSum\obj\Debug\netcoreapp3.1\StackSum.genruntimeconfig.cache

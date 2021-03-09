@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\StacksAndQueues\Stack\bin\Debug\netcoreapp3.1\ReverseStrings.exe
+C:\Users\USER\source\repos\StacksAndQueues\Stack\bin\Debug\netcoreapp3.1\ReverseStrings.deps.json
+C:\Users\USER\source\repos\StacksAndQueues\Stack\bin\Debug\netcoreapp3.1\ReverseStrings.runtimeconfig.json
+C:\Users\USER\source\repos\StacksAndQueues\Stack\bin\Debug\netcoreapp3.1\ReverseStrings.runtimeconfig.dev.json
+C:\Users\USER\source\repos\StacksAndQueues\Stack\bin\Debug\netcoreapp3.1\ReverseStrings.dll
+C:\Users\USER\source\repos\StacksAndQueues\Stack\bin\Debug\netcoreapp3.1\ReverseStrings.pdb
+C:\Users\USER\source\repos\StacksAndQueues\Stack\obj\Debug\netcoreapp3.1\ReverseStrings.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\StacksAndQueues\Stack\obj\Debug\netcoreapp3.1\ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\StacksAndQueues\Stack\obj\Debug\netcoreapp3.1\ReverseStrings.AssemblyInfo.cs
+C:\Users\USER\source\repos\StacksAndQueues\Stack\obj\Debug\netcoreapp3.1\ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\StacksAndQueues\Stack\obj\Debug\netcoreapp3.1\ReverseStrings.dll
+C:\Users\USER\source\repos\StacksAndQueues\Stack\obj\Debug\netcoreapp3.1\ReverseStrings.pdb
+C:\Users\USER\source\repos\StacksAndQueues\Stack\obj\Debug\netcoreapp3.1\ReverseStrings.genruntimeconfig.cache
