@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.exe
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.deps.json
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.runtimeconfig.json
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.runtimeconfig.dev.json
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.dll
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.pdb
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.AssemblyInfo.cs
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.dll
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.pdb
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.genruntimeconfig.cache

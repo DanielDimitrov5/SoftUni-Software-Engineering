@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\StacksAndQueuesExercise\Crossroads\bin\Debug\netcoreapp3.1\Crossroads.exe
+C:\Users\USER\source\repos\StacksAndQueuesExercise\Crossroads\bin\Debug\netcoreapp3.1\Crossroads.deps.json
+C:\Users\USER\source\repos\StacksAndQueuesExercise\Crossroads\bin\Debug\netcoreapp3.1\Crossroads.runtimeconfig.json
+C:\Users\USER\source\repos\StacksAndQueuesExercise\Crossroads\bin\Debug\netcoreapp3.1\Crossroads.runtimeconfig.dev.json
+C:\Users\USER\source\repos\StacksAndQueuesExercise\Crossroads\bin\Debug\netcoreapp3.1\Crossroads.dll
+C:\Users\USER\source\repos\StacksAndQueuesExercise\Crossroads\bin\Debug\netcoreapp3.1\Crossroads.pdb
+C:\Users\USER\source\repos\StacksAndQueuesExercise\Crossroads\obj\Debug\netcoreapp3.1\Crossroads.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\StacksAndQueuesExercise\Crossroads\obj\Debug\netcoreapp3.1\Crossroads.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\StacksAndQueuesExercise\Crossroads\obj\Debug\netcoreapp3.1\Crossroads.AssemblyInfo.cs
+C:\Users\USER\source\repos\StacksAndQueuesExercise\Crossroads\obj\Debug\netcoreapp3.1\Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\StacksAndQueuesExercise\Crossroads\obj\Debug\netcoreapp3.1\Crossroads.dll
+C:\Users\USER\source\repos\StacksAndQueuesExercise\Crossroads\obj\Debug\netcoreapp3.1\Crossroads.pdb
+C:\Users\USER\source\repos\StacksAndQueuesExercise\Crossroads\obj\Debug\netcoreapp3.1\Crossroads.genruntimeconfig.cache

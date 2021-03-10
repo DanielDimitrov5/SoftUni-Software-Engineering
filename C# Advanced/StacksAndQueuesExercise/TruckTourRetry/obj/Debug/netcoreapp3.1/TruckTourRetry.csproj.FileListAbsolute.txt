@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTourRetry\bin\Debug\netcoreapp3.1\TruckTourRetry.exe
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTourRetry\bin\Debug\netcoreapp3.1\TruckTourRetry.deps.json
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTourRetry\bin\Debug\netcoreapp3.1\TruckTourRetry.runtimeconfig.json
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTourRetry\bin\Debug\netcoreapp3.1\TruckTourRetry.runtimeconfig.dev.json
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTourRetry\bin\Debug\netcoreapp3.1\TruckTourRetry.dll
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTourRetry\bin\Debug\netcoreapp3.1\TruckTourRetry.pdb
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTourRetry\obj\Debug\netcoreapp3.1\TruckTourRetry.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTourRetry\obj\Debug\netcoreapp3.1\TruckTourRetry.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTourRetry\obj\Debug\netcoreapp3.1\TruckTourRetry.AssemblyInfo.cs
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTourRetry\obj\Debug\netcoreapp3.1\TruckTourRetry.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTourRetry\obj\Debug\netcoreapp3.1\TruckTourRetry.dll
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTourRetry\obj\Debug\netcoreapp3.1\TruckTourRetry.pdb
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTourRetry\obj\Debug\netcoreapp3.1\TruckTourRetry.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BalancedPerentheses\bin\Debug\netcoreapp3.1\BalancedPerentheses.exe
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BalancedPerentheses\bin\Debug\netcoreapp3.1\BalancedPerentheses.deps.json
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BalancedPerentheses\bin\Debug\netcoreapp3.1\BalancedPerentheses.runtimeconfig.json
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BalancedPerentheses\bin\Debug\netcoreapp3.1\BalancedPerentheses.runtimeconfig.dev.json
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BalancedPerentheses\bin\Debug\netcoreapp3.1\BalancedPerentheses.dll
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BalancedPerentheses\bin\Debug\netcoreapp3.1\BalancedPerentheses.pdb
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BalancedPerentheses\obj\Debug\netcoreapp3.1\BalancedPerentheses.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BalancedPerentheses\obj\Debug\netcoreapp3.1\BalancedPerentheses.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BalancedPerentheses\obj\Debug\netcoreapp3.1\BalancedPerentheses.AssemblyInfo.cs
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BalancedPerentheses\obj\Debug\netcoreapp3.1\BalancedPerentheses.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BalancedPerentheses\obj\Debug\netcoreapp3.1\BalancedPerentheses.dll
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BalancedPerentheses\obj\Debug\netcoreapp3.1\BalancedPerentheses.pdb
+C:\Users\USER\source\repos\StacksAndQueuesExercise\BalancedPerentheses\obj\Debug\netcoreapp3.1\BalancedPerentheses.genruntimeconfig.cache

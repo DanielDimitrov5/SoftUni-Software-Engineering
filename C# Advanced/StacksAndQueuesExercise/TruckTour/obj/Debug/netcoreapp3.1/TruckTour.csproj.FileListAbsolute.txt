@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.exe
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.deps.json
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.runtimeconfig.json
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.runtimeconfig.dev.json
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.dll
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.pdb
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.AssemblyInfo.cs
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.dll
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.pdb
+C:\Users\USER\source\repos\StacksAndQueuesExercise\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.genruntimeconfig.cache
