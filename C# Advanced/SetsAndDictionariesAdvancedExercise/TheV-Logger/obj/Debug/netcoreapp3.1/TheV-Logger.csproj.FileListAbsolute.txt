@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\TheV-Logger\bin\Debug\netcoreapp3.1\TheV-Logger.exe
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\TheV-Logger\bin\Debug\netcoreapp3.1\TheV-Logger.deps.json
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\TheV-Logger\bin\Debug\netcoreapp3.1\TheV-Logger.runtimeconfig.json
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\TheV-Logger\bin\Debug\netcoreapp3.1\TheV-Logger.runtimeconfig.dev.json
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\TheV-Logger\bin\Debug\netcoreapp3.1\TheV-Logger.dll
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\TheV-Logger\bin\Debug\netcoreapp3.1\TheV-Logger.pdb
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\TheV-Logger\obj\Debug\netcoreapp3.1\TheV-Logger.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\TheV-Logger\obj\Debug\netcoreapp3.1\TheV-Logger.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\TheV-Logger\obj\Debug\netcoreapp3.1\TheV-Logger.AssemblyInfo.cs
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\TheV-Logger\obj\Debug\netcoreapp3.1\TheV-Logger.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\TheV-Logger\obj\Debug\netcoreapp3.1\TheV-Logger.dll
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\TheV-Logger\obj\Debug\netcoreapp3.1\TheV-Logger.pdb
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\TheV-Logger\obj\Debug\netcoreapp3.1\TheV-Logger.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.exe
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.deps.json
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.runtimeconfig.json
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.runtimeconfig.dev.json
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.dll
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.pdb
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.AssemblyInfo.cs
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.dll
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.pdb
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.genruntimeconfig.cache

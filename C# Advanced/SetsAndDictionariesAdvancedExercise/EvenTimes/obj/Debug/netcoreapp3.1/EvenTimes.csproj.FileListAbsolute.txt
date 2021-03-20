@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.exe
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.deps.json
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.runtimeconfig.json
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.runtimeconfig.dev.json
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.dll
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.pdb
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.AssemblyInfo.cs
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.dll
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.pdb
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.genruntimeconfig.cache

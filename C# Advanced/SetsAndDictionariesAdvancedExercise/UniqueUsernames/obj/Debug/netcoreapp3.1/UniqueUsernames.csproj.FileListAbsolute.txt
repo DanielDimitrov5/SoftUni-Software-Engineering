@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\bin\Debug\netcoreapp3.1\UniqueUsernames.exe
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\bin\Debug\netcoreapp3.1\UniqueUsernames.deps.json
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\bin\Debug\netcoreapp3.1\UniqueUsernames.runtimeconfig.json
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\bin\Debug\netcoreapp3.1\UniqueUsernames.runtimeconfig.dev.json
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\bin\Debug\netcoreapp3.1\UniqueUsernames.dll
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\bin\Debug\netcoreapp3.1\UniqueUsernames.pdb
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.AssemblyInfo.cs
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.dll
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.pdb
+C:\Users\USER\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.genruntimeconfig.cache
