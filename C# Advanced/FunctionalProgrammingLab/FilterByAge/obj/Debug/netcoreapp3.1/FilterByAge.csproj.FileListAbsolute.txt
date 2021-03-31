@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\FunctionalProgrammingLab\FilterByAge\bin\Debug\netcoreapp3.1\FilterByAge.exe
+C:\Users\USER\source\repos\FunctionalProgrammingLab\FilterByAge\bin\Debug\netcoreapp3.1\FilterByAge.deps.json
+C:\Users\USER\source\repos\FunctionalProgrammingLab\FilterByAge\bin\Debug\netcoreapp3.1\FilterByAge.runtimeconfig.json
+C:\Users\USER\source\repos\FunctionalProgrammingLab\FilterByAge\bin\Debug\netcoreapp3.1\FilterByAge.runtimeconfig.dev.json
+C:\Users\USER\source\repos\FunctionalProgrammingLab\FilterByAge\bin\Debug\netcoreapp3.1\FilterByAge.dll
+C:\Users\USER\source\repos\FunctionalProgrammingLab\FilterByAge\bin\Debug\netcoreapp3.1\FilterByAge.pdb
+C:\Users\USER\source\repos\FunctionalProgrammingLab\FilterByAge\obj\Debug\netcoreapp3.1\FilterByAge.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\FunctionalProgrammingLab\FilterByAge\obj\Debug\netcoreapp3.1\FilterByAge.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FunctionalProgrammingLab\FilterByAge\obj\Debug\netcoreapp3.1\FilterByAge.AssemblyInfo.cs
+C:\Users\USER\source\repos\FunctionalProgrammingLab\FilterByAge\obj\Debug\netcoreapp3.1\FilterByAge.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FunctionalProgrammingLab\FilterByAge\obj\Debug\netcoreapp3.1\FilterByAge.dll
+C:\Users\USER\source\repos\FunctionalProgrammingLab\FilterByAge\obj\Debug\netcoreapp3.1\FilterByAge.pdb
+C:\Users\USER\source\repos\FunctionalProgrammingLab\FilterByAge\obj\Debug\netcoreapp3.1\FilterByAge.genruntimeconfig.cache
