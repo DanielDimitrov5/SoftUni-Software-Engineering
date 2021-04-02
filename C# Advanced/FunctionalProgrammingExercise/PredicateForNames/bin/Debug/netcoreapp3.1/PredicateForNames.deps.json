@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PredicateForNames/1.0.0": {
+        "runtime": {
+          "PredicateForNames.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PredicateForNames/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.exe
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.deps.json
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.runtimeconfig.json
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.runtimeconfig.dev.json
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.dll
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.pdb
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.AssemblyInfo.cs
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.dll
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.pdb
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.genruntimeconfig.cache

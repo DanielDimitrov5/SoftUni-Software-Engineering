@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\CustomComperator\bin\Debug\netcoreapp3.1\CustomComperator.exe
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\CustomComperator\bin\Debug\netcoreapp3.1\CustomComperator.deps.json
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\CustomComperator\bin\Debug\netcoreapp3.1\CustomComperator.runtimeconfig.json
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\CustomComperator\bin\Debug\netcoreapp3.1\CustomComperator.runtimeconfig.dev.json
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\CustomComperator\bin\Debug\netcoreapp3.1\CustomComperator.dll
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\CustomComperator\bin\Debug\netcoreapp3.1\CustomComperator.pdb
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\CustomComperator\obj\Debug\netcoreapp3.1\CustomComperator.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\CustomComperator\obj\Debug\netcoreapp3.1\CustomComperator.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\CustomComperator\obj\Debug\netcoreapp3.1\CustomComperator.AssemblyInfo.cs
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\CustomComperator\obj\Debug\netcoreapp3.1\CustomComperator.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\CustomComperator\obj\Debug\netcoreapp3.1\CustomComperator.dll
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\CustomComperator\obj\Debug\netcoreapp3.1\CustomComperator.pdb
+C:\Users\USER\source\repos\FunctionalProgrammingExercise\CustomComperator\obj\Debug\netcoreapp3.1\CustomComperator.genruntimeconfig.cache
