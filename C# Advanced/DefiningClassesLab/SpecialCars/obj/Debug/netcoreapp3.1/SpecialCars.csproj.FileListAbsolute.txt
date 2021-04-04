@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\DefiningClassesLab\SpecialCars\bin\Debug\netcoreapp3.1\SpecialCars.exe
+C:\Users\USER\source\repos\DefiningClassesLab\SpecialCars\bin\Debug\netcoreapp3.1\SpecialCars.deps.json
+C:\Users\USER\source\repos\DefiningClassesLab\SpecialCars\bin\Debug\netcoreapp3.1\SpecialCars.runtimeconfig.json
+C:\Users\USER\source\repos\DefiningClassesLab\SpecialCars\bin\Debug\netcoreapp3.1\SpecialCars.runtimeconfig.dev.json
+C:\Users\USER\source\repos\DefiningClassesLab\SpecialCars\bin\Debug\netcoreapp3.1\SpecialCars.dll
+C:\Users\USER\source\repos\DefiningClassesLab\SpecialCars\bin\Debug\netcoreapp3.1\SpecialCars.pdb
+C:\Users\USER\source\repos\DefiningClassesLab\SpecialCars\obj\Debug\netcoreapp3.1\SpecialCars.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\DefiningClassesLab\SpecialCars\obj\Debug\netcoreapp3.1\SpecialCars.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DefiningClassesLab\SpecialCars\obj\Debug\netcoreapp3.1\SpecialCars.AssemblyInfo.cs
+C:\Users\USER\source\repos\DefiningClassesLab\SpecialCars\obj\Debug\netcoreapp3.1\SpecialCars.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DefiningClassesLab\SpecialCars\obj\Debug\netcoreapp3.1\SpecialCars.dll
+C:\Users\USER\source\repos\DefiningClassesLab\SpecialCars\obj\Debug\netcoreapp3.1\SpecialCars.pdb
+C:\Users\USER\source\repos\DefiningClassesLab\SpecialCars\obj\Debug\netcoreapp3.1\SpecialCars.genruntimeconfig.cache

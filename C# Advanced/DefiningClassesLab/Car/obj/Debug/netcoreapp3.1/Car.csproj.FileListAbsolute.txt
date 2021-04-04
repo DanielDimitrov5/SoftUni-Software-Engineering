@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\DefiningClassesLab\Car\bin\Debug\netcoreapp3.1\Car.exe
+C:\Users\USER\source\repos\DefiningClassesLab\Car\bin\Debug\netcoreapp3.1\Car.deps.json
+C:\Users\USER\source\repos\DefiningClassesLab\Car\bin\Debug\netcoreapp3.1\Car.runtimeconfig.json
+C:\Users\USER\source\repos\DefiningClassesLab\Car\bin\Debug\netcoreapp3.1\Car.runtimeconfig.dev.json
+C:\Users\USER\source\repos\DefiningClassesLab\Car\bin\Debug\netcoreapp3.1\Car.dll
+C:\Users\USER\source\repos\DefiningClassesLab\Car\bin\Debug\netcoreapp3.1\Car.pdb
+C:\Users\USER\source\repos\DefiningClassesLab\Car\obj\Debug\netcoreapp3.1\Car.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\DefiningClassesLab\Car\obj\Debug\netcoreapp3.1\Car.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DefiningClassesLab\Car\obj\Debug\netcoreapp3.1\Car.AssemblyInfo.cs
+C:\Users\USER\source\repos\DefiningClassesLab\Car\obj\Debug\netcoreapp3.1\Car.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DefiningClassesLab\Car\obj\Debug\netcoreapp3.1\Car.dll
+C:\Users\USER\source\repos\DefiningClassesLab\Car\obj\Debug\netcoreapp3.1\Car.pdb
+C:\Users\USER\source\repos\DefiningClassesLab\Car\obj\Debug\netcoreapp3.1\Car.genruntimeconfig.cache
