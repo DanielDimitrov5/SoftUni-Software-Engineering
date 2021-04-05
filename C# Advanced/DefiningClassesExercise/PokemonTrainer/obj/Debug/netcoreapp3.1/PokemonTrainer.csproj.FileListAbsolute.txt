@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\DefiningClassesExercise\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.exe
+C:\Users\USER\source\repos\DefiningClassesExercise\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.deps.json
+C:\Users\USER\source\repos\DefiningClassesExercise\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.runtimeconfig.json
+C:\Users\USER\source\repos\DefiningClassesExercise\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.runtimeconfig.dev.json
+C:\Users\USER\source\repos\DefiningClassesExercise\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.dll
+C:\Users\USER\source\repos\DefiningClassesExercise\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.pdb
+C:\Users\USER\source\repos\DefiningClassesExercise\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DefiningClassesExercise\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.AssemblyInfo.cs
+C:\Users\USER\source\repos\DefiningClassesExercise\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DefiningClassesExercise\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.dll
+C:\Users\USER\source\repos\DefiningClassesExercise\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.pdb
+C:\Users\USER\source\repos\DefiningClassesExercise\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.genruntimeconfig.cache
+C:\Users\USER\source\repos\DefiningClassesExercise\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.csprojAssemblyReference.cache

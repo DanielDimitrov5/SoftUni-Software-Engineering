@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\DefiningClassesExercise\OpinionPool\bin\Debug\netcoreapp3.1\OpinionPool.exe
+C:\Users\USER\source\repos\DefiningClassesExercise\OpinionPool\bin\Debug\netcoreapp3.1\OpinionPool.deps.json
+C:\Users\USER\source\repos\DefiningClassesExercise\OpinionPool\bin\Debug\netcoreapp3.1\OpinionPool.runtimeconfig.json
+C:\Users\USER\source\repos\DefiningClassesExercise\OpinionPool\bin\Debug\netcoreapp3.1\OpinionPool.runtimeconfig.dev.json
+C:\Users\USER\source\repos\DefiningClassesExercise\OpinionPool\bin\Debug\netcoreapp3.1\OpinionPool.dll
+C:\Users\USER\source\repos\DefiningClassesExercise\OpinionPool\bin\Debug\netcoreapp3.1\OpinionPool.pdb
+C:\Users\USER\source\repos\DefiningClassesExercise\OpinionPool\obj\Debug\netcoreapp3.1\OpinionPool.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DefiningClassesExercise\OpinionPool\obj\Debug\netcoreapp3.1\OpinionPool.AssemblyInfo.cs
+C:\Users\USER\source\repos\DefiningClassesExercise\OpinionPool\obj\Debug\netcoreapp3.1\OpinionPool.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DefiningClassesExercise\OpinionPool\obj\Debug\netcoreapp3.1\OpinionPool.dll
+C:\Users\USER\source\repos\DefiningClassesExercise\OpinionPool\obj\Debug\netcoreapp3.1\OpinionPool.pdb
+C:\Users\USER\source\repos\DefiningClassesExercise\OpinionPool\obj\Debug\netcoreapp3.1\OpinionPool.genruntimeconfig.cache

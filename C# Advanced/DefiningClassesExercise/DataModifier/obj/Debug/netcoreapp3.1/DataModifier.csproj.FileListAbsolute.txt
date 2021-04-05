@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\DefiningClassesExercise\DataModifier\bin\Debug\netcoreapp3.1\DataModifier.exe
+C:\Users\USER\source\repos\DefiningClassesExercise\DataModifier\bin\Debug\netcoreapp3.1\DataModifier.deps.json
+C:\Users\USER\source\repos\DefiningClassesExercise\DataModifier\bin\Debug\netcoreapp3.1\DataModifier.runtimeconfig.json
+C:\Users\USER\source\repos\DefiningClassesExercise\DataModifier\bin\Debug\netcoreapp3.1\DataModifier.runtimeconfig.dev.json
+C:\Users\USER\source\repos\DefiningClassesExercise\DataModifier\bin\Debug\netcoreapp3.1\DataModifier.dll
+C:\Users\USER\source\repos\DefiningClassesExercise\DataModifier\bin\Debug\netcoreapp3.1\DataModifier.pdb
+C:\Users\USER\source\repos\DefiningClassesExercise\DataModifier\obj\Debug\netcoreapp3.1\DataModifier.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DefiningClassesExercise\DataModifier\obj\Debug\netcoreapp3.1\DataModifier.AssemblyInfo.cs
+C:\Users\USER\source\repos\DefiningClassesExercise\DataModifier\obj\Debug\netcoreapp3.1\DataModifier.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DefiningClassesExercise\DataModifier\obj\Debug\netcoreapp3.1\DataModifier.dll
+C:\Users\USER\source\repos\DefiningClassesExercise\DataModifier\obj\Debug\netcoreapp3.1\DataModifier.pdb
+C:\Users\USER\source\repos\DefiningClassesExercise\DataModifier\obj\Debug\netcoreapp3.1\DataModifier.genruntimeconfig.cache

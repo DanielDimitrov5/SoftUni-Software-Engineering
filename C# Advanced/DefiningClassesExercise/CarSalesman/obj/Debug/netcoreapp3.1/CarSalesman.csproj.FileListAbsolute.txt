@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\DefiningClassesExercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.exe
+C:\Users\USER\source\repos\DefiningClassesExercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.deps.json
+C:\Users\USER\source\repos\DefiningClassesExercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.runtimeconfig.json
+C:\Users\USER\source\repos\DefiningClassesExercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.runtimeconfig.dev.json
+C:\Users\USER\source\repos\DefiningClassesExercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.dll
+C:\Users\USER\source\repos\DefiningClassesExercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.pdb
+C:\Users\USER\source\repos\DefiningClassesExercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\DefiningClassesExercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DefiningClassesExercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.AssemblyInfo.cs
+C:\Users\USER\source\repos\DefiningClassesExercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DefiningClassesExercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.dll
+C:\Users\USER\source\repos\DefiningClassesExercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.pdb
+C:\Users\USER\source\repos\DefiningClassesExercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.genruntimeconfig.cache
