@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\GenericsLab\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.exe
+C:\Users\USER\source\repos\GenericsLab\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.deps.json
+C:\Users\USER\source\repos\GenericsLab\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.runtimeconfig.json
+C:\Users\USER\source\repos\GenericsLab\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.runtimeconfig.dev.json
+C:\Users\USER\source\repos\GenericsLab\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.dll
+C:\Users\USER\source\repos\GenericsLab\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.pdb
+C:\Users\USER\source\repos\GenericsLab\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\GenericsLab\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\GenericsLab\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.AssemblyInfo.cs
+C:\Users\USER\source\repos\GenericsLab\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GenericsLab\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.dll
+C:\Users\USER\source\repos\GenericsLab\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.pdb
+C:\Users\USER\source\repos\GenericsLab\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.genruntimeconfig.cache
