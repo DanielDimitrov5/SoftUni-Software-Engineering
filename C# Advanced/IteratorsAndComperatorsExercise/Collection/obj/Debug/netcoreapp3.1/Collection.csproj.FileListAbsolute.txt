@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\bin\Debug\netcoreapp3.1\Collection.exe
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\bin\Debug\netcoreapp3.1\Collection.deps.json
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\bin\Debug\netcoreapp3.1\Collection.runtimeconfig.json
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\bin\Debug\netcoreapp3.1\Collection.runtimeconfig.dev.json
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\bin\Debug\netcoreapp3.1\Collection.dll
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\bin\Debug\netcoreapp3.1\Collection.pdb
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\obj\Debug\netcoreapp3.1\Collection.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\obj\Debug\netcoreapp3.1\Collection.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\obj\Debug\netcoreapp3.1\Collection.AssemblyInfo.cs
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\obj\Debug\netcoreapp3.1\Collection.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\obj\Debug\netcoreapp3.1\Collection.dll
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\obj\Debug\netcoreapp3.1\Collection.pdb
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\obj\Debug\netcoreapp3.1\Collection.genruntimeconfig.cache

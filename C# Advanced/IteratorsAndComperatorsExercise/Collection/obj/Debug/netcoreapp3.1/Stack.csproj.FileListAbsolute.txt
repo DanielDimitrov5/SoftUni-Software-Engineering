@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\bin\Debug\netcoreapp3.1\Stack.exe
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\bin\Debug\netcoreapp3.1\Stack.deps.json
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.json
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.dev.json
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\bin\Debug\netcoreapp3.1\Stack.dll
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\bin\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\obj\Debug\netcoreapp3.1\Stack.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\obj\Debug\netcoreapp3.1\Stack.dll
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\obj\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Collection\obj\Debug\netcoreapp3.1\Stack.genruntimeconfig.cache

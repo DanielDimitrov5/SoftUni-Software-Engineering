@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Equality\bin\Debug\netcoreapp3.1\Equality.exe
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Equality\bin\Debug\netcoreapp3.1\Equality.deps.json
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Equality\bin\Debug\netcoreapp3.1\Equality.runtimeconfig.json
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Equality\bin\Debug\netcoreapp3.1\Equality.runtimeconfig.dev.json
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Equality\bin\Debug\netcoreapp3.1\Equality.dll
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Equality\bin\Debug\netcoreapp3.1\Equality.pdb
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Equality\obj\Debug\netcoreapp3.1\Equality.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Equality\obj\Debug\netcoreapp3.1\Equality.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Equality\obj\Debug\netcoreapp3.1\Equality.AssemblyInfo.cs
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Equality\obj\Debug\netcoreapp3.1\Equality.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Equality\obj\Debug\netcoreapp3.1\Equality.dll
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Equality\obj\Debug\netcoreapp3.1\Equality.pdb
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\Equality\obj\Debug\netcoreapp3.1\Equality.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.exe
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.deps.json
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.runtimeconfig.json
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.runtimeconfig.dev.json
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.dll
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.pdb
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.AssemblyInfo.cs
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.dll
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.pdb
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.genruntimeconfig.cache

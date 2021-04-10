@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ЕqualityLogic\bin\Debug\netcoreapp3.0\ЕqualityLogic.exe
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ЕqualityLogic\bin\Debug\netcoreapp3.0\ЕqualityLogic.deps.json
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ЕqualityLogic\bin\Debug\netcoreapp3.0\ЕqualityLogic.runtimeconfig.json
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ЕqualityLogic\bin\Debug\netcoreapp3.0\ЕqualityLogic.runtimeconfig.dev.json
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ЕqualityLogic\bin\Debug\netcoreapp3.0\ЕqualityLogic.dll
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ЕqualityLogic\bin\Debug\netcoreapp3.0\ЕqualityLogic.pdb
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ЕqualityLogic\obj\Debug\netcoreapp3.0\ЕqualityLogic.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ЕqualityLogic\obj\Debug\netcoreapp3.0\ЕqualityLogic.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ЕqualityLogic\obj\Debug\netcoreapp3.0\ЕqualityLogic.AssemblyInfo.cs
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ЕqualityLogic\obj\Debug\netcoreapp3.0\ЕqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ЕqualityLogic\obj\Debug\netcoreapp3.0\ЕqualityLogic.dll
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ЕqualityLogic\obj\Debug\netcoreapp3.0\ЕqualityLogic.pdb
+C:\Users\USER\source\repos\IteratorsAndComperatorsExercise\ЕqualityLogic\obj\Debug\netcoreapp3.0\ЕqualityLogic.genruntimeconfig.cache
