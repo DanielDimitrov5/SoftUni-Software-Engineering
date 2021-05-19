@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\InheritanceLab\StackOfStrings\bin\Debug\netcoreapp3.1\StackOfStrings.exe
+C:\Users\USER\source\repos\InheritanceLab\StackOfStrings\bin\Debug\netcoreapp3.1\StackOfStrings.deps.json
+C:\Users\USER\source\repos\InheritanceLab\StackOfStrings\bin\Debug\netcoreapp3.1\StackOfStrings.runtimeconfig.json
+C:\Users\USER\source\repos\InheritanceLab\StackOfStrings\bin\Debug\netcoreapp3.1\StackOfStrings.runtimeconfig.dev.json
+C:\Users\USER\source\repos\InheritanceLab\StackOfStrings\bin\Debug\netcoreapp3.1\StackOfStrings.dll
+C:\Users\USER\source\repos\InheritanceLab\StackOfStrings\bin\Debug\netcoreapp3.1\StackOfStrings.pdb
+C:\Users\USER\source\repos\InheritanceLab\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\InheritanceLab\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\InheritanceLab\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.AssemblyInfo.cs
+C:\Users\USER\source\repos\InheritanceLab\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\InheritanceLab\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.dll
+C:\Users\USER\source\repos\InheritanceLab\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.pdb
+C:\Users\USER\source\repos\InheritanceLab\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.genruntimeconfig.cache
