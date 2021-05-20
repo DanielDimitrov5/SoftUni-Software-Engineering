@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\InheritanceExercise\Animals\bin\Debug\netcoreapp3.0\Animals.exe
+C:\Users\USER\source\repos\InheritanceExercise\Animals\bin\Debug\netcoreapp3.0\Animals.deps.json
+C:\Users\USER\source\repos\InheritanceExercise\Animals\bin\Debug\netcoreapp3.0\Animals.runtimeconfig.json
+C:\Users\USER\source\repos\InheritanceExercise\Animals\bin\Debug\netcoreapp3.0\Animals.runtimeconfig.dev.json
+C:\Users\USER\source\repos\InheritanceExercise\Animals\bin\Debug\netcoreapp3.0\Animals.dll
+C:\Users\USER\source\repos\InheritanceExercise\Animals\bin\Debug\netcoreapp3.0\Animals.pdb
+C:\Users\USER\source\repos\InheritanceExercise\Animals\obj\Debug\netcoreapp3.0\Animals.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\InheritanceExercise\Animals\obj\Debug\netcoreapp3.0\Animals.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\InheritanceExercise\Animals\obj\Debug\netcoreapp3.0\Animals.AssemblyInfo.cs
+C:\Users\USER\source\repos\InheritanceExercise\Animals\obj\Debug\netcoreapp3.0\Animals.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\InheritanceExercise\Animals\obj\Debug\netcoreapp3.0\Animals.dll
+C:\Users\USER\source\repos\InheritanceExercise\Animals\obj\Debug\netcoreapp3.0\Animals.pdb
+C:\Users\USER\source\repos\InheritanceExercise\Animals\obj\Debug\netcoreapp3.0\Animals.genruntimeconfig.cache

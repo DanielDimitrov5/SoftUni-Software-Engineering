@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\InheritanceExercise\AnimalsRetry\bin\Debug\netcoreapp3.1\AnimalsRetry.exe
+C:\Users\USER\source\repos\InheritanceExercise\AnimalsRetry\bin\Debug\netcoreapp3.1\AnimalsRetry.deps.json
+C:\Users\USER\source\repos\InheritanceExercise\AnimalsRetry\bin\Debug\netcoreapp3.1\AnimalsRetry.runtimeconfig.json
+C:\Users\USER\source\repos\InheritanceExercise\AnimalsRetry\bin\Debug\netcoreapp3.1\AnimalsRetry.runtimeconfig.dev.json
+C:\Users\USER\source\repos\InheritanceExercise\AnimalsRetry\bin\Debug\netcoreapp3.1\AnimalsRetry.dll
+C:\Users\USER\source\repos\InheritanceExercise\AnimalsRetry\bin\Debug\netcoreapp3.1\AnimalsRetry.pdb
+C:\Users\USER\source\repos\InheritanceExercise\AnimalsRetry\obj\Debug\netcoreapp3.1\AnimalsRetry.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\InheritanceExercise\AnimalsRetry\obj\Debug\netcoreapp3.1\AnimalsRetry.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\InheritanceExercise\AnimalsRetry\obj\Debug\netcoreapp3.1\AnimalsRetry.AssemblyInfo.cs
+C:\Users\USER\source\repos\InheritanceExercise\AnimalsRetry\obj\Debug\netcoreapp3.1\AnimalsRetry.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\InheritanceExercise\AnimalsRetry\obj\Debug\netcoreapp3.1\AnimalsRetry.dll
+C:\Users\USER\source\repos\InheritanceExercise\AnimalsRetry\obj\Debug\netcoreapp3.1\AnimalsRetry.pdb
+C:\Users\USER\source\repos\InheritanceExercise\AnimalsRetry\obj\Debug\netcoreapp3.1\AnimalsRetry.genruntimeconfig.cache
