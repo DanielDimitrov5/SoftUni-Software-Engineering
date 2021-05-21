@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\EncapsulationLab\FirstAndReserveTeam\bin\Debug\netcoreapp3.1\FirstAndReserveTeam.exe
+C:\Users\USER\source\repos\EncapsulationLab\FirstAndReserveTeam\bin\Debug\netcoreapp3.1\FirstAndReserveTeam.deps.json
+C:\Users\USER\source\repos\EncapsulationLab\FirstAndReserveTeam\bin\Debug\netcoreapp3.1\FirstAndReserveTeam.runtimeconfig.json
+C:\Users\USER\source\repos\EncapsulationLab\FirstAndReserveTeam\bin\Debug\netcoreapp3.1\FirstAndReserveTeam.runtimeconfig.dev.json
+C:\Users\USER\source\repos\EncapsulationLab\FirstAndReserveTeam\bin\Debug\netcoreapp3.1\FirstAndReserveTeam.dll
+C:\Users\USER\source\repos\EncapsulationLab\FirstAndReserveTeam\bin\Debug\netcoreapp3.1\FirstAndReserveTeam.pdb
+C:\Users\USER\source\repos\EncapsulationLab\FirstAndReserveTeam\obj\Debug\netcoreapp3.1\FirstAndReserveTeam.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\EncapsulationLab\FirstAndReserveTeam\obj\Debug\netcoreapp3.1\FirstAndReserveTeam.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\EncapsulationLab\FirstAndReserveTeam\obj\Debug\netcoreapp3.1\FirstAndReserveTeam.AssemblyInfo.cs
+C:\Users\USER\source\repos\EncapsulationLab\FirstAndReserveTeam\obj\Debug\netcoreapp3.1\FirstAndReserveTeam.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EncapsulationLab\FirstAndReserveTeam\obj\Debug\netcoreapp3.1\FirstAndReserveTeam.dll
+C:\Users\USER\source\repos\EncapsulationLab\FirstAndReserveTeam\obj\Debug\netcoreapp3.1\FirstAndReserveTeam.pdb
+C:\Users\USER\source\repos\EncapsulationLab\FirstAndReserveTeam\obj\Debug\netcoreapp3.1\FirstAndReserveTeam.genruntimeconfig.cache
