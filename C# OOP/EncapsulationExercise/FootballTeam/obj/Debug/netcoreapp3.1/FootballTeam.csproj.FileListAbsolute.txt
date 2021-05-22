@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\EncapsulationExercise\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.exe
+C:\Users\USER\source\repos\EncapsulationExercise\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.deps.json
+C:\Users\USER\source\repos\EncapsulationExercise\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.runtimeconfig.json
+C:\Users\USER\source\repos\EncapsulationExercise\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.runtimeconfig.dev.json
+C:\Users\USER\source\repos\EncapsulationExercise\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.dll
+C:\Users\USER\source\repos\EncapsulationExercise\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.pdb
+C:\Users\USER\source\repos\EncapsulationExercise\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\EncapsulationExercise\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\EncapsulationExercise\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.AssemblyInfo.cs
+C:\Users\USER\source\repos\EncapsulationExercise\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EncapsulationExercise\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.dll
+C:\Users\USER\source\repos\EncapsulationExercise\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.pdb
+C:\Users\USER\source\repos\EncapsulationExercise\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.genruntimeconfig.cache
