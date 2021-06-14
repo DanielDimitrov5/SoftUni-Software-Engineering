@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\InterfacesAndAbstractionExercise\\Telephony1\\Telephony.csproj",
-      "projectName": "Telephony",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\InterfacesAndAbstractionExercise\\Telephony1\\Telephony.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\InterfacesAndAbstractionExercise\\FoodShortage\\FoodShortage.csproj",
+      "projectName": "FoodShortage",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\InterfacesAndAbstractionExercise\\FoodShortage\\FoodShortage.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\InterfacesAndAbstractionExercise\\Telephony1\\obj\\",
+      "outputPath": "C:\\Users\\USER\\source\\repos\\InterfacesAndAbstractionExercise\\FoodShortage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
