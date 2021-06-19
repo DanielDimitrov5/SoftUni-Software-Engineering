@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\AdvancedExamPrep\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.exe
+C:\Users\USER\source\repos\AdvancedExamPrep\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.deps.json
+C:\Users\USER\source\repos\AdvancedExamPrep\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.json
+C:\Users\USER\source\repos\AdvancedExamPrep\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.dev.json
+C:\Users\USER\source\repos\AdvancedExamPrep\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.dll
+C:\Users\USER\source\repos\AdvancedExamPrep\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.pdb
+C:\Users\USER\source\repos\AdvancedExamPrep\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\AdvancedExamPrep\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\AdvancedExamPrep\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfo.cs
+C:\Users\USER\source\repos\AdvancedExamPrep\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\AdvancedExamPrep\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.dll
+C:\Users\USER\source\repos\AdvancedExamPrep\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.pdb
+C:\Users\USER\source\repos\AdvancedExamPrep\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.genruntimeconfig.cache

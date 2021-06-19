@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\AdvancedExamPrep\Garden\bin\Debug\netcoreapp3.1\Garden.exe
+C:\Users\USER\source\repos\AdvancedExamPrep\Garden\bin\Debug\netcoreapp3.1\Garden.deps.json
+C:\Users\USER\source\repos\AdvancedExamPrep\Garden\bin\Debug\netcoreapp3.1\Garden.runtimeconfig.json
+C:\Users\USER\source\repos\AdvancedExamPrep\Garden\bin\Debug\netcoreapp3.1\Garden.runtimeconfig.dev.json
+C:\Users\USER\source\repos\AdvancedExamPrep\Garden\bin\Debug\netcoreapp3.1\Garden.dll
+C:\Users\USER\source\repos\AdvancedExamPrep\Garden\bin\Debug\netcoreapp3.1\Garden.pdb
+C:\Users\USER\source\repos\AdvancedExamPrep\Garden\obj\Debug\netcoreapp3.1\Garden.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\AdvancedExamPrep\Garden\obj\Debug\netcoreapp3.1\Garden.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\AdvancedExamPrep\Garden\obj\Debug\netcoreapp3.1\Garden.AssemblyInfo.cs
+C:\Users\USER\source\repos\AdvancedExamPrep\Garden\obj\Debug\netcoreapp3.1\Garden.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\AdvancedExamPrep\Garden\obj\Debug\netcoreapp3.1\Garden.dll
+C:\Users\USER\source\repos\AdvancedExamPrep\Garden\obj\Debug\netcoreapp3.1\Garden.pdb
+C:\Users\USER\source\repos\AdvancedExamPrep\Garden\obj\Debug\netcoreapp3.1\Garden.genruntimeconfig.cache

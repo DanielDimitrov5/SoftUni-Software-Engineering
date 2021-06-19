@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scheduling", "Scheduling\Scheduling.csproj", "{0A6F0B7F-357D-4F9B-98F3-422198FEB1F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Garden", "Garden\Garden.csproj", "{D6AB8D8A-D5BC-44A8-83F0-561CFD32E2B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A6F0B7F-357D-4F9B-98F3-422198FEB1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6F0B7F-357D-4F9B-98F3-422198FEB1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6F0B7F-357D-4F9B-98F3-422198FEB1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6F0B7F-357D-4F9B-98F3-422198FEB1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6AB8D8A-D5BC-44A8-83F0-561CFD32E2B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6AB8D8A-D5BC-44A8-83F0-561CFD32E2B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6AB8D8A-D5BC-44A8-83F0-561CFD32E2B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6AB8D8A-D5BC-44A8-83F0-561CFD32E2B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83C539CF-1174-4433-81C5-CB20BB0FB51D}
+	EndGlobalSection
+EndGlobal
