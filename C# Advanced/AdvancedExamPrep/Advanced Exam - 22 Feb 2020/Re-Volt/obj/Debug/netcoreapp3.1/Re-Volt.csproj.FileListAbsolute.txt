@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Re-volt\bin\Debug\netcoreapp3.1\Re-Volt.exe
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Re-volt\bin\Debug\netcoreapp3.1\Re-Volt.deps.json
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Re-volt\bin\Debug\netcoreapp3.1\Re-Volt.runtimeconfig.json
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Re-volt\bin\Debug\netcoreapp3.1\Re-Volt.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Re-volt\bin\Debug\netcoreapp3.1\Re-Volt.dll
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Re-volt\bin\Debug\netcoreapp3.1\Re-Volt.pdb
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Re-volt\obj\Debug\netcoreapp3.1\Re-Volt.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Re-volt\obj\Debug\netcoreapp3.1\Re-Volt.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Re-volt\obj\Debug\netcoreapp3.1\Re-Volt.AssemblyInfo.cs
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Re-volt\obj\Debug\netcoreapp3.1\Re-Volt.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Re-volt\obj\Debug\netcoreapp3.1\Re-Volt.dll
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Re-volt\obj\Debug\netcoreapp3.1\Re-Volt.pdb
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Re-volt\obj\Debug\netcoreapp3.1\Re-Volt.genruntimeconfig.cache

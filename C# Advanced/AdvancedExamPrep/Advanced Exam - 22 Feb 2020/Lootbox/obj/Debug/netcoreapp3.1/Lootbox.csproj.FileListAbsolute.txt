@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.exe
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.deps.json
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.runtimeconfig.json
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.dll
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.pdb
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.AssemblyInfo.cs
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.dll
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.pdb
+C:\Users\USER\source\repos\Exams\Advanced Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.genruntimeconfig.cache
