@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.exe
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.deps.json
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.runtimeconfig.json
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.dll
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.pdb
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.AssemblyInfo.cs
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.dll
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.pdb
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.exe
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.AssemblyInfo.cs
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.dll
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.pdb
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.deps.json
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.runtimeconfig.json
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.dll
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.pdb
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.genruntimeconfig.cache

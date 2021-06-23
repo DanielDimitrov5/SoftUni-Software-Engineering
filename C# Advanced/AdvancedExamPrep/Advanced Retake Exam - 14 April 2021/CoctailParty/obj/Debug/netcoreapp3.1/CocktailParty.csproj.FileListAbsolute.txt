@@ -1,0 +1,26 @@
+C:\Users\USER\source\repos\AdvancedExams\bin\Debug\netcoreapp3.1\CocktailParty.exe
+C:\Users\USER\source\repos\AdvancedExams\bin\Debug\netcoreapp3.1\CocktailParty.deps.json
+C:\Users\USER\source\repos\AdvancedExams\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.json
+C:\Users\USER\source\repos\AdvancedExams\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.dev.json
+C:\Users\USER\source\repos\AdvancedExams\bin\Debug\netcoreapp3.1\CocktailParty.dll
+C:\Users\USER\source\repos\AdvancedExams\bin\Debug\netcoreapp3.1\CocktailParty.pdb
+C:\Users\USER\source\repos\AdvancedExams\obj\Debug\netcoreapp3.1\CocktailParty.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\AdvancedExams\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\AdvancedExams\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfo.cs
+C:\Users\USER\source\repos\AdvancedExams\obj\Debug\netcoreapp3.1\CocktailParty.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\AdvancedExams\obj\Debug\netcoreapp3.1\CocktailParty.dll
+C:\Users\USER\source\repos\AdvancedExams\obj\Debug\netcoreapp3.1\CocktailParty.pdb
+C:\Users\USER\source\repos\AdvancedExams\obj\Debug\netcoreapp3.1\CocktailParty.genruntimeconfig.cache
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\CoctailParty\bin\Debug\netcoreapp3.1\CocktailParty.exe
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\CoctailParty\bin\Debug\netcoreapp3.1\CocktailParty.deps.json
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\CoctailParty\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.json
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\CoctailParty\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\CoctailParty\bin\Debug\netcoreapp3.1\CocktailParty.dll
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\CoctailParty\bin\Debug\netcoreapp3.1\CocktailParty.pdb
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\CoctailParty\obj\Debug\netcoreapp3.1\CocktailParty.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\CoctailParty\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\CoctailParty\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfo.cs
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\CoctailParty\obj\Debug\netcoreapp3.1\CocktailParty.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\CoctailParty\obj\Debug\netcoreapp3.1\CocktailParty.dll
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\CoctailParty\obj\Debug\netcoreapp3.1\CocktailParty.pdb
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 14 April 2021\CoctailParty\obj\Debug\netcoreapp3.1\CocktailParty.genruntimeconfig.cache
