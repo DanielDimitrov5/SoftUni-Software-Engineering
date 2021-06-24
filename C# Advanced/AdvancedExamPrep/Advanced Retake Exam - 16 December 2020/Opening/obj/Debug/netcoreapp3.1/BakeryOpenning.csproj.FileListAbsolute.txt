@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 16 December 2020\Opening\bin\Debug\netcoreapp3.1\BakeryOpenning.exe
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 16 December 2020\Opening\bin\Debug\netcoreapp3.1\BakeryOpenning.deps.json
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 16 December 2020\Opening\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.json
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 16 December 2020\Opening\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 16 December 2020\Opening\bin\Debug\netcoreapp3.1\BakeryOpenning.dll
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 16 December 2020\Opening\bin\Debug\netcoreapp3.1\BakeryOpenning.pdb
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 16 December 2020\Opening\obj\Debug\netcoreapp3.1\BakeryOpenning.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 16 December 2020\Opening\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 16 December 2020\Opening\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfo.cs
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 16 December 2020\Opening\obj\Debug\netcoreapp3.1\BakeryOpenning.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 16 December 2020\Opening\obj\Debug\netcoreapp3.1\BakeryOpenning.dll
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 16 December 2020\Opening\obj\Debug\netcoreapp3.1\BakeryOpenning.pdb
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 16 December 2020\Opening\obj\Debug\netcoreapp3.1\BakeryOpenning.genruntimeconfig.cache
