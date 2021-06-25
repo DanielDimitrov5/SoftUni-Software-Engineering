@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\Warships\bin\Debug\netcoreapp3.1\Warships.exe
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\Warships\bin\Debug\netcoreapp3.1\Warships.deps.json
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\Warships\bin\Debug\netcoreapp3.1\Warships.runtimeconfig.json
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\Warships\bin\Debug\netcoreapp3.1\Warships.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\Warships\bin\Debug\netcoreapp3.1\Warships.dll
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\Warships\bin\Debug\netcoreapp3.1\Warships.pdb
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\Warships\obj\Debug\netcoreapp3.1\Warships.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\Warships\obj\Debug\netcoreapp3.1\Warships.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\Warships\obj\Debug\netcoreapp3.1\Warships.AssemblyInfo.cs
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\Warships\obj\Debug\netcoreapp3.1\Warships.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\Warships\obj\Debug\netcoreapp3.1\Warships.dll
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\Warships\obj\Debug\netcoreapp3.1\Warships.pdb
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\Warships\obj\Debug\netcoreapp3.1\Warships.genruntimeconfig.cache

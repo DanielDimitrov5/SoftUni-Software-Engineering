@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\TheRace\bin\Debug\netcoreapp3.1\TheRace.exe
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\TheRace\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.json
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\TheRace\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\TheRace\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\USER\source\repos\Exams\Advanced Exam - 20 February 2021\TheRace\obj\Debug\netcoreapp3.1\TheRace.genruntimeconfig.cache
