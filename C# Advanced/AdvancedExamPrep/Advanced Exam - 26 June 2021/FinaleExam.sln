@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masterchef", "Masterchef\Masterchef.csproj", "{4D335A05-195A-427A-B344-15B1FB747816}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Survivor", "Survivor\Survivor.csproj", "{8349B1FC-4D5E-402C-AA77-CA919295D074}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkiRental", "SkiRental\SkiRental.csproj", "{A96E2A04-14ED-4AEA-B010-291F7A8D4045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D335A05-195A-427A-B344-15B1FB747816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D335A05-195A-427A-B344-15B1FB747816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D335A05-195A-427A-B344-15B1FB747816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D335A05-195A-427A-B344-15B1FB747816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8349B1FC-4D5E-402C-AA77-CA919295D074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8349B1FC-4D5E-402C-AA77-CA919295D074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8349B1FC-4D5E-402C-AA77-CA919295D074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8349B1FC-4D5E-402C-AA77-CA919295D074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A96E2A04-14ED-4AEA-B010-291F7A8D4045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96E2A04-14ED-4AEA-B010-291F7A8D4045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96E2A04-14ED-4AEA-B010-291F7A8D4045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96E2A04-14ED-4AEA-B010-291F7A8D4045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6524293F-B365-48A2-939C-5ACCAB813E5B}
+	EndGlobalSection
+EndGlobal
