@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 19 August 2020\Фее\bin\Debug\netcoreapp3.1\Bee.exe
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 19 August 2020\Фее\bin\Debug\netcoreapp3.1\Bee.deps.json
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 19 August 2020\Фее\bin\Debug\netcoreapp3.1\Bee.runtimeconfig.json
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 19 August 2020\Фее\bin\Debug\netcoreapp3.1\Bee.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 19 August 2020\Фее\bin\Debug\netcoreapp3.1\Bee.dll
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 19 August 2020\Фее\bin\Debug\netcoreapp3.1\Bee.pdb
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 19 August 2020\Фее\obj\Debug\netcoreapp3.1\Bee.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 19 August 2020\Фее\obj\Debug\netcoreapp3.1\Bee.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 19 August 2020\Фее\obj\Debug\netcoreapp3.1\Bee.AssemblyInfo.cs
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 19 August 2020\Фее\obj\Debug\netcoreapp3.1\Bee.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 19 August 2020\Фее\obj\Debug\netcoreapp3.1\Bee.dll
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 19 August 2020\Фее\obj\Debug\netcoreapp3.1\Bee.pdb
+C:\Users\USER\source\repos\Exams\Advanced Retake Exam - 19 August 2020\Фее\obj\Debug\netcoreapp3.1\Bee.genruntimeconfig.cache
