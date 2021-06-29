@@ -28,7 +28,7 @@
 | <a href="https://softuni.bg/trainings/3213/csharp-fundamentals-january-2021#lesson-21702"> Programming Fundamentals with C# </a> | <a href="https://softuni.bg/certificates/details/103843/8d9960b0"> Link</a> |
 | <a href="https://softuni.bg/trainings/3343/csharp-advanced-may-2021"> C# Advanced </a>                                             | <a href="#"> Soon</a> |
 | <a href="https://softuni.bg/trainings/3343/csharp-advanced-may-2021"> C# OOP </a>                                                      | <a href="https://github.com/DanielDimitrov5/SoftUni"> Soon</a> |
-| <a href="https://softuni.bg/trainings/3491/ms-sql-september-2021"> Databases Basics - MS SQL Server </a>   | <a href="https://github.com/DanielDimitrov5/SoftUni"> Soon</a> |
+| <a href="https://softuni.bg/trainings/3491/ms-sql-september-2021"> Databases Basics - MS SQL Server </a>   | <a href="https://github.com/DanielDimitrov5/SoftUni/blob/main/README.md"> Soon</a> |
 | <a href="https://softuni.bg/trainings/3492/entity-framework-core-october-2021"> Entity Framework Core </a>                         | <a href="https://github.com/DanielDimitrov5/SoftUni"> Soon</a> |
 | <a href="https://softuni.bg/trainings/3353/csharp-web-basics-basics-may-2021"> C# Web Basics </a>                                     | <a href="https://github.com/DanielDimitrov5/SoftUni"> Soon</a> |
 | <a href="https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021"> ASP.NET Core </a>                                          | <a href="https://github.com/DanielDimitrov5/SoftUni"> Soon</a> |
