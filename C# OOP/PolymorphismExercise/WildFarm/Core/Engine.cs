@@ -47,7 +47,7 @@ namespace WildFarm.Core
             Console.WriteLine(string.Join(Environment.NewLine, animals));
         }
 
-        public Animal CreateAnimal(string[] animalsInfo)
+        private Animal CreateAnimal(string[] animalsInfo)
         {
             string animalType = animalsInfo[0];
             string name = animalsInfo[1];
