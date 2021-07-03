@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\EncapsulationExercise\\AnimalFarm\\AnimalFarm.csproj",
+      "projectUniqueName": "C:\\SoftUni\\C# OOP\\EncapsulationExercise\\AnimalFarm\\AnimalFarm.csproj",
       "projectName": "AnimalFarm",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\EncapsulationExercise\\AnimalFarm\\AnimalFarm.csproj",
+      "projectPath": "C:\\SoftUni\\C# OOP\\EncapsulationExercise\\AnimalFarm\\AnimalFarm.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\EncapsulationExercise\\AnimalFarm\\obj\\",
+      "outputPath": "C:\\SoftUni\\C# OOP\\EncapsulationExercise\\AnimalFarm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

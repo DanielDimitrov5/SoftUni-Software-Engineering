@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\EncapsulationExercise\\ShoppingSpree\\ShoppingSpree.csproj",
+      "projectUniqueName": "C:\\SoftUni\\C# OOP\\EncapsulationExercise\\ShoppingSpree\\ShoppingSpree.csproj",
       "projectName": "ShoppingSpree",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\EncapsulationExercise\\ShoppingSpree\\ShoppingSpree.csproj",
+      "projectPath": "C:\\SoftUni\\C# OOP\\EncapsulationExercise\\ShoppingSpree\\ShoppingSpree.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\EncapsulationExercise\\ShoppingSpree\\obj\\",
+      "outputPath": "C:\\SoftUni\\C# OOP\\EncapsulationExercise\\ShoppingSpree\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

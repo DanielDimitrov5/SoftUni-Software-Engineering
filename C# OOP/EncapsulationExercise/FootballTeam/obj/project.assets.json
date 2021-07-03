@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\EncapsulationExercise\\FootballTeam\\FootballTeam.csproj",
+      "projectUniqueName": "C:\\SoftUni\\C# OOP\\EncapsulationExercise\\FootballTeam\\FootballTeam.csproj",
       "projectName": "FootballTeam",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\EncapsulationExercise\\FootballTeam\\FootballTeam.csproj",
+      "projectPath": "C:\\SoftUni\\C# OOP\\EncapsulationExercise\\FootballTeam\\FootballTeam.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\EncapsulationExercise\\FootballTeam\\obj\\",
+      "outputPath": "C:\\SoftUni\\C# OOP\\EncapsulationExercise\\FootballTeam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
