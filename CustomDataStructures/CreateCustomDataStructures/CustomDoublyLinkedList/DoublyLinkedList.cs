@@ -1,20 +1,18 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace CustomDoublyLinkedList
 {
     public class DoublyLinkedList<T>
     {
-        private ListNode<T> head;
+        private Node<T> head;
 
-        private ListNode<T> tail;
+        private Node<T> tail;
 
         public int Count { get; private set; }
 
-        public void AddHead(T element)
+        public void AddFirst(T element)
         {
-            ListNode<T> newHead = new ListNode<T>(element);
+            Node<T> newHead = new Node<T>(element);
 
             if (Count == 0)
             {
@@ -22,8 +20,8 @@ namespace CustomDoublyLinkedList
             }
             else
             {
-                newHead.NextNode = head;
-                head.PreviousNode = newHead;
+                newHead.Next = head;
+                head.Previous = newHead;
                 head = newHead;
             }
             Count++;
@@ -31,7 +29,7 @@ namespace CustomDoublyLinkedList
 
         public void AddLast(T element)
         {
-            ListNode<T> newTail = new ListNode<T>(element);
+            Node<T> newTail = new Node<T>(element);
 
             if (Count == 0)
             {
@@ -39,8 +37,8 @@ namespace CustomDoublyLinkedList
             }
             else
             {
-                newTail.PreviousNode = tail;
-                tail.NextNode = newTail;
+                newTail.Previous = tail;
+                tail.Next = newTail;
                 tail = newTail;
             }
             Count++;
@@ -55,11 +53,11 @@ namespace CustomDoublyLinkedList
 
             var firstElement = head.Value;
 
-            head = head.NextNode;
+            head = head.Next;
 
             if (head != null)
             {
-                head.PreviousNode = null;
+                head.Previous = null;
             }
             else
             {
@@ -79,11 +77,11 @@ namespace CustomDoublyLinkedList
 
             var lastElement = tail.Value;
 
-            tail = tail.PreviousNode;
+            tail = tail.Previous;
 
             if (tail != null)
             {
-                tail.NextNode = null;
+                tail.Next = null;
             }
             else
             {
@@ -101,7 +99,7 @@ namespace CustomDoublyLinkedList
             while (current != null)
             {
                 action(current.Value);
-                current = current.NextNode;
+                current = current.Next;
             }
         }
 
@@ -113,7 +111,7 @@ namespace CustomDoublyLinkedList
             for (int i = 0; i < Count; i++)
             {
                 array[i] = node.Value;
-                node = node.NextNode;
+                node = node.Next;
             }
 
             return array;

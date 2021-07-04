@@ -8,20 +8,21 @@ namespace CustomDoublyLinkedList
         {
             DoublyLinkedList<int> intList = new DoublyLinkedList<int>();
 
-            for (int i = 0; i < 3; i++)
+            for (int i = 0; i < 5; i++)
             {
-                intList.AddFirst(i + 2);
+                intList.AddFirst(i + 1);
             }
 
-            for (int i = 0; i < 3; i++)
+            for (int i = 0; i < 5; i++)
             {
                 intList.AddLast(i + 1);
             }
 
             intList.ForEach(x => Console.WriteLine(x + " "));
+
             Console.WriteLine("----------");
 
-            for (int i = 0; i < 6; i++)
+            for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine(intList.RemoveFirst());
             }
