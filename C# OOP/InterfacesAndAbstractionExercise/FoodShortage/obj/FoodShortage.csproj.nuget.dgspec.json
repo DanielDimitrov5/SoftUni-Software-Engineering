@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\InterfacesAndAbstractionExercise\\FoodShortage\\FoodShortage.csproj": {}
+    "C:\\Users\\USER\\source\\repos\\C# OOP\\InterfacesAndAbstractionExercise\\FoodShortage\\FoodShortage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\InterfacesAndAbstractionExercise\\FoodShortage\\FoodShortage.csproj": {
+    "C:\\Users\\USER\\source\\repos\\C# OOP\\InterfacesAndAbstractionExercise\\FoodShortage\\FoodShortage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\InterfacesAndAbstractionExercise\\FoodShortage\\FoodShortage.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\C# OOP\\InterfacesAndAbstractionExercise\\FoodShortage\\FoodShortage.csproj",
         "projectName": "FoodShortage",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\InterfacesAndAbstractionExercise\\FoodShortage\\FoodShortage.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\C# OOP\\InterfacesAndAbstractionExercise\\FoodShortage\\FoodShortage.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\InterfacesAndAbstractionExercise\\FoodShortage\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\C# OOP\\InterfacesAndAbstractionExercise\\FoodShortage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

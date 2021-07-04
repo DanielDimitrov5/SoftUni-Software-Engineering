@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\InterfacesAndAbstractionExercise\\DefineAnInterfaceIPerson\\DefineAnInterfaceIPerson.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\C# OOP\\InterfacesAndAbstractionExercise\\DefineAnInterfaceIPerson\\DefineAnInterfaceIPerson.csproj",
       "projectName": "DefineAnInterfaceIPerson",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\InterfacesAndAbstractionExercise\\DefineAnInterfaceIPerson\\DefineAnInterfaceIPerson.csproj",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\C# OOP\\InterfacesAndAbstractionExercise\\DefineAnInterfaceIPerson\\DefineAnInterfaceIPerson.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\InterfacesAndAbstractionExercise\\DefineAnInterfaceIPerson\\obj\\",
+      "outputPath": "C:\\Users\\USER\\source\\repos\\C# OOP\\InterfacesAndAbstractionExercise\\DefineAnInterfaceIPerson\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

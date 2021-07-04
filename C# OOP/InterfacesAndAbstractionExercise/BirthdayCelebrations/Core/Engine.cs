@@ -18,6 +18,20 @@ namespace BirthdayCelebrations.Core
 
         public void Run()
         {
+            int count = 0;
+            int total = 0;
+            string n = string.Empty;
+
+            while ((n = Console.ReadLine()) != "result")
+            {
+                count++;
+
+                total += int.Parse(n);
+            }
+
+            Console.WriteLine($"Result: {total * 1.0 / count}");
+
+            return;
             string input = string.Empty;
 
             while ((input = Console.ReadLine()) != "End")

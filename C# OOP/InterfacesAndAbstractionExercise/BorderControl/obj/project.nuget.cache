@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6XEs2G2H2C7yOj7gyzYPdGpW0pmNzh0We253Pnw1ci7Rl3X1OU4ghM/oyyLg1H3g8q63zZfrn7muYT3G05pQ4Q==",
+  "dgSpecHash": "Qq93KkYTAN4POBM00YH2Gnc6naKGtMPA6L6H0E1+Sgt8QBO6RGfz2Tpu4T5g87cAAzUvuOe4PT87QEAK1d8QVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\InterfacesAndAbstractionExercise\\BorderControl\\BorderControl.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\C# OOP\\InterfacesAndAbstractionExercise\\BorderControl\\BorderControl.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

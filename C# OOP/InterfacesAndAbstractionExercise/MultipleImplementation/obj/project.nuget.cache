@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bbJdaoTq9WUngLW5CF29VS81VEvdGPoRB/+b+lqkWcLekcQrYfGf9fPJqoby5Cn9moj8NIAMraMId1M2hBZefA==",
+  "dgSpecHash": "zjP1GukLwqy9buKjufmvHZD+Ibq96VX9CH6nK+UUMSuB/WmLs7d2RGE4DuFC3by9AwA8XTCU6C1D3R9SaFHLvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\InterfacesAndAbstractionExercise\\MultipleImplementation\\MultipleImplementation.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\C# OOP\\InterfacesAndAbstractionExercise\\MultipleImplementation\\MultipleImplementation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

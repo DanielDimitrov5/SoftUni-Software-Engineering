@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yVUFpo+XnQwnE7UpQfymIdv6q1hd1QunGaYNZtGKqsHCp5nNzi+G8/QhXyd+81Rm9KrgBnf44qtG70v0KhCFxQ==",
+  "dgSpecHash": "agThCfxpK3rkenRTv8n1CVoekNjHia/XUQOiIKwkUfzfUzrE3Bt0cNS/8CfDAXHxWspex+fj9Yfvzpb10dBMIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\InterfacesAndAbstractionExercise\\BirthdayCelebrations\\BirthdayCelebrations.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\C# OOP\\InterfacesAndAbstractionExercise\\BirthdayCelebrations\\BirthdayCelebrations.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
