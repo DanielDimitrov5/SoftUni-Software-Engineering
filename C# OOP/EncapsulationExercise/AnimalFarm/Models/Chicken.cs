@@ -43,7 +43,7 @@ namespace AnimalFarm.Models
 
             private set
             {
-                if (value < MinAge && value > MaxAge)
+                if (value < MinAge || value > MaxAge)
                 {
                     throw new Exception("Age should be between 0 and 15.");
                 }

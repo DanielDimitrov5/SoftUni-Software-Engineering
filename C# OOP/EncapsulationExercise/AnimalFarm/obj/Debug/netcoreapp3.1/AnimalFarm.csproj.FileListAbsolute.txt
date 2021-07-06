@@ -24,3 +24,16 @@ C:\Users\USER\source\repos\EncapsulationExercise\AnimalFarm\obj\Debug\netcoreapp
 C:\Users\USER\source\repos\EncapsulationExercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.dll
 C:\Users\USER\source\repos\EncapsulationExercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.pdb
 C:\Users\USER\source\repos\EncapsulationExercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.genruntimeconfig.cache
+C:\Users\USER\source\repos\C# OOP\EncapsulationExercise\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.exe
+C:\Users\USER\source\repos\C# OOP\EncapsulationExercise\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.deps.json
+C:\Users\USER\source\repos\C# OOP\EncapsulationExercise\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.json
+C:\Users\USER\source\repos\C# OOP\EncapsulationExercise\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.dev.json
+C:\Users\USER\source\repos\C# OOP\EncapsulationExercise\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.dll
+C:\Users\USER\source\repos\C# OOP\EncapsulationExercise\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.pdb
+C:\Users\USER\source\repos\C# OOP\EncapsulationExercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\C# OOP\EncapsulationExercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\C# OOP\EncapsulationExercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfo.cs
+C:\Users\USER\source\repos\C# OOP\EncapsulationExercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\C# OOP\EncapsulationExercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.dll
+C:\Users\USER\source\repos\C# OOP\EncapsulationExercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.pdb
+C:\Users\USER\source\repos\C# OOP\EncapsulationExercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.genruntimeconfig.cache
