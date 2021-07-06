@@ -20,9 +20,9 @@ namespace ValidationAttributes
                     .Cast<MyValidationAttribute>()
                     .ToArray();
 
-                foreach (var attrubute in attributes)
+                foreach (var attribute in attributes)
                 {
-                    if (attrubute.IsValid(property.GetValue(obj)) == false)
+                    if (attribute.IsValid(property.GetValue(obj)) == false)
                     {
                         return false;
                     }
