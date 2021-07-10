@@ -44,7 +44,10 @@
   <ItemGroup>
     <Compile Include="Axe.cs" />
     <Compile Include="Dummy.cs" />
+    <Compile Include="Fakes\FakeTarget.cs" />
+    <Compile Include="Fakes\FakeWeapon.cs" />
     <Compile Include="Hero.cs" />
+    <Compile Include="Interfaces\ITarget.cs" />
     <Compile Include="Interfaces\IWeapon.cs" />
     <Compile Include="StartUp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

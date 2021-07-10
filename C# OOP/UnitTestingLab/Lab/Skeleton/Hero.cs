@@ -1,38 +1,43 @@
-﻿public class Hero
+﻿using Skeleton.Interfaces;
+
+namespace Skeleton
 {
-    private string name;
-    private int experience;
-    private Axe weapon;
-
-    public Hero(string name)
+    public class Hero
     {
-        this.name = name;
-        this.experience = 0;
-        this.weapon = new Axe(10, 10);
-    }
+        private string name;
+        private int experience;
+        private IWeapon weapon;
 
-    public string Name
-    {
-        get { return this.name; }
-    }
-
-    public int Experience
-    {
-        get { return this.experience; }
-    }
-
-    public Axe Weapon
-    {
-        get { return this.weapon; }
-    }
-
-    public void Attack(Dummy target)
-    {
-        this.weapon.Attack(target);
-
-        if (target.IsDead())
+        public Hero(string name, IWeapon weapon)
         {
-            this.experience += target.GiveExperience();
+            this.name = name;
+            this.experience = 0;
+            this.weapon = weapon;
+        }
+
+        public string Name
+        {
+            get { return this.name; }
+        }
+
+        public int Experience
+        {
+            get { return this.experience; }
+        }
+
+        public IWeapon Weapon
+        {
+            get { return this.weapon; }
+        }
+
+        public void Attack(ITarget target)
+        {
+            this.weapon.Attack(target);
+
+            if (target.IsDead())
+            {
+                this.experience += target.GiveExperience();
+            }
         }
     }
 }

@@ -1,6 +1,9 @@
-﻿public class StartUp
+﻿namespace Skeleton
 {
-    static void Main(string[] args)
+    public class StartUp
     {
+        static void Main()
+        {
+        }
     }
 }
