@@ -29,18 +29,19 @@ namespace Tests
         }
 
         [Test]
-        public void NameSetterThrowsAnExceptionWhenNameIsNullOrWhiteSpace()
+        [TestCase("")]
+        [TestCase(" ")]
+        [TestCase(null)]
+        public void NameSetterThrowsAnExceptionWhenNameIsNullOrWhiteSpace(string invalidName)
         {
-            string emptyName = " ";
-
-            Assert.Throws<ArgumentException>(() => new Warrior(emptyName, damage, hp));
+            Assert.Throws<ArgumentException>(() => new Warrior(invalidName, damage, hp));
         }
 
         [Test]
-        public void DamageSetterThrowsAnExceptionWhenValueIsZeroOrLess()
+        [TestCase(0)]
+        [TestCase(-1)]
+        public void DamageSetterThrowsAnExceptionWhenValueIsZeroOrLess(int invalidDamage)
         {
-            int invalidDamage = 0;
-
             Assert.Throws<ArgumentException>(() => new Warrior(name, invalidDamage, hp));
         }
 
@@ -53,9 +54,11 @@ namespace Tests
         }
 
         [Test]
-        public void AttackMethodThrowsAnExceptionWhenAttackersHpIsLessThan_MIN_ATTACK_HP()
+        [TestCase(MIN_ATTACK_HP)]
+        [TestCase(MIN_ATTACK_HP - 1)]
+        public void AttackMethodThrowsAnExceptionWhenAttackersHpIsLessThan_MIN_ATTACK_HP(int minHp)
         {
-            Warrior warrior = new Warrior(name, damage, MIN_ATTACK_HP - 1);
+            Warrior warrior = new Warrior(name, damage, minHp);
             Warrior defender = new Warrior(name, damage, 70);
 
             Assert.That(() => warrior.Attack(defender),
@@ -63,10 +66,12 @@ namespace Tests
         }
 
         [Test]
-        public void AttackMethodThrowsAnExceptionWhenDefendersHpIsLessThan_MIN_ATTACK_HP()
+        [TestCase(MIN_ATTACK_HP)]
+        [TestCase(MIN_ATTACK_HP - 1)]
+        public void AttackMethodThrowsAnExceptionWhenDefendersHpIsLessThan_MIN_ATTACK_HP(int minHp)
         {
             Warrior warrior = new Warrior(name, damage, 70);
-            Warrior defender = new Warrior(name, damage, MIN_ATTACK_HP - 1);
+            Warrior defender = new Warrior(name, damage, minHp);
 
             Assert.That(() => warrior.Attack(defender),
                 Throws.InvalidOperationException.With.Message.EqualTo($"Enemy HP must be greater than {MIN_ATTACK_HP} in order to attack him!"));
