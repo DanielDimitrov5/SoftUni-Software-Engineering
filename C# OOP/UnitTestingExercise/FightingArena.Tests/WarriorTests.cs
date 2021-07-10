@@ -1,6 +1,6 @@
-using NUnit.Framework;
 using System;
 using FightingArena;
+using NUnit.Framework;
 
 namespace Tests
 {
@@ -29,28 +29,15 @@ namespace Tests
         }
 
         [Test]
-        [TestCase("")]
-        [TestCase(" ")]
-        [TestCase(null)]
-        public void NameSetterThrowsAnExceptionWhenNameIsNullOrWhiteSpace(string invalidName)
+        [TestCase("", 100, 100)]
+        [TestCase(" ", 100, 100)]
+        [TestCase(null, 100, 100)]
+        [TestCase("Warrior", 0, 100)]
+        [TestCase("Warrior", -1, 100)]
+        [TestCase("Warrior", 100, -1)]
+        public void SetterThrowsAnExceptionWhenDataIsInvalid(string invalidName, int invalidDamage, int invalidHp)
         {
-            Assert.Throws<ArgumentException>(() => new Warrior(invalidName, damage, hp));
-        }
-
-        [Test]
-        [TestCase(0)]
-        [TestCase(-1)]
-        public void DamageSetterThrowsAnExceptionWhenValueIsZeroOrLess(int invalidDamage)
-        {
-            Assert.Throws<ArgumentException>(() => new Warrior(name, invalidDamage, hp));
-        }
-
-        [Test]
-        public void HpSetterThrowsAnExceptionWhenValueIsLessThanZero()
-        {
-            int invalidHP = -1;
-
-            Assert.Throws<ArgumentException>(() => new Warrior(name, damage, invalidHP));
+            Assert.Throws<ArgumentException>(() => new Warrior(invalidName, invalidDamage, invalidHp));
         }
 
         [Test]
