@@ -4,6 +4,7 @@ using NUnit.Framework;
 
 namespace Tests
 {
+    [TestFixture]
     public class ExtendedDatabaseTests
     {
         private ExtendedDatabase.ExtendedDatabase data;
