@@ -4,6 +4,7 @@ using NUnit.Framework;
 
 namespace Tests
 {
+    [TestFixture]
     public class WarriorTests
     {
         private const int MIN_ATTACK_HP = 30;
