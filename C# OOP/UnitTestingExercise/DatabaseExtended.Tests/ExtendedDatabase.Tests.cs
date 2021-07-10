@@ -107,11 +107,11 @@ namespace Tests
         }
 
         [Test]
-        public void FindByUsernameMethodThrowsAnExceptionWhenUsernameIsNullOrEmpty()
+        [TestCase("")]
+        [TestCase(null)]
+        public void FindByUsernameMethodThrowsAnExceptionWhenUsernameIsNullOrEmpty(string name)
         {
-            string emptyName = string.Empty;
-
-            Assert.Throws<ArgumentNullException>(() => data.FindByUsername(emptyName));
+            Assert.Throws<ArgumentNullException>(() => data.FindByUsername(name));
         }
 
         [Test]
@@ -136,7 +136,7 @@ namespace Tests
         }
 
         [Test]
-        public void FindByIdMethodThrowsAnExceptionWhenUsernameIsNullOrEmpty()
+        public void FindByIdMethodThrowsAnExceptionWhenIdIsNegative()
         {
             int invalidId = -1;
 
