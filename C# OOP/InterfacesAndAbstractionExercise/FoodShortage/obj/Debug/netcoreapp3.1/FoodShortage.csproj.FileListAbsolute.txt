@@ -1,7 +1,0 @@
-C:\Users\USER\source\repos\InterfacesAndAbstractionExercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.exe
-C:\Users\USER\source\repos\InterfacesAndAbstractionExercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfoInputs.cache
-C:\Users\USER\source\repos\InterfacesAndAbstractionExercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfo.cs
-C:\Users\USER\source\repos\InterfacesAndAbstractionExercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.csproj.CoreCompileInputs.cache
-C:\Users\USER\source\repos\InterfacesAndAbstractionExercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.dll
-C:\Users\USER\source\repos\InterfacesAndAbstractionExercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.pdb
-C:\Users\USER\source\repos\InterfacesAndAbstractionExercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.csprojAssemblyReference.cache
