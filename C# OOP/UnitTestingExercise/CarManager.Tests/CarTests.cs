@@ -4,6 +4,7 @@ using NUnit.Framework;
 
 namespace Tests
 {
+    [TestFixture]
     public class CarTests
     {
         private readonly string make = "Seat";
