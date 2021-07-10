@@ -107,7 +107,7 @@ namespace Tests
         }
 
         [Test]
-        [TestCase("")]
+        [TestCase(string.Empty)]
         [TestCase(null)]
         public void FindByUsernameMethodThrowsAnExceptionWhenUsernameIsNullOrEmpty(string name)
         {
