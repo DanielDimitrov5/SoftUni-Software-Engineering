@@ -1,17 +1,12 @@
-﻿using System;
+using System;
 using System.Linq;
 using System.Collections.Generic;
-
-using Raiding.Models;
 using Raiding.Contracts;
 
 namespace Raiding.Core
 {
     public class Engine
     {
-        public Engine()
-        { }
-
         public void Run()
         {
             int n = int.Parse(Console.ReadLine());
@@ -23,30 +18,15 @@ namespace Raiding.Core
                 string name = Console.ReadLine();
                 string type = Console.ReadLine();
 
-                BaseHero hero = null;
+                Type heroType = Type.GetType($"Raiding.Models.{type}");
 
-                if (type == "Druid")
-                {
-                    hero = new Druid(name);
-                }
-                else if (type == "Paladin")
-                {
-                    hero = new Paladin(name);
-                }
-                else if (type == "Rogue")
-                {
-                    hero = new Rogue(name);
-                }
-                else if (type == "Warrior")
-                {
-                    hero = new Warrior(name);
-                }
-                else
+                if (heroType == null)
                 {
                     Console.WriteLine("Invalid hero!");
                     continue;
                 }
 
+                BaseHero hero = (BaseHero)Activator.CreateInstance(heroType, name);
                 raidGroup.Add(hero);
             }
 
