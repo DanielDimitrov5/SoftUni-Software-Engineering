@@ -6,12 +6,6 @@ namespace FoodShortage.Models
 {
     public class Citizen : IBuyer
     {
-        public string Name { get; set; }
-        public int Age { get; set; }
-        public string Id { get; set; }
-        public string Birthday { get; set; }
-        public int Food { get; set; }
-
         public Citizen(string name, int age, string id, string birthday)
         {
             Name = name;
@@ -20,6 +14,12 @@ namespace FoodShortage.Models
             Birthday = birthday;
             Food = 0;
         }
+        
+        public string Name { get; private set; }
+        public int Age { get; private set; }
+        public string Id { get; private set; }
+        public string Birthday { get; private set; }
+        public int Food { get; private set; }
 
         public void BuyFood()
         {
