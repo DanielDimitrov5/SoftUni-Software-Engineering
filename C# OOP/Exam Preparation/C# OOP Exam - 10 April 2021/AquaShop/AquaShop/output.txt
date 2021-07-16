@@ -1,0 +1,17 @@
+Successfully added SaltwaterAquarium.
+Successfully added Plant.
+Successfully added Plant.
+Successfully added Ornament.
+Successfully added Plant to DangerZone.
+Successfully added Plant to DangerZone.
+Successfully added Ornament to DangerZone.
+Successfully added SaltwaterFish to DangerZone.
+Successfully added SaltwaterFish to DangerZone.
+Fish fed: 2
+Invalid fish type.
+The value of Aquarium DangerZone is 96.17.
+Fish fed: 2
+DangerZone (SaltwaterAquarium):
+Fish: Curibou, Devil
+Decorations: 3
+Comfort: 11
