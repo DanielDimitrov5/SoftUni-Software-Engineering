@@ -1,0 +1,34 @@
+Added Healthy (Bread) to the menu
+Added Choco (Cake) to the menu
+Portion cannot be less or equal to zero
+Added HerbalTea (Bio) to the drink menu
+Added table number 1 in the bakery
+Added table number 2 in the bakery
+Added table number 3 in the bakery
+Added table number 4 in the bakery
+Capacity has to be greater than 0
+Added table number 6 in the bakery
+Table 1 has been reserved for 5 people
+Table 2 has been reserved for 1 people
+Table 3 has been reserved for 2 people
+Table 1 ordered Healthy
+Table 2 ordered Choco
+Table 3 ordered Choco
+Table 4 ordered Choco
+There is no Spring Divna available
+There is no Spring Divna available
+There is no Spring Herbal available
+There is no Spring Monin available
+Table: 4
+Type: OutsideTable
+Capacity: 20
+Price per Person: 3.50
+Table: 6
+Type: OutsideTable
+Capacity: 10
+Price per Person: 3.50
+Table: 1
+Bill: 15.40
+Table: 2
+Bill: 15.40
+Total income: 30.80lv
