@@ -31,8 +31,6 @@ namespace CustomStackClass
             });
 
             stack.ForEach(x => Console.WriteLine(x));
-
-
         }
     }
 }
