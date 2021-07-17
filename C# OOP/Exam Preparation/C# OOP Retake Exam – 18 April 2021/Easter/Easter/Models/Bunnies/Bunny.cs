@@ -65,6 +65,8 @@ namespace Easter.Models.Bunnies
 
                         Dyes.Remove(Dyes.First());
                     }
+                    
+                    break;
                 }
             }
         }
