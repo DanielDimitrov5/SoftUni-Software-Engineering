@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 
 using Easter.Utilities.Messages;
@@ -53,20 +53,15 @@ namespace Easter.Models.Bunnies
             }
             else
             {
-                while (true)
+                while (Dyes.Any())
                 {
-                    if (Dyes.Any())
+                    if (Dyes.First().IsFinished() == false)
                     {
-                        if (Dyes.First().IsFinished() == false)
-                        {
-                            Dyes.First().Use();
-                            break;
-                        }
-
-                        Dyes.Remove(Dyes.First());
+                        Dyes.First().Use();
+                        break;
                     }
-                    
-                    break;
+
+                    Dyes.Remove(Dyes.First());
                 }
             }
         }
