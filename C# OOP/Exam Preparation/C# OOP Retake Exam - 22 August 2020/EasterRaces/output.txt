@@ -1,0 +1,28 @@
+
+Driver Kevin is created.
+Driver Kevin is already created.
+Name Jose cannot be less than 5 symbols.
+Invalid horse power: 500.
+Model Kia cannot be less than 4 symbols.
+MuscleCar Ford is created.
+Car Ford is already create.
+Race LeMans could not be found.
+Race LeMans is created.
+Race Dakar could not be found.
+Driver Jose could not be found.
+Driver Kevin could not participate in race.
+Driver Kevin received car Ford.
+Driver Kevin added in LeMans race.
+SportsCar Porsche is created.
+MuscleCar Mustang is created.
+MuscleCar Dodge is created.
+Race Daytona is created.
+Driver Michael is created.
+Driver Peter is created.
+Driver Michael received car Porsche.
+Driver Peter received car Mustang.
+Driver Michael added in LeMans race.
+Driver Peter added in LeMans race.
+Driver Peter wins LeMans race.
+Driver Kevin is second in LeMans race.
+Driver Michael is third in LeMans race.
