@@ -1,65 +1,112 @@
+CREATE DATABASE SoftUni
+USE SoftUni
+
+CREATE TABLE Towns
+(
+	Id INT PRIMARY KEY IDENTITY,
+	[Name] NVARCHAR(30) NOT NULL
+)
+
+INSERT INTO Towns
+VALUES		('Sofis'),
+			('Plovdiv'),
+			('Varna'),
+			('Burgas')
+
+CREATE TABLE Addresses
+(
+	Id INT PRIMARY KEY IDENTITY,
+	AddressText	NVARCHAR(90) NOT NULL,
+	TownId INT FOREIGN KEY REFERENCES Towns(Id) NOT NULL
+)
+
+CREATE TABLE Departments
+(
+	Id INT PRIMARY KEY IDENTITY,
+	[Name] NVARCHAR(30) NOT NULL
+)
+
+INSERT INTO Departments
+VALUES		('Engineering'),
+			('Sales'),
+			('Marketing'),
+			('Software Development'),
+			('Quality Assurance')
+
+
+CREATE TABLE Employees
+(
+	Id INT PRIMARY KEY IDENTITY,
+	FirstName NVARCHAR(60) NOT NULL,		
+	MiddleName NVARCHAR(90) NOT NULL,		
+	LastName NVARCHAR(90) NOT NULL,
+	JobTitle NVARCHAR(30) NOT NULL,
+	DepartmentId INT FOREIGN KEY REFERENCES Departments(Id) NOT NULL,
+	HireDate DATE NOT NULL,
+	Salary DECIMAL(10, 2) NOT NULL,
+	AddressId INT FOREIGN KEY REFERENCES Addresses(Id)
+)
+
+	select convert(varchar, getdate(), 3)
+	delete from Employees
+
+INSERT INTO Employees
+VALUES		('Ivan', 'Ivanov', 'Ivanov', '.NET Developer', 4, '02/01/2013', 3500.00, NULL),
+			('Petar', 'Petrov', 'Petrov', 'Senior Engineer', 1, '03/02/2004', 4000.00, NULL),
+			('Maria', 'Petrova', 'Ivanova', 'Intern', 5, '08/28/2016', 525.25, NULL),
+			('Georgi', 'Teziev', 'Ivanov', 'CEO', 2, '12/09/2007', 3000.00, NULL),
+			('Peter', 'Pan', 'Pan', 'Intern', 3, '08/29/2016', 599.88, NULL)
+
+
+--Problem 19.	Basic Select All Fields
+
+SELECT * FROM Towns
+
 SELECT * FROM Departments
 
-SELECT [NAME] FROM Departments
-
-SELECT FirstName, LastName, Salary FROM Employees
-
-SELECT FirstName, MiddleName, LastName FROM Employees
-
-SELECT FirstName + '.' + LastName + '@softuni.bg' AS 'Full Email Address' 
-FROM Employees
-
-SELECT DISTINCT Salary FROM Employees
-
 SELECT * FROM Employees
-		 WHERE JobTitle = 'Sales Representative'
 
-SELECT FirstName, LastName, JobTitle 
-	   FROM Employees
-	   WHERE Salary BETWEEN 20000 AND 30000
 
-SELECT FirstName + ' ' + MiddleName + ' ' + LastName AS 'Full Name'
-	   FROM Employees
-	   WHERE Salary IN(25000, 14000, 12500, 23600)
+--Problem 20.	Basic Select All Fields and Order Them
 
-SELECT FirstName, LastName FROM Employees
-WHERE ManagerID IS NULL
+SELECT * FROM Towns ORDER BY([Name])
 
-SELECT FirstName, LastName, Salary FROM Employees
-WHERE Salary > 50000
-ORDER BY Salary DESC
+SELECT * FROM Departments ORDER BY([Name])
 
-SELECT TOP(5) FirstName, LastName 
-	   FROM Employees
-	   ORDER BY Salary DESC
+SELECT * FROM Employees ORDER BY (Salary) DESC
 
-SELECT FirstName, LastName 
-FROM Employees
-WHERE DepartmentID != 4
 
-SELECT * FROM Employees
-ORDER BY Salary DESC, FirstName, LastName DESC, MiddleName
+--Problem 21.	Basic Select Some Fields
 
-CREATE VIEW V_EmployeesSalaries AS
-SELECT FirstName, LastName, Salary FROM Employees
+SELECT [Name] FROM Towns ORDER BY([Name])
 
-CREATE VIEW V_EmployeeNameJobTitle AS
-SELECT FirstName + ' ' + COALESCE(NULLIF(MiddleName, ''), '') + ' ' + LastName AS 'Full Name', 
-	   JobTitle 
-	   FROM Employees
+SELECT [Name] FROM Departments ORDER BY([Name])
 
-SELECT DISTINCT JobTitle FROM Employees
+SELECT [FirstName], 
+	   [LastName], 
+	   [JobTitle], 
+	   [Salary]
+FROM Employees 
+ORDER BY (Salary) DESC
 
-SELECT TOP(10) * FROM Projects
-ORDER BY StartDate, Name
 
-SELECT TOP(7) FirstName, LastName, HireDate 
-	FROM Employees
-	ORDER BY HireDate DESC
+--Problem 22.	Increase Employees Salary
 
 UPDATE Employees
-SET Salary *= 1.12
-WHERE DepartmentID IN (1, 2, 4, 11)
+SET Salary *= 1.1
 
-SELECT Salary FROM Employees
+SELECT [Salary] FROM Employees
+
+
+--Problem 23.	Decrease Tax Rate
+
+UPDATE Payments
+SET TaxRate *= 0.97
+
+SELECT [TaxRate] FROM Payments
+
+
+--Problem 24.	Delete All Records
+
+DELETE  FROM Occupancies
 
