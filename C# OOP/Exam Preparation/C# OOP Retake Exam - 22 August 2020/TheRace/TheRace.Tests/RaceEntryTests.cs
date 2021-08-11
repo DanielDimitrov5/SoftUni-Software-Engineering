@@ -17,12 +17,6 @@ namespace TheRace.Tests
         }
 
         [Test]
-        public void CtorDictionary()
-        {
-
-        }
-
-        [Test]
         public void CounterWorks()
         {
             int count = 5;
