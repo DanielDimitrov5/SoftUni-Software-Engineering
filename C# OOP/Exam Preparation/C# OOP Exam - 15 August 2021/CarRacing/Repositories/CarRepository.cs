@@ -1,9 +1,10 @@
 ﻿using System;
+using System.Linq;
+using System.Collections.Generic;
+
+using CarRacing.Utilities.Messages;
 using CarRacing.Models.Cars.Contracts;
 using CarRacing.Repositories.Contracts;
-using System.Collections.Generic;
-using System.Linq;
-using CarRacing.Utilities.Messages;
 
 namespace CarRacing.Repositories
 {
@@ -14,10 +15,9 @@ namespace CarRacing.Repositories
         public CarRepository()
         {
             models = new List<ICar>();
-            Models = new List<ICar>();
         }
 
-        public IReadOnlyCollection<ICar> Models { get; private set; }
+        public IReadOnlyCollection<ICar> Models => new List<ICar>(models);
 
         public void Add(ICar model)
         {
@@ -27,7 +27,6 @@ namespace CarRacing.Repositories
             }
 
             models.Add(model);
-            Models = models;
         }
 
         public ICar FindBy(string property)
@@ -38,8 +37,6 @@ namespace CarRacing.Repositories
         public bool Remove(ICar model)
         {
             bool removed = models.Remove(model);
-
-            Models = models;
 
             return removed;
         }

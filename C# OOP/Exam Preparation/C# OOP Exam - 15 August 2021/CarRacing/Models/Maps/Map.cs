@@ -39,7 +39,7 @@ namespace CarRacing.Models.Maps
 
             string winner = chanceOfWinningRacerOne > chanceOfWinningRacerTwo ? racerOne.Username : racerTwo.Username;
 
-            return string.Format(OutputMessages.RacerWinsRace, racerOne.Username, racerTwo.Username, winner)
+            return string.Format(OutputMessages.RacerWinsRace, racerOne.Username, racerTwo.Username, winner);
         }
     }
 }

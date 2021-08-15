@@ -107,6 +107,7 @@ namespace CarRacing.Core
                 sb.AppendLine(racer.ToString());
             }
 
+
             return sb.ToString().TrimEnd();
         }
     }

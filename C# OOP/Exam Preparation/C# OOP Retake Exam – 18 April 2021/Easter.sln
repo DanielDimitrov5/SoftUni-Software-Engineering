@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.30907.101
+VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarRacing", "CarRacing.csproj", "{C22BB60B-9655-4DC1-8269-9427579BE8BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Easter", "Easter\Easter.csproj", "{6A05FCC8-AF6A-4E54-8C90-8CF89D0F3DC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C22BB60B-9655-4DC1-8269-9427579BE8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C22BB60B-9655-4DC1-8269-9427579BE8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C22BB60B-9655-4DC1-8269-9427579BE8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C22BB60B-9655-4DC1-8269-9427579BE8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A05FCC8-AF6A-4E54-8C90-8CF89D0F3DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A05FCC8-AF6A-4E54-8C90-8CF89D0F3DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A05FCC8-AF6A-4E54-8C90-8CF89D0F3DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A05FCC8-AF6A-4E54-8C90-8CF89D0F3DC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B6A7C8B9-5962-4A09-96DF-4AFD4A7A00C1}
+		SolutionGuid = {A7D6C795-297A-43FB-AB11-FA3512C6B6C5}
 	EndGlobalSection
 EndGlobal
