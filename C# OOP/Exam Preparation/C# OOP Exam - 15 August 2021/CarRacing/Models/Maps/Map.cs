@@ -21,7 +21,6 @@ namespace CarRacing.Models.Maps
             if (racerOne.IsAvailable() == false)
             {
                 return string.Format(OutputMessages.OneRacerIsNotAvailable, racerTwo.Username, racerOne.Username);
-
             }
 
             double racingBehaviorMultiplierRacerOne = racerOne.RacingBehavior == "strict" ? 1.2 : 1.1;
