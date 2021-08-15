@@ -36,9 +36,7 @@ namespace CarRacing.Repositories
 
         public bool Remove(ICar model)
         {
-            bool removed = models.Remove(model);
-
-            return removed;
+            return models.Remove(model);
         }
     }
 }
