@@ -1,0 +1,43 @@
+Successfully added car BMW M8 (JN1HJ01P0MT518872).
+Successfully added car BMW 328i-E36 (4S2CK58W0Y4300188).
+Successfully added car Audi RS6 (5N1AN08W86C526409).
+Successfully added car BMW 325ci-E46 (KNAFE161585017020).
+Successfully added car Audi A4-B5 (WBSDE93413CF93422).
+Successfully added car Toyota Supra (1C6RD6GT7CS324125).
+Successfully added racer Shopoff.
+Successfully added racer Kris.
+Successfully added racer Atanas.
+Successfully added racer Dancho.
+Dancho has just raced against Shopoff! Shopoff is the winner!
+Dancho has just raced against Atanas! Atanas is the winner!
+Dancho has just raced against Kris! Dancho is the winner!
+Atanas has just raced against Dancho! Atanas is the winner!
+Shopoff has just raced against Atanas! Atanas is the winner!
+Shopoff has just raced against Dancho! Shopoff is the winner!
+Kris has just raced against Atanas! Atanas is the winner!
+Kris has just raced against Dancho! Dancho is the winner!
+Dancho has just raced against Kris! Kris is the winner!
+Dancho has just raced against Shopoff! Shopoff is the winner!
+Kris wins the race! Dancho was not available to race!
+Kris has just raced against Atanas! Atanas is the winner!
+Kris has just raced against Shopoff! Shopoff is the winner!
+Atanas has just raced against Kris! Atanas is the winner!
+Shopoff has just raced against Kris! Shopoff is the winner!
+Atanas wins the race! Kris was not available to race!
+Race cannot be completed because both racers are not available!
+ProfessionalRacer: Atanas
+--Driving behavior: strict
+--Driving experience: 90
+--Car: BMW M8 (JN1HJ01P0MT518872)
+ProfessionalRacer: Shopoff
+--Driving behavior: strict
+--Driving experience: 90
+--Car: Audi RS6 (5N1AN08W86C526409)
+StreetRacer: Dancho
+--Driving behavior: aggressive
+--Driving experience: 50
+--Car: BMW 328i-E36 (4S2CK58W0Y4300188)
+StreetRacer: Kris
+--Driving behavior: aggressive
+--Driving experience: 50
+--Car: BMW 325ci-E46 (KNAFE161585017020)
