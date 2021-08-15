@@ -1,4 +1,5 @@
-﻿using CarRacing.Models.Maps.Contracts;
+﻿using CarRacing.Utilities.Messages;
+using CarRacing.Models.Maps.Contracts;
 using CarRacing.Models.Racers.Contracts;
 
 namespace CarRacing.Models.Maps
@@ -9,17 +10,18 @@ namespace CarRacing.Models.Maps
         {
             if (racerOne.IsAvailable() == false && racerTwo.IsAvailable() == false)
             {
-                return "Race cannot be completed because both racers are not available!";
+                return OutputMessages.RaceCannotBeCompleted;
             }
 
             if (racerTwo.IsAvailable() == false)
             {
-                return $"{racerOne.Username} wins the race! {racerTwo.Username} was not available to race!";
+                return string.Format(OutputMessages.OneRacerIsNotAvailable, racerOne.Username, racerTwo.Username);
             }
 
             if (racerOne.IsAvailable() == false)
             {
-                return $"{racerTwo.Username} wins the race! {racerOne.Username} was not available to race!";
+                return string.Format(OutputMessages.OneRacerIsNotAvailable, racerTwo.Username, racerOne.Username);
+
             }
 
             double racingBehaviorMultiplierRacerOne = racerOne.RacingBehavior == "strict" ? 1.2 : 1.1;
@@ -37,7 +39,7 @@ namespace CarRacing.Models.Maps
 
             string winner = chanceOfWinningRacerOne > chanceOfWinningRacerTwo ? racerOne.Username : racerTwo.Username;
 
-            return $"{racerOne.Username} has just raced against {racerTwo.Username}! {winner} is the winner!";
+            return string.Format(OutputMessages.RacerWinsRace, racerOne.Username, racerTwo.Username, winner)
         }
     }
 }
