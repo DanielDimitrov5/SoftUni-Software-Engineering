@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InitialSetup", "InitialSetup\InitialSetup.csproj", "{3F256CE0-02BC-465C-8A19-F5284D6BFC09}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VillainNames", "VillainNames\VillainNames.csproj", "{A3086698-534B-4765-B866-E1CA12C95B35}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinionNames", "MinionNames\MinionNames.csproj", "{AC685E0D-F87E-4D58-8A3A-932A67F610D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddMinion", "AddMinion\AddMinion.csproj", "{2130123D-AFAB-499E-89C5-15C950E2DFC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeTownNamesCasing", "ChangeTownNamesCasing\ChangeTownNamesCasing.csproj", "{EF032241-9EC7-4877-80ED-454F6E78F29A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveVillain", "RemoveVillain\RemoveVillain.csproj", "{CB31F830-FCA8-4124-B40C-C9134E10C4A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintAllMinionNames", "PrintAllMinionNames\PrintAllMinionNames.csproj", "{19E60979-1C24-4D8D-9188-278A67392236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F256CE0-02BC-465C-8A19-F5284D6BFC09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F256CE0-02BC-465C-8A19-F5284D6BFC09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F256CE0-02BC-465C-8A19-F5284D6BFC09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F256CE0-02BC-465C-8A19-F5284D6BFC09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3086698-534B-4765-B866-E1CA12C95B35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3086698-534B-4765-B866-E1CA12C95B35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3086698-534B-4765-B866-E1CA12C95B35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3086698-534B-4765-B866-E1CA12C95B35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC685E0D-F87E-4D58-8A3A-932A67F610D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC685E0D-F87E-4D58-8A3A-932A67F610D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC685E0D-F87E-4D58-8A3A-932A67F610D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC685E0D-F87E-4D58-8A3A-932A67F610D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2130123D-AFAB-499E-89C5-15C950E2DFC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2130123D-AFAB-499E-89C5-15C950E2DFC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2130123D-AFAB-499E-89C5-15C950E2DFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2130123D-AFAB-499E-89C5-15C950E2DFC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF032241-9EC7-4877-80ED-454F6E78F29A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF032241-9EC7-4877-80ED-454F6E78F29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF032241-9EC7-4877-80ED-454F6E78F29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF032241-9EC7-4877-80ED-454F6E78F29A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB31F830-FCA8-4124-B40C-C9134E10C4A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB31F830-FCA8-4124-B40C-C9134E10C4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB31F830-FCA8-4124-B40C-C9134E10C4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB31F830-FCA8-4124-B40C-C9134E10C4A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E60979-1C24-4D8D-9188-278A67392236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E60979-1C24-4D8D-9188-278A67392236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E60979-1C24-4D8D-9188-278A67392236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E60979-1C24-4D8D-9188-278A67392236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DA86B8C-2F7E-485C-A734-5C46AA33ECFD}
+	EndGlobalSection
+EndGlobal
