@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUni", "SoftUni\SoftUni.csproj", "{27A6CD28-E8A8-4820-AADA-782E0C37131D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employees with Salary Over 50 000", "Employees with Salary Over 50 000\Employees with Salary Over 50 000.csproj", "{C2D3D42D-2DBD-4AC4-B91B-C05F45CBD30A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeesFullInformation", "EmployeesFullInformation\EmployeesFullInformation.csproj", "{8FA04BC3-1E95-4311-BC7E-CB299CF37F23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeesFromResearchAndDevelopment", "EmployeesFromResearchAndDevelopment\EmployeesFromResearchAndDevelopment.csproj", "{486DDAD4-D9C6-40EC-9B0D-BFEBB73B0639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddingANewAddressAndUpdatingEmployee", "AddingANewAddressAndUpdatingEmployee\AddingANewAddressAndUpdatingEmployee.csproj", "{86441FA1-541F-475C-BD1A-3DDE5BB57534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeesAndProjects", "EmployeesAndProjects\EmployeesAndProjects.csproj", "{52869E5F-D814-4EAB-B9F6-B4ED09EE782B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27A6CD28-E8A8-4820-AADA-782E0C37131D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A6CD28-E8A8-4820-AADA-782E0C37131D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A6CD28-E8A8-4820-AADA-782E0C37131D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A6CD28-E8A8-4820-AADA-782E0C37131D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2D3D42D-2DBD-4AC4-B91B-C05F45CBD30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D3D42D-2DBD-4AC4-B91B-C05F45CBD30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D3D42D-2DBD-4AC4-B91B-C05F45CBD30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D3D42D-2DBD-4AC4-B91B-C05F45CBD30A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FA04BC3-1E95-4311-BC7E-CB299CF37F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA04BC3-1E95-4311-BC7E-CB299CF37F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA04BC3-1E95-4311-BC7E-CB299CF37F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA04BC3-1E95-4311-BC7E-CB299CF37F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{486DDAD4-D9C6-40EC-9B0D-BFEBB73B0639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486DDAD4-D9C6-40EC-9B0D-BFEBB73B0639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486DDAD4-D9C6-40EC-9B0D-BFEBB73B0639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486DDAD4-D9C6-40EC-9B0D-BFEBB73B0639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86441FA1-541F-475C-BD1A-3DDE5BB57534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86441FA1-541F-475C-BD1A-3DDE5BB57534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86441FA1-541F-475C-BD1A-3DDE5BB57534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86441FA1-541F-475C-BD1A-3DDE5BB57534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52869E5F-D814-4EAB-B9F6-B4ED09EE782B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52869E5F-D814-4EAB-B9F6-B4ED09EE782B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52869E5F-D814-4EAB-B9F6-B4ED09EE782B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52869E5F-D814-4EAB-B9F6-B4ED09EE782B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF5C0966-7C4D-4244-A4F4-096C8ED7B45B}
+	EndGlobalSection
+EndGlobal
