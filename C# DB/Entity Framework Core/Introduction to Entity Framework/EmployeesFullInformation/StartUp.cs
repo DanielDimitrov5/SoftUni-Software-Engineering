@@ -21,8 +21,8 @@
             StringBuilder sb = new StringBuilder();
 
             var data = context.Employees
-                .Select(x => new { x.FirstName, x.LastName, x.MiddleName, x.JobTitle, x.Salary, x.EmployeeId })
-                .OrderBy(x => x.EmployeeId)
+                .Select(x => new {x.FirstName, x.LastName, x.MiddleName, x.JobTitle, x.Salary, x.EmployeeId})
+                .OrderBy(x => x.EmployeeId);
 
             foreach (var record in data)
             {
