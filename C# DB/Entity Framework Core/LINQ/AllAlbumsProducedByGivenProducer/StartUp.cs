@@ -62,10 +62,5 @@
 
             return sb.ToString().TrimEnd();
         }
-
-        public static string ExportSongsAboveDuration(MusicHubDbContext context, int duration)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
