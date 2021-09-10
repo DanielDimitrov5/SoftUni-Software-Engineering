@@ -1,4 +1,4 @@
-﻿namespace MusicHub
+namespace MusicHub
 {
     using System;
     using System.Linq;
@@ -34,7 +34,7 @@
                     {
                         song.Name, song.Price, song.Writer
                     }),
-                    songProperty = x.Songs,
+                    songCollection = x.Songs,
                     x.Price
                 })
                 .ToList();
