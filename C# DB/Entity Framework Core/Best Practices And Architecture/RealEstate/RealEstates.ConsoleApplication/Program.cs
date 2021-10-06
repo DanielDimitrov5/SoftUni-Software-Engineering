@@ -18,7 +18,7 @@
 
             Console.WriteLine("Select language for the option list:");
             Console.WriteLine("1. English");
-            Console.WriteLine("2. Bulgaria");
+            Console.WriteLine("2. Bulgarian");
 
             bool parsedOption = int.TryParse(Console.ReadLine(), out int input);
 
