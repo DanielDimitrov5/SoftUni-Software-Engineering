@@ -11,5 +11,11 @@
         public string PropertyType { get; set; }
 
         public string BuildingType { get; set; }
+
+        public override string ToString()
+        {
+            return
+                $"{DistrictName}: Price: {Price}€ -> Size: {Size}, Property type: {PropertyType}, Property building type: {BuildingType}";
+        }
     }
 }

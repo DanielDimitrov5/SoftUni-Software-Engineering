@@ -1,12 +1,14 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using RealEstates.Data;
-using RealEstates.Models;
-using RealEstates.Services.Dtos;
-
-namespace RealEstates.Services
+﻿namespace RealEstates.Services
 {
+    using System;
+    using System.Linq;
+    using System.Collections.Generic;
+    using Microsoft.EntityFrameworkCore;
+
+    using RealEstates.Data;
+    using RealEstates.Models;
+    using RealEstates.Services.Dtos;
+
     public class PropertiesService : IPropertiesService
     {
         private readonly RealEstateContext context;
@@ -77,6 +79,55 @@ namespace RealEstates.Services
                 .ToList();
 
             return properties;
+        }
+
+        public IEnumerable<PropertyDto> TagFilter(string tagsInput)
+        {
+            string[] tags = tagsInput.ToLower().Split(new[] { ",", ", " }, StringSplitOptions.RemoveEmptyEntries);
+
+            var properties = context.Properties
+                .Include(x => x.Tags)
+                .Include(x => x.District)
+                .Include(x => x.BuildingType)
+                .Include(x => x.PropertyType)
+                .Where(x => x.Tags.Count > 0)
+                .ToList();
+
+            var taggedProperties = new HashSet<PropertyDto>();
+
+            foreach (var property in properties)
+            {
+                bool tagPresent = false;
+
+                foreach (var tag in tags)
+                {
+                    if (property.Tags.Select(x => x.Name.ToLower()).Any(x => x == tag))
+                    {
+                        tagPresent = true;
+                        continue;
+                    }
+
+                    tagPresent = false;
+
+                    break;
+                }
+
+                if (tagPresent)
+                {
+                    PropertyDto dto = new PropertyDto
+                    {
+                        Price = property.Price,
+                        Size = property.Size,
+                        PropertyType = property.PropertyType.Name,
+                        BuildingType = property.BuildingType.Name,
+                        DistrictName = property.District.Name
+                    };
+
+                    taggedProperties.Add(dto);
+                }
+            }
+
+            return taggedProperties;
         }
     }
 }

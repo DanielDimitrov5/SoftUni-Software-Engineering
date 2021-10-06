@@ -8,8 +8,4 @@
     <ProjectReference Include="..\RealEstates.Data\RealEstates.Data.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Dtos\" />
-  </ItemGroup>
-
 </Project>

@@ -1,7 +1,7 @@
-﻿using System.Collections.Generic;
-
-namespace RealEstates.Models
+﻿namespace RealEstates.Models
 {
+    using System.Collections.Generic;
+
     public class Tag
     {
         public Tag()

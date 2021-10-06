@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-
-namespace RealEstates.Models
+﻿namespace RealEstates.Models
 {
+    using System.Collections.Generic;
+
     public class Property
     {
         public Property()
@@ -38,5 +36,10 @@ namespace RealEstates.Models
         public int Price { get; set; }
 
         public ICollection<Tag> Tags { get; set; }
+
+        public void AddTag(Tag tag)
+        {
+            Tags.Add(tag);
+        }
     }
 }

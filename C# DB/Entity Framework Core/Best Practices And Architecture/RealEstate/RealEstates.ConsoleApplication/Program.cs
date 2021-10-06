@@ -1,16 +1,18 @@
-﻿using System;
-using System.Linq;
-using System.Text;
-using RealEstates.Data;
-using RealEstates.Services;
-
-namespace RealEstates.ConsoleApplication
+﻿namespace RealEstates.ConsoleApplication
 {
+    using System;
+    using System.Linq;
+    using System.Text;
+
+    using RealEstates.Data;
+    using RealEstates.Services;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.OutputEncoding = Encoding.Unicode;
+            Console.InputEncoding = Encoding.Unicode;
 
             var context = new RealEstateContext();
 
@@ -18,9 +20,11 @@ namespace RealEstates.ConsoleApplication
             {
                 Console.Clear();
                 Console.WriteLine("Chose an option:");
-                Console.WriteLine("1. Property search");
-                Console.WriteLine("2. District info");
-                Console.WriteLine("3. Top districts by average price");
+                Console.WriteLine("1. Property search:");
+                Console.WriteLine("2. District info:");
+                Console.WriteLine("3. Top districts by average price:");
+                Console.WriteLine("4. Districts with average price per m²:");
+                Console.WriteLine("5. Filter by tags:");
                 Console.WriteLine("0. EXIT");
 
                 bool parsed = int.TryParse(Console.ReadLine(), out int option);
@@ -35,6 +39,8 @@ namespace RealEstates.ConsoleApplication
                     case 1: PropertySearch(context); break;
                     case 2: DistrictInfo(context); break;
                     case 3: TopDistrictsByAveragePrice(context); break;
+                    case 4: DistrictWithAvgPricePerSquareMeter(context); break;
+                    case 5: FilterByTag(context); break;
                     default:
                         Console.WriteLine("Invalid operation!");
                         break;
@@ -42,6 +48,35 @@ namespace RealEstates.ConsoleApplication
 
                 Console.WriteLine("Press any key to continue...");
                 Console.ReadKey();
+            }
+        }
+
+        private static void FilterByTag(RealEstateContext context)
+        {
+            Console.WriteLine("Enter tags:");
+            string tags = Console.ReadLine();
+
+            IPropertiesService service = new PropertiesService(context);
+
+            var properties = service.TagFilter(tags);
+
+            foreach (var property in properties)
+            {
+                Console.WriteLine(property);
+            }
+        }
+
+        private static void DistrictWithAvgPricePerSquareMeter(RealEstateContext context)
+        {
+            Console.WriteLine("District with average price per m²");
+
+            IDistrictService service = new DistrictService(context);
+
+            var districts = service.DistrictWithAveragePricePerSquareMeter();
+
+            foreach (var district in districts.OrderByDescending(x => x.AveragePricePerSquareMeter))
+            {
+                Console.WriteLine(district);
             }
         }
 
@@ -95,7 +130,7 @@ namespace RealEstates.ConsoleApplication
 
             foreach (var property in properties.Where(x => x.Price > 0))
             {
-                Console.WriteLine($"{++count}. {property.DistrictName}: Price: {property.Price}€ -> Size: {property.Size}, Property type: {property.PropertyType}, Property building type: {property.BuildingType}");
+                Console.WriteLine(property);
             }
         }
     }
