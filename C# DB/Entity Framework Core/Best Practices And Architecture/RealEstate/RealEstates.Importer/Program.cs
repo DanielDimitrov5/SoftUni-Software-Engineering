@@ -18,10 +18,24 @@
         {
             Console.InputEncoding = Encoding.Unicode;
 
-            ImportJson("imot.bg-raw-data-2021-03-18.json");
-            ImportJson("imot.bg-houses-Sofia-raw-data-2021-03-18.json");
-            AddTags();
+            //ImportJson("imot.bg-raw-data-2021-03-18.json");
+            //ImportJson("imot.bg-houses-Sofia-raw-data-2021-03-18.json");
+            //AddTags();
         }
+
+        //private static void HouseTagImporter()
+        //{
+        //    var context = new RealEstateContext();
+
+        //    var houses = context.Properties.Where(x => x.PropertyType.Name == "Къща").ToList();
+
+        //    foreach (var house in houses)
+        //    {
+        //        house.Tags.Clear();
+
+        //        house.AddTag(new Tag(){Name = "Къща"});
+        //    }
+        //}
 
         private static void ImportJson(string jsonFile)
         {
@@ -117,16 +131,17 @@
                     property.AddTag(tags[6]);
                 }
 
-                var topCheapestPropertiesInDistrict = property
-                    .District
-                    .Properties
-                    .ToList()
-                    .Where(x => x.Price != 0)
-                    .OrderBy(x => x.Price / (decimal)x.Size)
-                    .Take(3);
-
                 if (property.District.Properties.Count >= 10)
                 {
+
+                    var topCheapestPropertiesInDistrict = property
+                        .District
+                        .Properties
+                        .ToList()
+                        .Where(x => x.Price != 0)
+                        .OrderBy(x => x.Price / (decimal)x.Size)
+                        .Take(3);
+
                     if (topCheapestPropertiesInDistrict.Any(x => x.Id == property.Id))
                     {
                         property.AddTag(tags[7]);
@@ -137,7 +152,7 @@
             }
 
             stopwatch.Stop();
-            Console.WriteLine($"Data imported for: " + stopwatch.Elapsed);
+            Console.WriteLine($"Data imported for: " + stopwatch.Elapsed); // ~3:30:00 on my PC
         }
     }
 }

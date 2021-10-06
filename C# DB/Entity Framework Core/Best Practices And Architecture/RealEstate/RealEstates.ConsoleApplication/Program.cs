@@ -16,16 +16,44 @@
 
             var context = new RealEstateContext();
 
+            Console.WriteLine("Select language for option list:");
+            Console.WriteLine("1. English");
+            Console.WriteLine("2. Bulgaria");
+
+            bool parsedOption = int.TryParse(Console.ReadLine(), out int input);
+
             while (true)
             {
                 Console.Clear();
-                Console.WriteLine("Chose an option:");
-                Console.WriteLine("1. Property search:");
-                Console.WriteLine("2. District info:");
-                Console.WriteLine("3. Top districts by average price:");
-                Console.WriteLine("4. Districts with average price per m²:");
-                Console.WriteLine("5. Filter by tags:");
-                Console.WriteLine("0. EXIT");
+
+                if (parsedOption)
+                {
+                    if (input == 1)
+                    {
+                        Console.WriteLine("Chose an option:");
+                        Console.WriteLine("1. Property search:");
+                        Console.WriteLine("2. District info:");
+                        Console.WriteLine("3. Top districts by average price:");
+                        Console.WriteLine("4. Districts with average price per m²:");
+                        Console.WriteLine("5. Filter by tags:");
+                        Console.WriteLine("0. EXIT");
+                    }
+                    else if (input == 2)
+                    {
+                        Console.WriteLine("Изберете опция:");
+                        Console.WriteLine("1. Търсене на имущество:");
+                        Console.WriteLine("2. Информация за кварталите:");
+                        Console.WriteLine("3. Топ квартали по средна цена:");
+                        Console.WriteLine("4. Квартали със средна цена за м²:");
+                        Console.WriteLine("5. Филтриране по тагове:");
+                        Console.WriteLine("0. ИЗХОД");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Invalid option!");
+                        break;
+                    }
+                }
 
                 bool parsed = int.TryParse(Console.ReadLine(), out int option);
 
@@ -130,7 +158,7 @@
 
             foreach (var property in properties.Where(x => x.Price > 0))
             {
-                Console.WriteLine(property);
+                Console.WriteLine($"{++count}. {property}");
             }
         }
     }
