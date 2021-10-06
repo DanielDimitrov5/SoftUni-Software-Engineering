@@ -16,7 +16,7 @@
 
             var context = new RealEstateContext();
 
-            Console.WriteLine("Select language for option list:");
+            Console.WriteLine("Select language for the option list:");
             Console.WriteLine("1. English");
             Console.WriteLine("2. Bulgaria");
 
