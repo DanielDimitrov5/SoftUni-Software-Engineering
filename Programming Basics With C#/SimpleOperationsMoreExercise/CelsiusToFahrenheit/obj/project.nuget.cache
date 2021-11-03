@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f4B/HoWp9arL4PIgOGXoxzfciZFMsA7N6zenPNeoWjptcBsm3sVMzAmyjK4C+Se4jS9bMgl4sVkdS0pnvHSSiQ==",
+  "dgSpecHash": "4w3dlrn3b6jfVF40NM7ydmwiQ3fIAvHm13ax/9GWtJVMIkWisBx/UMpmW/gHUm1+20+lj6thAgNTInmul7q8rA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ABC\\source\\repos\\More(SimpleOperations)\\CelsiusToFahrenheit\\CelsiusToFahrenheit.csproj",
+  "projectFilePath": "C:\\SoftUni\\Programming Basics With C#\\SimpleOperationsMoreExercise\\CelsiusToFahrenheit\\CelsiusToFahrenheit.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

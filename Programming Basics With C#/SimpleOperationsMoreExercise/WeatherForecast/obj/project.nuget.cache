@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JWs5X9wrSYfyPuihtwAtg9Y0LmWai/3SiPyvfZ7gl1MeM7MBACO/iFXSAVudQ2M8NHsB75f/k8hsapaPYH4DYw==",
+  "dgSpecHash": "bbaRqvQj51D9V0D8Zl81X9RSEiSSKCVAXx3flXPxC9SPnp6zsDzBpHOwDttdxwk7HMz1GfGoOvmNwH44Zk3sXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ABC\\source\\repos\\More(SimpleOperations)\\WeatherForecast\\WeatherForecast.csproj",
+  "projectFilePath": "C:\\SoftUni\\Programming Basics With C#\\SimpleOperationsMoreExercise\\WeatherForecast\\WeatherForecast.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

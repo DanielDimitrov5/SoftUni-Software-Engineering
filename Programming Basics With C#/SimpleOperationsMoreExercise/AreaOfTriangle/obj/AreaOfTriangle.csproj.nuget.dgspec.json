@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ABC\\source\\repos\\More(SimpleOperations)\\AreaOfTriangle\\AreaOfTriangle.csproj": {}
+    "C:\\SoftUni\\Programming Basics With C#\\SimpleOperationsMoreExercise\\AreaOfTriangle\\AreaOfTriangle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ABC\\source\\repos\\More(SimpleOperations)\\AreaOfTriangle\\AreaOfTriangle.csproj": {
+    "C:\\SoftUni\\Programming Basics With C#\\SimpleOperationsMoreExercise\\AreaOfTriangle\\AreaOfTriangle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ABC\\source\\repos\\More(SimpleOperations)\\AreaOfTriangle\\AreaOfTriangle.csproj",
+        "projectUniqueName": "C:\\SoftUni\\Programming Basics With C#\\SimpleOperationsMoreExercise\\AreaOfTriangle\\AreaOfTriangle.csproj",
         "projectName": "AreaOfTriangle",
-        "projectPath": "C:\\Users\\ABC\\source\\repos\\More(SimpleOperations)\\AreaOfTriangle\\AreaOfTriangle.csproj",
-        "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ABC\\source\\repos\\More(SimpleOperations)\\AreaOfTriangle\\obj\\",
+        "projectPath": "C:\\SoftUni\\Programming Basics With C#\\SimpleOperationsMoreExercise\\AreaOfTriangle\\AreaOfTriangle.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\SoftUni\\Programming Basics With C#\\SimpleOperationsMoreExercise\\AreaOfTriangle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ABC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
