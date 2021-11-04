@@ -1,9 +1,5 @@
-function SquareOfStars(n){
+function SquareOfStars(n = 5){
     let result = '';
-
-    if (n == null) {
-        n = 5;
-    }
 
     for (let i = 0; i < n; i++) {
 
@@ -17,4 +13,4 @@ function SquareOfStars(n){
     console.log(result)
 }
 
-SquareOfStars(6)
+SquareOfStars()
