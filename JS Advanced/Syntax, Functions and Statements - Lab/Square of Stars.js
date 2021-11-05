@@ -13,4 +13,8 @@ function SquareOfStars(n = 5){
     console.log(result)
 }
 
+<<<<<<< HEAD
 SquareOfStars()
+=======
+SquareOfStars()
+>>>>>>> 73984096142fcce0eea794a71324fb7cd09e32fe
