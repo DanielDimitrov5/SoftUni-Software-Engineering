@@ -57,16 +57,16 @@ namespace SIS.MvcFramework
 
         protected void SignIn(string userId)
         {
-            this.Request.SessionData["UserId"] = userId;
+            this.Request.SessionData["User"] = userId;
         }
 
         protected void SignOut()
         {
-            this.Request.SessionData["UserId"] = null;
+            this.Request.SessionData["User"] = null;
         }
 
         public string User =>
-            this.Request.SessionData.ContainsKey("UserId") ?
-                this.Request.SessionData["UserId"] : null;
+            this.Request.SessionData.ContainsKey("User") ?
+                this.Request.SessionData["User"] : null;
     }
 }

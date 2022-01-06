@@ -8,6 +8,12 @@
         [HttpGet("/")]
         public HttpResponse Index()
         {
+            
+            if (IsUserLoggedIn())
+            {
+                return  Redirect("Cards/All");
+            }
+
             return this.View("index");
         }
     }

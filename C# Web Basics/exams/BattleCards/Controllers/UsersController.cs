@@ -61,7 +61,7 @@ namespace BattleCards.Controllers
         {
             if (IsUserLoggedIn())
             {
-                Redirect("/");
+                return Redirect("/");
             }
 
             if (model.Username is null || model.Username.Length < 5 || model.Username.Length > 20)
@@ -104,6 +104,7 @@ namespace BattleCards.Controllers
             return Redirect("/Users/Login");
         }
 
+        [HttpGet("/Logout")]
         public HttpResponse Logout()
         {
             this.SignOut();

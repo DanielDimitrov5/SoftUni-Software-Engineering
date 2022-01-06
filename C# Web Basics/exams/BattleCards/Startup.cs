@@ -1,5 +1,6 @@
 ﻿using BattleCards.Data;
 using BattleCards.Services;
+using Microsoft.EntityFrameworkCore;
 
 namespace BattleCards
 {
@@ -12,12 +13,13 @@ namespace BattleCards
     {
         public void Configure(IList<Route> routeTable)
         {
-            new ApplicationDbContext().Database.EnsureCreated();
+            new ApplicationDbContext().Database.Migrate();
         }
 
         public void ConfigureServices(IServiceCollection serviceCollection)
         {
             serviceCollection.Add<IUserService, UserService>();
+            serviceCollection.Add<ICardService, CardService>();
         }
     }
 }

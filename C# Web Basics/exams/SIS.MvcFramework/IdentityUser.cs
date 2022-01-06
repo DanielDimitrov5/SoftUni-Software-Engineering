@@ -6,7 +6,7 @@ namespace SIS.MvcFramework
     {
         public T Id { get; set; }
 
-        [MaxLength(10)]
+        [MaxLength(20)]
         [Required]
         public string Username { get; set; }
 

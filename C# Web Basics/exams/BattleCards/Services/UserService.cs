@@ -40,7 +40,7 @@ namespace BattleCards.Services
 
         public bool IsEmailAvailable(string email)
         {
-            return !context.Users.Any(x => x.Username == email);
+            return !context.Users.Any(x => x.Email == email);
         }
 
         public bool IsUsernameAvailable(string username)
