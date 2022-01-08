@@ -22,6 +22,7 @@ namespace Git.Data.Models
 
         public bool IsPublic { get; set; }
 
+        [Required]
         public string OwnerId { get; set; }
 
         public User Owner { get; set; }

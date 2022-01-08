@@ -102,7 +102,7 @@ namespace Git.Controllers
         {
             if (!IsUserSignedIn())
             {
-                return Redirect("/Users/Login");
+                return Redirect("/");
             }
 
             SignOut();

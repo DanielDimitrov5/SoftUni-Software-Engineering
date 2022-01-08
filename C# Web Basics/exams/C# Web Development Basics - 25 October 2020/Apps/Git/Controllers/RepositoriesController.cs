@@ -44,10 +44,7 @@ namespace Git.Controllers
 
         public HttpResponse All()
         {
-            var repos = new AllRepositoriesViewModel
-            {
-                Repositories = service.GetAllRepositories()
-            };
+            var repos = service.GetAllRepositories();
 
             return View(repos);
         }
