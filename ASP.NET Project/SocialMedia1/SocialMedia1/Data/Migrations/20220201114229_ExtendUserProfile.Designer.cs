@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using SocialMedia1.Data;
 
@@ -11,9 +12,10 @@ using SocialMedia1.Data;
 namespace SocialMedia1.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20220201114229_ExtendUserProfile")]
+    partial class ExtendUserProfile
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -282,21 +284,6 @@ namespace SocialMedia1.Data.Migrations
                     b.ToTable("UserProfiles");
                 });
 
-            modelBuilder.Entity("UserProfileUserProfile", b =>
-                {
-                    b.Property<string>("FollowedById")
-                        .HasColumnType("nvarchar(450)");
-
-                    b.Property<string>("FollowsId")
-                        .HasColumnType("nvarchar(450)");
-
-                    b.HasKey("FollowedById", "FollowsId");
-
-                    b.HasIndex("FollowsId");
-
-                    b.ToTable("UserProfileUserProfile");
-                });
-
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
                 {
                     b.HasOne("Microsoft.AspNetCore.Identity.IdentityRole", null)
@@ -357,21 +344,6 @@ namespace SocialMedia1.Data.Migrations
                         .IsRequired();
 
                     b.Navigation("UserProfile");
-                });
-
-            modelBuilder.Entity("UserProfileUserProfile", b =>
-                {
-                    b.HasOne("SocialMedia1.Data.Models.UserProfile", null)
-                        .WithMany()
-                        .HasForeignKey("FollowedById")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("SocialMedia1.Data.Models.UserProfile", null)
-                        .WithMany()
-                        .HasForeignKey("FollowsId")
-                        .OnDelete(DeleteBehavior.ClientCascade)
-                        .IsRequired();
                 });
 
             modelBuilder.Entity("SocialMedia1.Data.Models.UserProfile", b =>

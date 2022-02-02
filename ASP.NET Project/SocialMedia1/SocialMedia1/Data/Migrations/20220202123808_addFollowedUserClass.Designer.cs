@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using SocialMedia1.Data;
 
@@ -11,9 +12,10 @@ using SocialMedia1.Data;
 namespace SocialMedia1.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20220202123808_addFollowedUserClass")]
+    partial class addFollowedUserClass
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -224,6 +226,22 @@ namespace SocialMedia1.Data.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("SocialMedia1.Data.Models.FollowedProfile", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("FollowedById")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("FollowedById");
+
+                    b.ToTable("FollowedProfile");
+                });
+
             modelBuilder.Entity("SocialMedia1.Data.Models.Post", b =>
                 {
                     b.Property<string>("Id")
@@ -282,21 +300,6 @@ namespace SocialMedia1.Data.Migrations
                     b.ToTable("UserProfiles");
                 });
 
-            modelBuilder.Entity("UserProfileUserProfile", b =>
-                {
-                    b.Property<string>("FollowedById")
-                        .HasColumnType("nvarchar(450)");
-
-                    b.Property<string>("FollowsId")
-                        .HasColumnType("nvarchar(450)");
-
-                    b.HasKey("FollowedById", "FollowsId");
-
-                    b.HasIndex("FollowsId");
-
-                    b.ToTable("UserProfileUserProfile");
-                });
-
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
                 {
                     b.HasOne("Microsoft.AspNetCore.Identity.IdentityRole", null)
@@ -348,6 +351,17 @@ namespace SocialMedia1.Data.Migrations
                         .IsRequired();
                 });
 
+            modelBuilder.Entity("SocialMedia1.Data.Models.FollowedProfile", b =>
+                {
+                    b.HasOne("SocialMedia1.Data.Models.UserProfile", "FollowedBy")
+                        .WithMany("FollowedUsers")
+                        .HasForeignKey("FollowedById")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("FollowedBy");
+                });
+
             modelBuilder.Entity("SocialMedia1.Data.Models.Post", b =>
                 {
                     b.HasOne("SocialMedia1.Data.Models.UserProfile", "UserProfile")
@@ -359,23 +373,10 @@ namespace SocialMedia1.Data.Migrations
                     b.Navigation("UserProfile");
                 });
 
-            modelBuilder.Entity("UserProfileUserProfile", b =>
-                {
-                    b.HasOne("SocialMedia1.Data.Models.UserProfile", null)
-                        .WithMany()
-                        .HasForeignKey("FollowedById")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("SocialMedia1.Data.Models.UserProfile", null)
-                        .WithMany()
-                        .HasForeignKey("FollowsId")
-                        .OnDelete(DeleteBehavior.ClientCascade)
-                        .IsRequired();
-                });
-
             modelBuilder.Entity("SocialMedia1.Data.Models.UserProfile", b =>
                 {
+                    b.Navigation("FollowedUsers");
+
                     b.Navigation("Posts");
                 });
 #pragma warning restore 612, 618

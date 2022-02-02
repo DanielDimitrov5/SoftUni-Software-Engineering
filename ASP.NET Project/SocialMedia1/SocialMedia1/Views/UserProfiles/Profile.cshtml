@@ -1,13 +1,13 @@
-﻿@model SocialMedia1.Models.MyProfileViewModel
+﻿@model SocialMedia1.Models.ProfileViewModel
 
 @{
-    ViewData["Title"] = "MyProfile";
+    ViewData["Title"] = "Profile";
 }
 
-<h1>MyProfile</h1>
+<h1>Profile</h1>
 
 <div>
-    <h4>MyProfileViewModel</h4>
+    <h4>ProfileViewModel</h4>
     <hr />
     <dl class="row">
         <dt class="col-sm-2">
@@ -62,22 +62,13 @@
 </div>
 <hr />
 
+<a href="/UserProfiles/Follow/@Model.Id" class="btn-success btn">Follow</a>
+
 <h2>Posts:</h2>
 
-@foreach (var post in Model.Posts.OrderByDescending(x => x.CreatedOn))
-{
-    <div>
-        <h4><b>@post.Author</b></h4>
-        <h5>@post.CreatedOn</h5>
-        <p>
-            @post.Content
-        </p>
-    </div>
-}
 
 <hr />
 
 <div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
     <a asp-action="Index">Back to List</a>
 </div>

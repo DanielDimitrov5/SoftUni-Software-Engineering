@@ -1,12 +1,11 @@
 ﻿@model SocialMedia1.Models.ProfileViewModel
 
 @{
-    ViewData["Title"] = "EditUserProfile";
+    ViewData["Title"] = "Edit User Profile";
 }
 
-<h1>EditUserProfile</h1>
+<h1>@ViewData["Title"]</h1>
 
-<h4>EditViewModel</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -14,14 +13,24 @@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="Id" />
             <div class="form-group">
+                <label asp-for="Nickname" class="control-label"></label>
+                <input asp-for="Nickname" class="form-control" />
+                <span asp-validation-for="Nickname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
                 <label asp-for="Name" class="control-label"></label>
-                <input asp-for="Name" class="form-control"/>
+                <input asp-for="Name" class="form-control" />
                 <span asp-validation-for="Name" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Surename" class="control-label"></label>
                 <input asp-for="Surename" class="form-control" />
                 <span asp-validation-for="Surename" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsPrivate" /> @Html.DisplayNameFor(model => model.IsPrivate)
+                </label>
             </div>
             <div class="form-group">
                 <label asp-for="City" class="control-label"></label>
@@ -55,5 +64,7 @@
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+    await Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
 }

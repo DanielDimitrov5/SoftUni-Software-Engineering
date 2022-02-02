@@ -24,6 +24,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options =>
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddTransient<IUserProfileService, UserProfileService>();
+builder.Services.AddTransient<IPostService, PostService>();
 
 
 var app = builder.Build();
