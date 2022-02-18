@@ -1,0 +1,29 @@
+﻿@model IEnumerable<SocialMedia1.Models.FollowRequestViewModel>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nickname)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nickname)
+                </td>
+                <td>
+                    <a href="/UserProfiles/ApproveFollowRequest?requesterId=@item.RequesterId&currentUserId=@item.CurrentUserId" class="btn-success btn">Approve Request</a>
+                    <a href="/UserProfiles/DeleteFollowRequest?requesterId=@item.RequesterId" class="btn-danger btn">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -8,7 +8,8 @@ namespace SocialMedia1.Data.Models
         {
             Posts = new HashSet<Post>();
             Follows = new HashSet<UserProfile>();
-            FollowedBy = new HashSet<UserProfile>();
+            FollowedBy  = new HashSet<UserProfile>();
+            FollowRequests = new HashSet<FollowRequest>();
         }
 
         [Key]
@@ -32,10 +33,12 @@ namespace SocialMedia1.Data.Models
 
         public bool IsPrivate { get; set; }
 
-        public ICollection<Post> Posts { get; set; }
+        public virtual ICollection<Post> Posts { get; set; }
 
-        public ICollection<UserProfile> Follows { get; set; }
+        public virtual ICollection<UserProfile> Follows { get; set; }
 
-        public ICollection<UserProfile> FollowedBy { get; set; }
-    }
+        public virtual ICollection<UserProfile> FollowedBy { get; set; }
+
+        public virtual ICollection<FollowRequest> FollowRequests { get; set; }
+}
 }

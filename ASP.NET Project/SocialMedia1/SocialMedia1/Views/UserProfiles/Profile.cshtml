@@ -1,4 +1,11 @@
-﻿@model SocialMedia1.Models.ProfileViewModel
+﻿@using Microsoft.AspNetCore.Identity
+@using SocialMedia1.Services
+@using System.Security.Claims
+@inject SignInManager<IdentityUser> SignInManager
+@model SocialMedia1.Models.ProfileViewModel
+@inject IUserProfileService userProfileService
+@inject UserManager<IdentityUser> userManager
+
 
 @{
     ViewData["Title"] = "Profile";
@@ -23,10 +30,10 @@
             @Html.DisplayFor(model => model.Name)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Surename)
+            @Html.DisplayNameFor(model => model.Surname)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Surename)
+            @Html.DisplayFor(model => model.Surname)
         </dd>
         <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.City)
@@ -61,11 +68,34 @@
     </dl>
 </div>
 <hr />
-
-<a href="/UserProfiles/Follow/@Model.Id" class="btn-success btn">Follow</a>
+@if (userProfileService.IsUserFollowed(@User.FindFirstValue(ClaimTypes.NameIdentifier), @Model.Id))
+{
+    <a href="/UserProfiles/Unfollow/@Model.Id" class="btn-danger btn">Unfollow</a>
+}
+else
+{
+    @if (userProfileService.CheckIfFollowRequestIsSent(@Model.Id, @User.FindFirstValue(ClaimTypes.NameIdentifier)))
+    {
+        <button type="button" disabled>Request Sent</button>
+    }
+    else
+    {
+        <a href="/UserProfiles/Follow/@Model.Id" class="btn-success btn">Follow</a>
+    }
+}
 
 <h2>Posts:</h2>
 
+@foreach (var post in Model.Posts.OrderByDescending(x => x.CreatedOn))
+{
+    <div>
+        <h4><b>@post.Author</b></h4>
+        <h5>@post.CreatedOn</h5>
+        <p>
+            @post.Content
+        </p>
+    </div>
+}
 
 <hr />
 

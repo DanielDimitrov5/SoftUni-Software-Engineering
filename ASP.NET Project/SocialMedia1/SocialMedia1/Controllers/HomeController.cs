@@ -11,19 +11,30 @@ namespace SocialMedia1.Controllers
         private readonly ILogger<HomeController> _logger;
         private readonly IPostService postService;
         private readonly UserManager<IdentityUser> userManager;
+        private readonly IUserProfileService userProfileService;
 
-        public HomeController(ILogger<HomeController> logger, IPostService postService, UserManager<IdentityUser> userManager)
+        public HomeController(ILogger<HomeController> logger, IPostService postService, UserManager<IdentityUser> userManager, IUserProfileService userProfileService)
         {
             _logger = logger;
             this.postService = postService;
             this.userManager = userManager;
+            this.userProfileService = userProfileService;
         }
 
         public IActionResult Index()
         {
             var userId = userManager.GetUserId(HttpContext.User);
 
-            var model = postService.GetAllPostsByFollowedUsers(userId);
+            var postModel = postService.GetAllPostsByFollowedUsers(userId);
+
+            return View(postModel);
+        }
+
+        public IActionResult FollowRequests()
+        {
+            var userId = userManager.GetUserId(HttpContext.User);
+
+            var model = userProfileService.GetAllFollowRequests(userId);
 
             return View(model);
         }
