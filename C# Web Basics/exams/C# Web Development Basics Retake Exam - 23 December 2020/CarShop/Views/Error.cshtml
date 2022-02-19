@@ -1,0 +1,12 @@
+﻿<div class="alert alert-danger alert-dismissable">
+    <a href="javascript:window.history.back()" class="close" aria-label="close">×</a>
+    <strong>Error!</strong>
+
+    <ul>
+        @foreach (var error in Model)
+        {
+            <li>@error</li>
+        }
+    </ul>
+
+</div>

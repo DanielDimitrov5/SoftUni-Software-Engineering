@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWebServer", "MyWebServer\MyWebServer.csproj", "{B1F82939-1C64-439C-8897-CBDC6A015D55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarShop", "CarShop\CarShop.csproj", "{A9DD104E-0424-498A-9372-D3B663F236F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1F82939-1C64-439C-8897-CBDC6A015D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F82939-1C64-439C-8897-CBDC6A015D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F82939-1C64-439C-8897-CBDC6A015D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F82939-1C64-439C-8897-CBDC6A015D55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9DD104E-0424-498A-9372-D3B663F236F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9DD104E-0424-498A-9372-D3B663F236F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9DD104E-0424-498A-9372-D3B663F236F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9DD104E-0424-498A-9372-D3B663F236F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB8B7631-A3C8-41FE-9A70-1B4147A5A3F4}
+	EndGlobalSection
+EndGlobal
