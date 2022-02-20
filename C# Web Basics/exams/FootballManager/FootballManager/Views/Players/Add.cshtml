@@ -1,0 +1,55 @@
+﻿<h1 class="text-center mt-2">Add Player</h1>
+<div class="row mt-4 mb-4">
+    <div id="player" class="player col-6 col-lg-3 game-player h-100 m-auto">
+        <img id="player-image"
+             src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+             class="player-img-top img-fluid player-image">
+        <div class="player-body">
+            <h5 id="player-name" class="player-title text-center" data-toggle="tooltip" data-placement="bottom"
+                title="Description:<br>Placeholder.">
+                Placeholder
+            </h5>
+            <ul class="list-group list-group-flush">
+                <li id="player-position" class="list-group-item text-center">Placeholder</li>
+                <li class="list-group-item">
+                    <span id="player-speed" class="speed-stat">0</span><span id="player-endurance" class="endurance-stat">0</span>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <form class="col-6 col-lg-9" method="post">
+        <div class="form-group">
+            <label for="name-input">Full Name</label>
+            <input name="fullName" type="text" class="form-control" id="name-input">
+        </div>
+        <div class="form-group">
+            <label for="image-input">Image URL</label>
+            <input name="imageUrl" type="text" class="form-control" id="image-input">
+        </div>
+        <div class="form-group">
+            <label for="position-input">Position</label>
+            <select name="position" class="form-control" id="position-input">
+                <option value="Goalkeeper">Goalkeeper</option>
+                <option value="Right Fullback">Right Fullback</option>
+                <option value="Left Fullback">Left Fullback</option>
+                <option value="Center Back">Center Back</option>
+                <option value="Defender">Defender</option>
+                <option value="Striker">Striker</option>
+                <option value="Winger">Winger</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="speed-input">Speed</label>
+            <input name="speed" type="number" class="form-control" id="speed-input" value="0" min="0" max="10">
+        </div>
+        <div class="form-group">
+            <label for="endurance-input">Endurance</label>
+            <input name="endurance" type="number" class="form-control" id="endurance-input" value="0" min="0" max="10">
+        </div>
+        <div class="form-group">
+            <label for="description-input">Description</label>
+            <textarea name="description" class="form-control" id="description-input"></textarea>
+        </div>
+        <button type="submit" class="btn btn-block btn-primary">Create</button>
+    </form>
+</div>
