@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using SocialMedia1.Data;
 
@@ -11,9 +12,10 @@ using SocialMedia1.Data;
 namespace SocialMedia1.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20220222162807_typoFix")]
+    partial class typoFix
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -297,6 +299,92 @@ namespace SocialMedia1.Migrations
                     b.ToTable("UserProfiles");
                 });
 
+            modelBuilder.Entity("SocialMedia1.Models.FollowRequestViewModel", b =>
+                {
+                    b.Property<string>("RequesterId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("CurrentUserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Nickname")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("RequesterId");
+
+                    b.ToTable("FollowRequestViewModel");
+                });
+
+            modelBuilder.Entity("SocialMedia1.Models.PostViewModel", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("Author")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("AuthorId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Content")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("CreatedOn")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("ProfileViewModelId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ProfileViewModelId");
+
+                    b.ToTable("PostViewModel");
+                });
+
+            modelBuilder.Entity("SocialMedia1.Models.ProfileViewModel", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<int>("Age")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Bio")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("Birthday")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("City")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("EmailAddress")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsPrivate")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Nickname")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Surname")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("ProfileViewModel");
+                });
+
             modelBuilder.Entity("UserProfileUserProfile", b =>
                 {
                     b.Property<string>("FollowedById")
@@ -393,6 +481,13 @@ namespace SocialMedia1.Migrations
                     b.Navigation("UserProfile");
                 });
 
+            modelBuilder.Entity("SocialMedia1.Models.PostViewModel", b =>
+                {
+                    b.HasOne("SocialMedia1.Models.ProfileViewModel", null)
+                        .WithMany("Posts")
+                        .HasForeignKey("ProfileViewModelId");
+                });
+
             modelBuilder.Entity("UserProfileUserProfile", b =>
                 {
                     b.HasOne("SocialMedia1.Data.Models.UserProfile", null)
@@ -412,6 +507,11 @@ namespace SocialMedia1.Migrations
                 {
                     b.Navigation("FollowRequests");
 
+                    b.Navigation("Posts");
+                });
+
+            modelBuilder.Entity("SocialMedia1.Models.ProfileViewModel", b =>
+                {
                     b.Navigation("Posts");
                 });
 #pragma warning restore 612, 618

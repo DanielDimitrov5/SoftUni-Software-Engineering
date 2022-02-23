@@ -24,5 +24,13 @@ namespace SocialMedia1.Services
         bool CheckIfFollowRequestIsSent(string userId, string currentsUserId);
 
         public ICollection<FollowRequestViewModel> GetAllFollowRequests(string currentUserId);
+
+        public ICollection<ProfileViewModel> GetProfilesBySearchTerm(string searchTerm);
+
+        public ICollection<ProfileViewModel> GetAllFollowers(string currentUserId);
+
+        public void RemoveFollower(string currentUserId, string followerId);
+
+        public ICollection<ProfileViewModel> GetAllFollowing(string currentUserId);
     }
 }

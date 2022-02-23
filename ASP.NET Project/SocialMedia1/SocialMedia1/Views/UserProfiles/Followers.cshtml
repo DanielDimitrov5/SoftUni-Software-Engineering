@@ -1,0 +1,27 @@
+﻿@model IEnumerable<SocialMedia1.Models.ProfileViewModel>
+
+<h4>Followers</h4>
+
+<table class="table table-hover table-stripted">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nickname)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr onclick="window.location='Profile/@item.Id';">
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nickname)
+                </td>
+                <td>
+                    <a href="/UserProfiles/RemoveFollower/@item.Id" class="btn-danger btn">Remove</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

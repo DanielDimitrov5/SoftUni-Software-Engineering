@@ -34,6 +34,20 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Posts" asp-action="CreatePost">Create Post</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="FollowRequests">Follow Requests</a>
+                        </li>
+                        <li>
+                            <div class="navbar-left" style="margin-top:8px;">
+                                @using (Html.BeginForm("Search", "UserProfiles", FormMethod.Get))
+                                {
+                                    <ul class="nav navbar-nav">
+                                        <li>@Html.TextBox("SearchTerm", ViewBag.CurrentFilter as string)</li>
+                                        <li><input type="submit" value="Search" /></li>
+                                    </ul>
+                                }
+                            </div>
+                        </li>
                     </ul>
                     <partial name="_LoginPartial" />
                 </div>

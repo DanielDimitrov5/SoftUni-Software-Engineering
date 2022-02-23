@@ -36,7 +36,7 @@ namespace SocialMedia1.Services
 
             userProfile.Nickname = nickname;
             userProfile.Name = name;
-            userProfile.Surename = surename;
+            userProfile.Surname = surename;
             userProfile.IsPrivate = IsPrivate;
             userProfile.City = city;
             userProfile.Birthday = birthday;
@@ -143,7 +143,15 @@ namespace SocialMedia1.Services
 
         public ProfileViewModel GetUserProfileData(string id)
         {
-            UserProfile user = context.UserProfiles.First(x => x.Id == id);
+            UserProfile user = context.UserProfiles.FirstOrDefault(x => x.Id == id);
+
+            if (user == null)
+            {
+                return null;
+            }
+
+            context.Entry(user).Collection(x => x.FollowedBy).Load();
+            context.Entry(user).Collection(x => x.Follows).Load();
 
             var posts = postService.GetAllPosts(id);
 
@@ -152,13 +160,15 @@ namespace SocialMedia1.Services
                 Id = user.Id,
                 Nickname = user.Nickname,
                 Name = user.Name,
-                Surname = user.Surename,
+                Surname = user.Surname,
                 City = user.City,
                 Age = user.Age,
                 Birthday = user.Birthday,
                 EmailAddress = user.EmailAddress,
                 Bio = user.Bio,
-                Posts = posts
+                Posts = posts,
+                FollowersCount = user.FollowedBy.Count(),
+                FollowingCount = user.Follows.Count(),
             };
 
             return model;
@@ -199,6 +209,64 @@ namespace SocialMedia1.Services
             return user is null || currentUser is null;
         }
 
-        
+        public ICollection<ProfileViewModel> GetProfilesBySearchTerm(string searchTerm)
+        {
+            var profiles = context.UserProfiles
+                .Where(x => x.Nickname.Contains(searchTerm)
+                         || x.Name.Contains(searchTerm)
+                         || x.Surname.Contains(searchTerm)
+                         || (x.Name + x.Surname).Contains(searchTerm))
+                .Select(x => new ProfileViewModel
+                {
+                    Id = x.Id,
+                    Nickname = x.Nickname,
+                    Name = x.Name,
+                    Surname = x.Surname,
+                })
+                .ToList();
+
+            return profiles;
+        }
+
+        public ICollection<ProfileViewModel> GetAllFollowers(string currentUserId)
+        {
+            var followers = context.UserProfiles.Where(x => x.Follows.Any(x => x.Id == currentUserId))
+                .Select(x => new ProfileViewModel
+                {
+                    Id = x.Id,
+                    Nickname = x.Nickname,
+                }).ToList();
+
+            return followers;
+        }
+
+        public void RemoveFollower(string currentUserId, string followerId)
+        {
+            var currentUser = context.UserProfiles.Find(currentUserId);
+
+            context.Entry(currentUser).Collection(x => x.FollowedBy).Load();
+
+            var follower = context.UserProfiles.Find(followerId);
+
+            currentUser.FollowedBy.Remove(follower);
+
+            context.SaveChanges();
+        }
+
+        public ICollection<ProfileViewModel> GetAllFollowing(string currentUserId)
+        {
+            var user = context.UserProfiles.Find(currentUserId);
+
+            context.Entry(user).Collection(x => x.Follows).Load();
+
+            var following = user.Follows
+                 .Select(x => new ProfileViewModel
+                 {
+                     Id = x.Id,
+                     Nickname = x.Nickname,
+                 }).ToList();
+
+            return following;
+        }
     }
 }

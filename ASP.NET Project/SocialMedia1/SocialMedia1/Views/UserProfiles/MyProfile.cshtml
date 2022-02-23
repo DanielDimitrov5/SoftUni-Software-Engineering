@@ -4,10 +4,12 @@
     ViewData["Title"] = "MyProfile";
 }
 
-<h1>MyProfile</h1>
+<h1>My Profile</h1>
+
+<a href="/UserProfiles/Followers" class="btn btn-outline-success">Followers: @Model.FollowersCount</a>
+<a href="/UserProfiles/Following" class="btn btn-outline-success">Following: @Model.FollowingCount</a>
 
 <div>
-    <h4>MyProfileViewModel</h4>
     <hr />
     <dl class="row">
         <dt class="col-sm-2">
@@ -77,7 +79,3 @@
 
 <hr />
 
-<div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
-</div>

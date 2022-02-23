@@ -1,9 +1,6 @@
 ﻿@model IEnumerable<SocialMedia1.Models.FollowRequestViewModel>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
+<table class="table table-striped table-hover">
     <thead>
         <tr>
             <th>
@@ -15,7 +12,7 @@
     <tbody>
         @foreach (var item in Model)
         {
-            <tr>
+            <tr onclick="window.location='/UserProfiles/Profile/@item.RequesterId';">
                 <td>
                     @Html.DisplayFor(modelItem => item.Nickname)
                 </td>

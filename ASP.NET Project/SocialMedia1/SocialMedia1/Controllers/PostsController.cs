@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using SocialMedia1.Models;
@@ -17,12 +18,14 @@ namespace SocialMedia1.Controllers
             this.userManager = userManager;
         }
 
+        [Authorize]
         public IActionResult CreatePost()
         {
             return View();
         }
 
         [HttpPost]
+        [Authorize]
         public IActionResult CreatePost(CreatePostViewModel model)
         {
             var userId = userManager.GetUserId(HttpContext.User);

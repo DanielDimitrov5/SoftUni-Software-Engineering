@@ -32,5 +32,9 @@ namespace SocialMedia1.Models
         public string? Bio { get; set; }
 
         public ICollection<PostViewModel> Posts { get; set; }
+
+        public int FollowersCount { get; set; }
+
+        public int FollowingCount { get; set; }
     }
 }

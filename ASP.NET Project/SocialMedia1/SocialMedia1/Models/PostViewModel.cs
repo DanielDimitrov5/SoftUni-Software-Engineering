@@ -9,6 +9,8 @@ namespace SocialMedia1.Models
 
         public string Author { get; set; }
 
+        public string AuthorId { get; set; }
+
         public string Content { get; set; }
 
         public DateTime CreatedOn { get; set; }

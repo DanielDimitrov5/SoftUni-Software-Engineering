@@ -33,6 +33,7 @@ namespace SocialMedia1.Services
             return context.Posts.Where(x => x.UserProfileId == userId).Select(x => new PostViewModel
             {
                 Author = x.UserProfile.Name,
+                AuthorId = x.UserProfile.Id,
                 Content = x.Content,
                 CreatedOn = x.CreatedOn
             }).ToList();
@@ -53,6 +54,7 @@ namespace SocialMedia1.Services
                 .Select(x => new PostViewModel
                 {
                     Author = context.UserProfiles.Find(x.UserProfileId).Nickname,
+                    AuthorId = x.UserProfile.Id,
                     Content = x.Content,
                     Id = x.Id,
                     CreatedOn = x.CreatedOn,

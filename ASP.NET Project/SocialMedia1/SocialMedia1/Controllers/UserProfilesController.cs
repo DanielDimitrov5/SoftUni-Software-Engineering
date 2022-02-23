@@ -56,9 +56,15 @@ namespace SocialMedia1.Controllers
 
             var model = userProfileService.GetUserProfileData(id);
 
+            if (model is null)
+            {
+                return Redirect("/");
+            }
+
             return View(model);
         }
 
+        [Authorize]
         public IActionResult Follow(string id)
         {
             userProfileService.FollowUser(id, userManager.GetUserId(HttpContext.User));
@@ -66,6 +72,7 @@ namespace SocialMedia1.Controllers
             return Redirect($"/UserProfiles/Profile/{id}");
         }
 
+        [Authorize]
         public IActionResult Unfollow(string id)
         {
             userProfileService.UnfollowUser(id, userManager.GetUserId(HttpContext.User));
@@ -73,6 +80,7 @@ namespace SocialMedia1.Controllers
             return Redirect($"/UserProfiles/Profile/{id}");
         }
 
+        [Authorize]
         public IActionResult ApproveFollowRequest(string requesterId, string currentUserId)
         {
             userProfileService.ApproveFollowRequest(requesterId, currentUserId);
@@ -80,11 +88,52 @@ namespace SocialMedia1.Controllers
             return Redirect("/Home/FollowRequests");
         }
 
+        [Authorize]
         public IActionResult DeleteFollowRequest(string requesterId)
         {
             userProfileService.DeleteRequest(requesterId);
 
             return Redirect("/Home/FollowRequests");
+        }
+
+        [Authorize]
+        public IActionResult Search(string searchTerm)
+        {
+            var model = userProfileService.GetProfilesBySearchTerm(searchTerm);
+
+            return View(model);
+        }
+
+        [Authorize]
+        public IActionResult Followers()
+        {
+            var model = userProfileService.GetAllFollowers(userManager.GetUserId(HttpContext.User));
+
+            return View(model);
+        }
+
+        [Authorize]
+        public IActionResult RemoveFollower(string id)
+        {
+            userProfileService.RemoveFollower(userManager.GetUserId(HttpContext.User), id);
+
+            return Redirect("/UserProfiles/Followers");
+        }
+
+        [Authorize]
+        public IActionResult Following()
+        {
+            var model = userProfileService.GetAllFollowing(userManager.GetUserId(HttpContext.User));
+
+            return View(model);
+        }
+
+        [Authorize]
+        public IActionResult UnfollowUser(string id)
+        {
+            userProfileService.UnfollowUser(id, userManager.GetUserId(HttpContext.User));
+
+            return Redirect("/UserProfiles/Following");
         }
     }
 }
