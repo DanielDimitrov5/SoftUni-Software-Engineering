@@ -30,7 +30,7 @@
 | <a href="https://softuni.bg/trainings/3343/csharp-advanced-may-2021"> C# OOP </a>                                                      | <a href="https://softuni.bg/certificates/details/113135/a900c745"> Link</a> |
 | <a href="https://softuni.bg/trainings/3491/ms-sql-september-2021"> Databases Basics - MS SQL Server </a>   | <a href="https://softuni.bg/certificates/details/114120/ed68aac5"> Link</a> |
 | <a href="https://softuni.bg/trainings/3492/entity-framework-core-october-2021"> Entity Framework Core </a>                         | <a href="https://softuni.bg/certificates/details/119220/fccfa7c9"> Link</a> |
-| <a href="https://softuni.bg/trainings/3353/csharp-web-basics-basics-may-2021"> C# Web Basics </a>                                     | <a href="https://softuni.bg/users/profile/certificates?username=daniel_dimitrov5"> Link</a> |
+| <a href="https://softuni.bg/trainings/3353/csharp-web-basics-basics-may-2021"> C# Web Basics </a>                                     | <a href="https://softuni.bg/certificates/details/126392/9458eebd"> Link</a> |
 | <a href="https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021"> ASP.NET Core </a>                                          | <a href="#"> Soon</a> |
 
 </td>
