@@ -10,6 +10,7 @@ namespace SocialMedia1.Data.Models
             Follows = new HashSet<UserProfile>();
             FollowedBy  = new HashSet<UserProfile>();
             FollowRequests = new HashSet<FollowRequest>();
+            Groups = new HashSet<UserProfileGroup>();
         }
 
         [Key]
@@ -40,5 +41,7 @@ namespace SocialMedia1.Data.Models
         public virtual ICollection<UserProfile> FollowedBy { get; set; }
 
         public virtual ICollection<FollowRequest> FollowRequests { get; set; }
-}
+
+        public virtual ICollection<UserProfileGroup> Groups { get; set; }
+    }
 }

@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Identity;
-using SocialMedia1.Data;
+﻿using SocialMedia1.Data;
 using SocialMedia1.Data.Models;
 using SocialMedia1.Models;
 
@@ -32,7 +31,7 @@ namespace SocialMedia1.Services
         {
             return context.Posts.Where(x => x.UserProfileId == userId).Select(x => new PostViewModel
             {
-                Author = x.UserProfile.Name,
+                Author = x.UserProfile.Nickname,
                 AuthorId = x.UserProfile.Id,
                 Content = x.Content,
                 CreatedOn = x.CreatedOn
@@ -49,17 +48,18 @@ namespace SocialMedia1.Services
             var currentUser = context.UserProfiles.First(x => x.Id == userId);
 
             var posts = context.UserProfiles.Where(x => x.FollowedBy.Contains(currentUser))
-                .SelectMany(x => x.Posts)
-                .ToList()
-                .Select(x => new PostViewModel
-                {
-                    Author = context.UserProfiles.Find(x.UserProfileId).Nickname,
-                    AuthorId = x.UserProfile.Id,
-                    Content = x.Content,
-                    Id = x.Id,
-                    CreatedOn = x.CreatedOn,
-                })
-                .ToList();
+            .SelectMany(x => x.Posts)
+            .ToList()
+            .Where(x => x.GroupId is null)
+            .Select(x => new PostViewModel
+            {
+                Author = context.UserProfiles.Find(x.UserProfileId).Nickname,
+                AuthorId = x.UserProfile.Id,
+                Content = x.Content,
+                Id = x.Id,
+                CreatedOn = x.CreatedOn,
+            })
+            .ToList();
 
             return posts;
         }

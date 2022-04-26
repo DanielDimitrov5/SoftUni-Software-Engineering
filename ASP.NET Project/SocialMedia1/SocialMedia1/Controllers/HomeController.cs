@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using SocialMedia1.Models;
 using SocialMedia1.Services;
@@ -12,13 +13,15 @@ namespace SocialMedia1.Controllers
         private readonly IPostService postService;
         private readonly UserManager<IdentityUser> userManager;
         private readonly IUserProfileService userProfileService;
+        private readonly IGroupService groupService;
 
-        public HomeController(ILogger<HomeController> logger, IPostService postService, UserManager<IdentityUser> userManager, IUserProfileService userProfileService)
+        public HomeController(ILogger<HomeController> logger, IPostService postService, UserManager<IdentityUser> userManager, IUserProfileService userProfileService, IGroupService groupService)
         {
             _logger = logger;
             this.postService = postService;
             this.userManager = userManager;
             this.userProfileService = userProfileService;
+            this.groupService = groupService;
         }
 
         public IActionResult Index()
@@ -30,11 +33,22 @@ namespace SocialMedia1.Controllers
             return View(postModel);
         }
 
+        [Authorize]
         public IActionResult FollowRequests()
         {
             var userId = userManager.GetUserId(HttpContext.User);
 
             var model = userProfileService.GetAllFollowRequests(userId);
+
+            return View(model);
+        }
+
+        [Authorize]
+        public IActionResult Groups()
+        {
+            var userId = userManager.GetUserId(HttpContext.User);
+
+            var model = groupService.GetGroups(userId);
 
             return View(model);
         }
